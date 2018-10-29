@@ -1,4 +1,4 @@
-service: insultbot
+service: botpub
 
 plugins:
   - serverless-plugin-scripts
@@ -35,8 +35,7 @@ provider:
 
   environment:
     LOG_LEVEL: ${env:LOG_LEVEL, "debug"}
-    HOSTNAME: ${env:HOSTNAME, "insultron.lmorchard.com"}
-    ACTOR_NAME: ${env:ACTOR_NAME, "Insultron2000"}
+    HOSTNAME: ${env:HOSTNAME, "botpub.lmorchard.com"}
     QUEUE_NAME: ${self:custom.resourceNames.sqs}
     STATIC_BUCKET: ${self:custom.resourceNames.staticBucket}
 
@@ -98,12 +97,18 @@ functions:
     name: ${self:custom.prefix}-inboxPost
     events:
       - http: POST inbox
+      - http:
+          method: POST
+          path: inbox/{name}
 
   outboxGet:
     handler: functions/outbox.get
     name: ${self:custom.prefix}-outboxGet
     events:
       - http: GET outbox
+      - http:
+          method: GET
+          path: outbox/{name}
 
   #periodic:
   #  timeout: 60

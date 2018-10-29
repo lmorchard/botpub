@@ -1,12 +1,14 @@
 #!/usr/bin/env
 const path = require("path");
 const fs = require("fs-extra");
+const assign = Object.assign;
+
+const { withContext } = require("../lib/utils");
+const html = require("../lib/html");
+const mkconfig = require("../lib/config");
 
 const BUILD_PATH = path.join(__dirname, "..", "build");
 const STATIC_PATH = path.join(__dirname, "..", "static");
-
-const html = require("../lib/html");
-const mkconfig = require("../lib/config");
 
 async function init() {
   const config = await mkconfig();
@@ -18,74 +20,78 @@ async function init() {
   console.log("Copying static resources.");
   await fs.copy(STATIC_PATH, BUILD_PATH);
 
-  console.log("Building static resources:");
-  await Promise.all([
-    hostmeta,
-    actor,
-    indexHTML,
-  ].map(async (fn) => {
-    const [ name, content ] = await fn(config);
-    console.log(`\t${name}`);
-    fs.outputFile(path.join(BUILD_PATH, name), content);
-  }));
+  console.log("Building static resources.");
+  await fs.outputFile(
+    path.join(BUILD_PATH, "index.html"),
+    await html.index(config)
+  );
+  await fs.outputFile(
+    path.join(BUILD_PATH, ".well-known/host-meta"),
+    await hostmeta(config)
+  );
+
+  console.log("Building bot resources:");
+  for (let [ name, bot ] of Object.entries(config.bots)) {
+    console.log("\t", name);
+    const srcPath = path.join(config.BOTS_PATH, name);
+    const destPath = path.join(BUILD_PATH, name);
+    await fs.copy(
+      path.join(srcPath, "avatar.png"),
+      path.join(destPath, "avatar.png")
+    );
+    const actor = actorData(config, bot);
+    await fs.outputFile(
+      path.join(destPath, "actor.json"),
+      json(actor)
+    );
+    await fs.outputFile(
+      path.join(destPath, "index.html"),
+      await html.actor(actor)
+    );
+  }
 }
 
 const json = data => JSON.stringify(data, null, "  ");
 
-const hostmeta = async ({ SITE_URL }) => [
-  ".well-known/host-meta",
+const hostmeta = async ({ SITE_URL }) =>
   `<?xml version="1.0" encoding="UTF-8"?>
     <XRD xmlns="http://docs.oasis-open.org/ns/xri/xrd-1.0">
       <Link
         rel="lrdd"
         type="application/xrd+xml"
         template="${SITE_URL}/.well-known/webfinger?resource={uri}" />
-    </XRD>`.trim(),
-];
-
-const actor = async config => [
-  "actor.json",
-  json(actorData(config)),
-];
-
-const indexHTML = async config => [
-  "index.html",
-  await html.actor(actorData(config)),
-];
+    </XRD>`.trim();
 
 const actorData = ({
-  ACTOR_NAME,
   SITE_URL,
-  ACTOR_URL,
   PUBLIC_KEY,
-}) => ({
-  "@context": [
-    "https://www.w3.org/ns/activitystreams",
-    "https://w3id.org/security/v1",
-  ],
+}, {
+  profile: {
+    name,
+    summary,
+  },
+  publicKeyPem,
+}) => withContext({
   type: "Person",
-  id: ACTOR_URL,
-  url: SITE_URL,
-  name: ACTOR_NAME,
-  preferredUsername: ACTOR_NAME,
-  inbox: `${SITE_URL}/inbox`,
-  outbox: `${SITE_URL}/outbox`,
-  summary: `<p>
-    I am Insultron2000. I am here to serve you. With insults.
-    Follow me for automatic service! I belong to
-    <a href="https://lmorchard.com">lmorchard</a>
-    and you may peer at my innards,
-    <a href="https://github.com/lmorchard/insultbot">if you like</a>.
-  </p>`.trim(),
+  id: `${SITE_URL}/${name}/actor.json`,
+  url: `${SITE_URL}/${name}/index.html`,
+  name: name,
+  preferredUsername: name,
+  summary,
+  inbox: `${SITE_URL}/inbox/${name}`,
+  outbox: `${SITE_URL}/outbox/${name}`,
+  endpoints: {
+    sharedInbox: `${SITE_URL}/inbox/`,
+  },
   icon: {
     type: "Image",
     mediaType: "image/png",
-    url: `${SITE_URL}/avatar.png`,
+    url: `${SITE_URL}/${name}/avatar.png`,
   },
   publicKey: {
-    id: `${ACTOR_URL}#main-key`,
-    owner: ACTOR_URL,
-    publicKeyPem: PUBLIC_KEY,
+    id: `${SITE_URL}/${name}/actor.json#main-key`,
+    owner: `${SITE_URL}/${name}/actor.json`,
+    publicKeyPem,
   },
 });
 

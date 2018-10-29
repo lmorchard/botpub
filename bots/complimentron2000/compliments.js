@@ -1,3 +1,4 @@
+const path = require("path");
 const { loadTextLines, pick } = require("./utils");
 
 exports.init = async () => {
@@ -10,7 +11,7 @@ exports.generate = async () => {
 };
 
 exports.initShakespeare = async () =>
-  (await loadTextLines("data/shakespeare.txt"))
+  (await loadTextLines(path.join(__dirname, "..", "shakespeare.txt")))
     .map(line => line.split(/\s+/))
     .reduce(
       ([col1, col2, col3], [i1, i2, i3]) => [
@@ -28,3 +29,4 @@ exports.generateShakespeare = async () =>
     pick(exports.shakespeare[1]),
     pick(exports.shakespeare[2]),
   ].join(" ");
+

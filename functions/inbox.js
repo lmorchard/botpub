@@ -8,9 +8,9 @@ const { enqueue } = require("./queue");
 
 module.exports.post = async (event, context) => {
   const config = await setupConfig({ event, context });
-  const { log, HOSTNAME } = config;
+  const { log, bots, HOSTNAME } = config;
 
-  const { httpMethod: method, path, headers, body } = event;
+  const { httpMethod: method, path, pathParameters = {}, headers, body } = event;
 
   let activity;
   try {

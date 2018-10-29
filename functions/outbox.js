@@ -10,10 +10,12 @@ const html = require("../lib/html");
 const MAX_ITEMS = 15;
 
 module.exports.get = async (event, context) => {
-  const { log, SITE_URL, STATIC_BUCKET: Bucket } = await config({
+  const { log, bots, SITE_URL, STATIC_BUCKET: Bucket } = await config({
     event,
     context,
   });
+
+  const { httpMethod: method, path, pathParameters = {}, headers, body } = event;
 
   // TODO: Better error handling for these S3 requests
 

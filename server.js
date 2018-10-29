@@ -7,11 +7,7 @@ const Router = require("koa-router");
 
 Object.assign(process.env, {
   LOG_LEVEL: "debug",
-  HOSTNAME: "insultron.lmorchard.com",
-  ACTOR_NAME: "Insultron2000",
   QUEUE_NAME: "insultbot-dev-messages",
-  OBJECTS_TABLE: "insultbot-dev-objects",
-  FOLLOWERS_TABLE: "insultbot-dev-followers",
   STATIC_BUCKET: "insultbot-dev-site",
 }, process.env);
 

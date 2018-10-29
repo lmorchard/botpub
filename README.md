@@ -1,11 +1,10 @@
-Insultron2000
--------------
+# Botpub
 
-This is a bot for insulting people automatically via ActivityPub.
+This is hangout for my ActivityPub bots
 
 ## TODO
 
-* Split out bot behavior into a its own module
+* Split out bot behavior into its own module
 
 * Start using a real JSON-LD library
 

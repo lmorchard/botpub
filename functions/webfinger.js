@@ -5,18 +5,18 @@ const response = require("../lib/response");
 const html = require("../lib/html");
 
 module.exports.get = async (event, context) => {
-  const { log, ACTOR_NAME, HOSTNAME, ACTOR_URL } = await config({
+  const { log, bots, HOSTNAME, SITE_URL } = await config({
     event,
     context,
   });
 
-  const expectedAcct = `acct:${ACTOR_NAME}@${HOSTNAME}`;
-
   const { queryStringParameters = {} } = event;
-  const { resource } = queryStringParameters;
+  const { resource = "" } = queryStringParameters;
 
-  if (resource !== expectedAcct) {
-    log.warning("notfound", { resource, expectedAcct });
+  const [ rType, rName, rHostname ] = resource.split(/[:@]/);
+
+  if (rType !== "acct" || rHostname !== HOSTNAME || !(rName in bots)) {
+    log.warning("notfound", { resource, HOSTNAME, bots: Object.keys(bots) });
     return response.notFound({ event });
   }
 
@@ -27,12 +27,12 @@ module.exports.get = async (event, context) => {
     jsonType: "application/jrd+json",
     html: html.webfinger,
     data: {
-      subject: expectedAcct,
+      subject: resource,
       links: [
         {
           rel: "self",
           type: "application/activity+json",
-          href: ACTOR_URL,
+          href: `${SITE_URL}/${rName}/actor.json`,
         },
       ],
     },

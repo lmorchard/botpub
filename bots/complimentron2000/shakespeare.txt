@@ -1,0 +1,46 @@
+# Shakespeare compliment Kit
+# http://www.mvla.net/download.cfm?id=20601
+
+airy          all-hollown        aglet-baby
+amorous       alms-deed          argosy
+balmy         burly-boned        bawcock
+bespiced      cheek-roses        bona-roba
+beteeming     crow-flowered      bully rook
+blazoning     choice-drawn       chuck
+bonny         deed-achieving     coach-fellow
+brisky        eagle-sighted      crystal-button
+candied       ear-kissing        cuckoo-bud
+celestial     ear-bussing        dewberry
+chafeless     even-preached      eglantine
+choicely      eye-beaming        esquire
+courtly       face-royal         flax-wench
+dainty        fairy-gold         fondling
+daisied       fertile-fresh      gamester
+damasked      full-acorned       handy-dandy
+enchanting    gallant-springing  heartling
+engilded      heaven-hued        homager
+fettled       honey-bagged       juvenal
+honeysuckle   leaping-time       kicksy-wicksy
+jovial        love-springing     kid-fox
+leavened      life-rendering     lambskin
+lusty         marble-constant    lodestar
+mannerly      May-morn           madonna
+marbled       nimble-pinioned    minstrel
+meek          nose-herb          nicety
+nonpareil     parti-coloured     nymph
+orbed         proud-pied         pew-fellowed
+palmy         right-drawn        pittikins
+posied        silver-shredding   prizer
+replenished   smoothy-pated      primrose
+sightly       softly-sprighted   rarity
+silken        sweet-seasoned     ringlet
+sovereign     tender-smelling    shoulder-clapper
+sphery        trice-crowned      sweet-meat
+sterling      tiger-footed       thunder-maker
+sturdy        top-gallant        time-pleaser
+taffeta       truest-mannered    turtle-dove
+tenderful     weeping-ripe       wafer-cake
+virginal      well-breathed      whiffler
+virtuous      well-favoured      wit-snapper
+worthy        young-eyed         velvet guard
+
