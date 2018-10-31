@@ -52,21 +52,31 @@ module.exports = async ({ body, config }) => {
   const commonParams = { config, name, bot, activity, send, actorDeref };
 
   if (activity.type == "Create" && object.type == "Note") {
-    return bot.onCreateNote(commonParams);
+    if (bot.onCreateNote) {
+      return bot.onCreateNote(commonParams);
+    }
   }
   if (activity.type == "Like") {
-    return bot.onLike(commonParams);
+    if (bot.onCreateNote) {
+      return bot.onLike(commonParams);
+    }
   }
   if (activity.type == "Announce" && activity.object.startsWith(SITE_URL)) {
-    return bot.onBoost(commonParams);
+    if (bot.onBoost) {
+      return bot.onBoost(commonParams);
+    }
   }
   if (activity.type == "Follow") {
     await storeFollower({ config, bot, actorDeref });
-    return bot.onFollow(commonParams);
+    if (bot.onFollow) {
+      return bot.onFollow(commonParams);
+    }
   }
   if (activity.type == "Undo" && object.type == "Follow") {
     await deleteFollower({ config, bot, actorDeref });
-    return bot.onUnfollow(commonParams);
+    if (bot.onUnfollow) {
+      return bot.onUnfollow(commonParams);
+    }
   }
   return Promise.resolve();
 };
@@ -118,6 +128,8 @@ async function deleteFollower({ config, bot, actorDeref }) {
 
   await enqueue.updateSharedInboxes({ config });
 }
+
+// TODO: Split sendNote and publishNote out into separate reusable functions
 
 async function sendNote({
   config,

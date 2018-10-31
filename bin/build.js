@@ -7,7 +7,7 @@ const html = require("../lib/html");
 const mkconfig = require("../lib/config");
 
 const BUILD_PATH = path.join(__dirname, "..", "build");
-const STATIC_PATH = path.join(__dirname, "..", "static");
+// const STATIC_PATH = path.join(__dirname, "..", "static");
 
 async function init() {
   const config = await mkconfig();
@@ -16,8 +16,8 @@ async function init() {
   await fs.remove(BUILD_PATH);
   await fs.ensureDir(BUILD_PATH);
 
-  console.log("Copying static resources.");
-  await fs.copy(STATIC_PATH, BUILD_PATH);
+  // console.log("Copying static resources.");
+  // await fs.copy(STATIC_PATH, BUILD_PATH);
 
   console.log("Building static resources.");
   await fs.outputFile(
