@@ -38,6 +38,7 @@ describe("functions/queue/receiveFromInbox", () => {
     global.mocks.fetch.onCall(0).resolves({
       json: () => {
         return {
+          type: "Person",
           username: "foobar",
           preferredUsername: "foobar",
           url: "https://bar.example.com/@foobar",
