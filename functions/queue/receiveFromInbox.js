@@ -32,6 +32,13 @@ module.exports = async ({ body, config }) => {
     return false;
   }
 
+  if (actorDeref.type !== "Person") {
+    // Skip interacting with actors who aren't people. Hopefully this keeps our
+    // bots from getting into conversational loops.
+    log.warning("actorIsNotPerson", { body, actor });
+    return false;
+  }
+
   const send = content =>
     sendNote({
       inReplyTo: object.url,

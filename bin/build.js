@@ -74,7 +74,7 @@ const actorData = ({
     summary,
   },
 }) => withContext({
-  type: "Person",
+  type: "Service",
   id,
   url,
   name,
