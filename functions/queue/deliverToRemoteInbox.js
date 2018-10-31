@@ -4,8 +4,15 @@ const fetch = require("node-fetch");
 const { signRequest } = require("../../lib/httpSignatures");
 const { withContext } = require("../../lib/utils");
 
-module.exports = async ({ body: { inbox, activity }, config }) => {
-  const { log, ACTOR_KEY_URL, PRIVATE_KEY } = config;
+module.exports = async ({ body: { name, inbox, activity }, config }) => {
+  const { log, bots } = config;
+
+  const bot = bots[name];
+  if (!bot) {
+    log.error("botNotFound", { name, bots: Object.keys(bots) });
+    return;
+  }
+
   const inboxUrl = new URL(inbox);
   const { protocol, host, pathname, search } = inboxUrl;
 
@@ -18,8 +25,8 @@ module.exports = async ({ body: { inbox, activity }, config }) => {
   const body = JSON.stringify(withContext(activity));
 
   const signature = signRequest({
-    keyId: ACTOR_KEY_URL,
-    privateKey: PRIVATE_KEY,
+    keyId: bot.keyId,
+    privateKey: bot.privateKeyPem,
     method,
     path,
     headers,

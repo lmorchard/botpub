@@ -10,7 +10,20 @@ module.exports.post = async (event, context) => {
   const config = await setupConfig({ event, context });
   const { log, bots, HOSTNAME } = config;
 
-  const { httpMethod: method, path, pathParameters = {}, headers, body } = event;
+  const {
+    httpMethod: method,
+    path,
+    pathParameters = {},
+    headers,
+    body,
+  } = event;
+  const { name = "" } = pathParameters;
+
+  if (!bots.hasOwnProperty(name)) {
+    // TODO: implement shared inbox?
+    log.warning("notfound", { name, bots: Object.keys(bots) });
+    return response.notFound({ event });
+  }
 
   let activity;
   try {
@@ -47,7 +60,7 @@ module.exports.post = async (event, context) => {
   try {
     const result = await enqueue.receiveFromInbox({
       config,
-      body: { activity },
+      body: { name, activity },
     });
     log.info("inboxEnqueued", { result });
   } catch (error) {

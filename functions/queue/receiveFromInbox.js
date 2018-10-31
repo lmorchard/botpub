@@ -1,17 +1,22 @@
 const AWS = require("aws-sdk");
 
-const insults = require("../../lib/insults");
 const { createNote } = require("../../lib/activities");
 const { dateNow, uid, withContext } = require("../../lib/utils");
 const { fetchJson } = require("../../lib/request");
 const html = require("../../lib/html");
 
 module.exports = async ({ body, config }) => {
-  const { log, SITE_URL } = config;
-  const { activity = {} } = body;
+  const { log, bots, SITE_URL } = config;
+  const { name, activity = {} } = body;
   const { actor, object = {} } = activity;
 
-  await insults.init();
+  const bot = bots[name];
+  if (!bot) {
+    log.error("botNotFound", { name, bots: Object.keys(bots) });
+    return { error: "nobot" };
+  }
+
+  await bot.init();
 
   if (activity.type == "Delete" && actor == activity.object) {
     // Ignore reports of deleted users.
@@ -31,55 +36,48 @@ module.exports = async ({ body, config }) => {
     sendNote({
       inReplyTo: object.url,
       config,
+      bot,
       actor,
       actorDeref,
       content,
     });
 
+  const commonParams = { config, name, bot, activity, send, actorDeref };
+
   if (activity.type == "Create" && object.type == "Note") {
-    return send(await insults.generate());
+    return bot.onCreateNote(commonParams);
   }
-
   if (activity.type == "Like") {
-    return send(`Oh you liked that, did you? ${await insults.generate()}`);
+    return bot.onLike(commonParams);
   }
-
   if (activity.type == "Announce" && activity.object.startsWith(SITE_URL)) {
-    return send(`Thank you for the boost, ${await insults.generate()}`);
+    return bot.onBoost(commonParams);
   }
-
   if (activity.type == "Follow") {
-    return handleFollow({ config, send, actor, actorDeref });
+    await storeFollower({ config, bot, actorDeref });
+    return bot.onFollow(commonParams);
   }
-
   if (activity.type == "Undo" && object.type == "Follow") {
-    return handleUnfollow({
-      config,
-      send,
-      activity,
-      object,
-      actor,
-      actorDeref,
-    });
+    await deleteFollower({ config, bot, actorDeref });
+    return bot.onUnfollow(commonParams);
   }
-
   return Promise.resolve();
 };
 
 const actorToFollowId = actor => Buffer.from(actor, "utf8").toString("base64");
 
-async function handleFollow({ config, send, actor, actorDeref }) {
+async function storeFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
 
-  log.info("follow", { actor, actorDeref });
+  log.info("follow", { actorDeref });
 
-  const followId = actorToFollowId(actor);
+  const followId = actorToFollowId(actorDeref.id);
 
   const putResult = await S3.putObject({
     Bucket,
-    Key: `followers/${followId}.json`,
+    Key: `${bot.name}/followers/${followId}.json`,
     ContentType: "application/activity+json; charset=utf-8",
     Body: JSON.stringify(withContext(actorDeref), null, "  "),
   }).promise();
@@ -87,32 +85,35 @@ async function handleFollow({ config, send, actor, actorDeref }) {
   log.debug("followPut", { putResult });
 
   await enqueue.updateSharedInboxes({ config });
-
-  return send(`Thanks for the follow, ${await insults.generate()}`);
 }
 
-async function handleUnfollow({ config, send, actor }) {
+async function deleteFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
 
-  log.info("unfollow", { actor });
+  log.info("unfollow", { actorDeref });
 
-  const followId = actorToFollowId(actor);
+  const followId = actorToFollowId(actorDeref.id);
 
   const deleteResult = await S3.deleteObject({
     Bucket,
-    Key: `followers/${followId}.json`,
+    Key: `${bot.name}/followers/${followId}.json`,
   }).promise();
 
   log.debug("unfollowDelete", { deleteResult });
 
   await enqueue.updateSharedInboxes({ config });
-
-  return send(`I will miss you, ${await insults.generate()}`);
 }
 
-async function sendNote({ config, actor, actorDeref, inReplyTo, content }) {
+async function sendNote({
+  config,
+  bot,
+  actor,
+  actorDeref,
+  inReplyTo,
+  content,
+}) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const {
@@ -135,6 +136,7 @@ async function sendNote({ config, actor, actorDeref, inReplyTo, content }) {
   });
   try {
     await publishActivity({
+      bot,
       activity,
       objectUuid,
       config,
@@ -150,7 +152,7 @@ async function sendNote({ config, actor, actorDeref, inReplyTo, content }) {
   try {
     await enqueue.deliverToRemoteInbox({
       config,
-      body: { inbox: actorDeref.inbox, activity },
+      body: { name: bot.name, inbox: actorDeref.inbox, activity },
     });
   } catch (error) {
     log.error("inboxDeliveryFailure", { error: error.toString() });
@@ -163,7 +165,10 @@ async function sendNote({ config, actor, actorDeref, inReplyTo, content }) {
       .promise()
       .then(result => JSON.parse(result.Body.toString("utf-8")));
     for (let inbox of sharedInboxes) {
-      await enqueue.deliverToRemoteInbox({ config, body: { inbox, activity } });
+      await enqueue.deliverToRemoteInbox({
+        config,
+        body: { name: bot.name, inbox, activity },
+      });
     }
   } catch (error) {
     log.error("sharedInboxDeliveryFailure", { error: error.toString() });
@@ -171,6 +176,7 @@ async function sendNote({ config, actor, actorDeref, inReplyTo, content }) {
 }
 
 async function publishActivity({
+  bot,
   activity,
   objectUuid,
   config,
@@ -184,25 +190,25 @@ async function publishActivity({
   const putResult = await Promise.all([
     S3.putObject({
       Bucket,
-      Key: `objects/Note/${objectUuid}.json`,
+      Key: `${bot.name}/objects/Note/${objectUuid}.json`,
       ContentType: "application/activity+json; charset=utf-8",
       Body: JSON.stringify(withContext(activity.object), null, "  "),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `objects/Note/${objectUuid}.html`,
+      Key: `${bot.name}/objects/Note/${objectUuid}.html`,
       ContentType: "text/html; charset=utf-8",
       Body: await html.object(activity.object),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `objects/Create/${objectUuid}.json`,
+      Key: `${bot.name}/objects/Create/${objectUuid}.json`,
       ContentType: "application/activity+json; charset=utf-8",
       Body: JSON.stringify(withContext(activity), null, "  "),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `objects/Create/${objectUuid}.html`,
+      Key: `${bot.name}/objects/Create/${objectUuid}.html`,
       ContentType: "text/html; charset=utf-8",
       Body: await html.object(activity),
     }).promise(),

@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-describe("lib/insults", () => {
+describe("bots/Insultron2000/insults", () => {
   const insults = require("./insults");
 
   beforeEach(async () => {

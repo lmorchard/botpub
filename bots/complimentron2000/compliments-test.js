@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-describe("lib/compliments", () => {
+describe("bots/Complimentron2000/compliments", () => {
   const compliments = require("./compliments");
 
   beforeEach(async () => {

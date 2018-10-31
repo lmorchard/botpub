@@ -1,8 +1,12 @@
 const { expect } = require("chai");
 const AWS = require("aws-sdk-mock");
 
-describe("functions/inbox", () => {
+describe("functions/inbox", async () => {
   const inbox = require("./inbox");
+  const name = "Insultron2000";
+  const pathParameters = { name };
+  const publicKey = process.env.PUBLIC_KEY;
+  const privateKey = process.env.PRIVATE_KEY;
 
   beforeEach(() => {
     global.resetMocks();
@@ -20,7 +24,7 @@ describe("functions/inbox", () => {
     });
 
     it("rejects a malformed body", async () => {
-      const result = await subject({ body: "bad json" }, {});
+      const result = await subject({ pathParameters, body: "bad json" }, {});
       expect(result.statusCode).to.equal(400);
     });
 
@@ -29,6 +33,7 @@ describe("functions/inbox", () => {
         {
           httpMethod: "POST",
           path: "/inbox",
+          pathParameters,
           headers: {},
           body: JSON.stringify({}),
         },
@@ -42,6 +47,7 @@ describe("functions/inbox", () => {
         {
           httpMethod: "POST",
           path: "/inbox",
+          pathParameters,
           headers: {
             Host: "example.com",
             Date: new Date().toUTCString(),
@@ -55,7 +61,7 @@ describe("functions/inbox", () => {
     });
 
     it("enqueues receiveFromInbox on valid request", async () => {
-      const { HOSTNAME, PUBLIC_KEY, PRIVATE_KEY, QUEUE_NAME } = process.env;
+      const { HOSTNAME, QUEUE_NAME } = process.env;
 
       AWS.mock("SQS", "getQueueUrl", ({ QueueName }, cb) => {
         expect(QueueName).to.equal(QUEUE_NAME);
@@ -80,20 +86,21 @@ describe("functions/inbox", () => {
       const { signRequest } = require("../lib/httpSignatures");
       const signature = signRequest({
         keyId,
-        privateKey: PRIVATE_KEY,
+        privateKey,
         method,
         path,
         headers,
       });
 
       global.mocks.fetch.resolves({
-        json: () => ({ publicKey: { publicKeyPem: PUBLIC_KEY } }),
+        json: () => ({ publicKey: { publicKeyPem: publicKey } }),
       });
 
       const result = await subject(
         {
           httpMethod: method,
           path,
+          pathParameters,
           headers: Object.assign({ Signature: signature }, headers),
           body: JSON.stringify({}),
         },

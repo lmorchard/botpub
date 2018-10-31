@@ -3,6 +3,7 @@ const setupConfig = require("../../lib/config");
 
 describe("functions/queue/deliverToRemoteInbox", () => {
   const deliverToRemoteInbox = require("./deliverToRemoteInbox");
+  const name = "Insultron2000";
 
   beforeEach(() => {
     global.resetMocks();
@@ -17,10 +18,11 @@ describe("functions/queue/deliverToRemoteInbox", () => {
 
     global.mocks.fetch.onCall(0).resolves({ status: 202 });
 
-    const inbox = "https://bar.example.com/inbox";
+    const inbox = `https://bar.example.com/inbox`;
     await deliverToRemoteInbox({
       config,
       body: {
+        name,
         inbox,
         activity: {
           type: "Create",

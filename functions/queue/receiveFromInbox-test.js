@@ -4,6 +4,7 @@ const setupConfig = require("../../lib/config");
 
 describe("functions/queue/receiveFromInbox", () => {
   const receiveFromInbox = require("./receiveFromInbox");
+  const name = "Insultron2000";
 
   beforeEach(() => {
     global.resetMocks();
@@ -19,6 +20,7 @@ describe("functions/queue/receiveFromInbox", () => {
     const result = await receiveFromInbox({
       config,
       body: {
+        name,
         activity: {
           type: "Delete",
           actor,
@@ -78,6 +80,7 @@ describe("functions/queue/receiveFromInbox", () => {
     await receiveFromInbox({
       config,
       body: {
+        name,
         activity: {
           type: "Create",
           actor,

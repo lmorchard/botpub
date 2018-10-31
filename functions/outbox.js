@@ -15,13 +15,20 @@ module.exports.get = async (event, context) => {
     context,
   });
 
-  const { httpMethod: method, path, pathParameters = {}, headers, body } = event;
+  const { pathParameters = {} } = event;
+  const { name = "" } = pathParameters;
+
+  if (!bots.hasOwnProperty(name)) {
+    // TODO: implement shared inbox?
+    log.warning("notfound", { name, bots: Object.keys(bots) });
+    return response.notFound({ event });
+  }
 
   // TODO: Better error handling for these S3 requests
 
   const listResult = await S3.listObjects({
     Bucket,
-    Prefix: `objects/Create/`,
+    Prefix: `${name}/objects/Create/`,
     MaxKeys: MAX_ITEMS,
   }).promise();
 
@@ -42,7 +49,7 @@ module.exports.get = async (event, context) => {
     headers: { "Cache-Control": "max-age=10" },
     html: html.outbox,
     data: {
-      id: `${SITE_URL}/outbox`,
+      id: `${SITE_URL}/${name}/outbox`,
       type: "OrderedCollection",
       orderedItems,
     },

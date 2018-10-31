@@ -1,7 +1,6 @@
 #!/usr/bin/env
 const path = require("path");
 const fs = require("fs-extra");
-const assign = Object.assign;
 
 const { withContext } = require("../lib/utils");
 const html = require("../lib/html");
@@ -66,18 +65,21 @@ const actorData = ({
   SITE_URL,
   PUBLIC_KEY,
 }, {
+  id,
+  url,
+  keyId,
+  publicKeyPem,
   profile: {
     name,
     summary,
   },
-  publicKeyPem,
 }) => withContext({
   type: "Person",
-  id: `${SITE_URL}/${name}/actor.json`,
-  url: `${SITE_URL}/${name}/index.html`,
-  name: name,
-  preferredUsername: name,
+  id,
+  url,
+  name,
   summary,
+  preferredUsername: name,
   inbox: `${SITE_URL}/inbox/${name}`,
   outbox: `${SITE_URL}/outbox/${name}`,
   endpoints: {
@@ -89,8 +91,8 @@ const actorData = ({
     url: `${SITE_URL}/${name}/avatar.png`,
   },
   publicKey: {
-    id: `${SITE_URL}/${name}/actor.json#main-key`,
-    owner: `${SITE_URL}/${name}/actor.json`,
+    id: keyId,
+    owner: id,
     publicKeyPem,
   },
 });

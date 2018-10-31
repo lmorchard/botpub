@@ -13,9 +13,13 @@ module.exports.get = async (event, context) => {
   const { queryStringParameters = {} } = event;
   const { resource = "" } = queryStringParameters;
 
-  const [ rType, rName, rHostname ] = resource.split(/[:@]/);
+  const [rType, rName, rHostname] = resource.split(/[:@]/);
 
-  if (rType !== "acct" || rHostname !== HOSTNAME || !(rName in bots)) {
+  if (
+    rType !== "acct" ||
+    rHostname !== HOSTNAME ||
+    !bots.hasOwnProperty(rName)
+  ) {
     log.warning("notfound", { resource, HOSTNAME, bots: Object.keys(bots) });
     return response.notFound({ event });
   }
