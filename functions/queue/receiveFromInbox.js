@@ -122,6 +122,7 @@ async function sendNote({
     SITE_URL: siteURL,
     STATIC_BUCKET: Bucket,
   } = config;
+  const { profile: { name } } = bot;
   const objectUuid = uid();
   const activity = createNote({
     objectUuid,
@@ -152,7 +153,7 @@ async function sendNote({
   try {
     await enqueue.deliverToRemoteInbox({
       config,
-      body: { name: bot.name, inbox: actorDeref.inbox, activity },
+      body: { name, inbox: actorDeref.inbox, activity },
     });
   } catch (error) {
     log.error("inboxDeliveryFailure", { error: error.toString() });
@@ -167,7 +168,7 @@ async function sendNote({
     for (let inbox of sharedInboxes) {
       await enqueue.deliverToRemoteInbox({
         config,
-        body: { name: bot.name, inbox, activity },
+        body: { name, inbox, activity },
       });
     }
   } catch (error) {
@@ -187,28 +188,29 @@ async function publishActivity({
 }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { log, STATIC_BUCKET: Bucket } = config;
+  const { profile: { name } } = bot;
   const putResult = await Promise.all([
     S3.putObject({
       Bucket,
-      Key: `${bot.name}/objects/Note/${objectUuid}.json`,
+      Key: `${name}/objects/Note/${objectUuid}.json`,
       ContentType: "application/activity+json; charset=utf-8",
       Body: JSON.stringify(withContext(activity.object), null, "  "),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `${bot.name}/objects/Note/${objectUuid}.html`,
+      Key: `${name}/objects/Note/${objectUuid}.html`,
       ContentType: "text/html; charset=utf-8",
       Body: await html.object(activity.object),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `${bot.name}/objects/Create/${objectUuid}.json`,
+      Key: `${name}/objects/Create/${objectUuid}.json`,
       ContentType: "application/activity+json; charset=utf-8",
       Body: JSON.stringify(withContext(activity), null, "  "),
     }).promise(),
     S3.putObject({
       Bucket,
-      Key: `${bot.name}/objects/Create/${objectUuid}.html`,
+      Key: `${name}/objects/Create/${objectUuid}.html`,
       ContentType: "text/html; charset=utf-8",
       Body: await html.object(activity),
     }).promise(),

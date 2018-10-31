@@ -98,6 +98,10 @@ describe("functions/queue/receiveFromInbox", () => {
     expect(sqsGetQueueUrlMock.stub.callCount).to.equal(1);
     expect(sendMessageCalls.length).to.equal(3);
 
+    for (let [ { Key } ] of s3PutMock.stub.args) {
+      expect(Key.startsWith(name)).to.be.true;
+    }
+
     /*
     const putKeys = s3PutMock.stub.args.map(([{ Key }]) => Key);
     console.log("PUTS", putKeys);
