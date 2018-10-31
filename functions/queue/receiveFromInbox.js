@@ -118,15 +118,15 @@ async function sendNote({
   const { enqueue } = require("./index");
   const {
     log,
-    ACTOR_URL: actorURL,
     SITE_URL: siteURL,
     STATIC_BUCKET: Bucket,
   } = config;
   const { profile: { name } } = bot;
   const objectUuid = uid();
   const activity = createNote({
+    bot,
     objectUuid,
-    actorURL,
+    actorURL: bot.id,
     siteURL,
     config,
     actor,
