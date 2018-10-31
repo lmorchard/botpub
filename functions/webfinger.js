@@ -10,9 +10,8 @@ module.exports.get = async (event, context) => {
     context,
   });
 
-  const { queryStringParameters = {} } = event;
-  const { resource = "" } = queryStringParameters;
-
+  const { queryStringParameters } = event;
+  const { resource = "" } = (queryStringParameters || {});
   const [rType, rName, rHostname] = resource.split(/[:@]/);
 
   if (
