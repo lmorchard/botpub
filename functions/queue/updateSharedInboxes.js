@@ -15,17 +15,12 @@ module.exports = async ({ body, config }) => {
       Prefix: `${name}/followers/`,
       MaxKeys: 1000,
     }).promise();
-    log.debug("followersListResult", { name, listResult });
 
     // Fetch all the followers sequentially - TODO: do in batches?
     for (let { Key } of listResult.Contents) {
       const result = await S3.getObject({ Bucket, Key }).promise();
       const follower = JSON.parse(result.Body.toString("utf-8"));
       inboxes.push(follower.endpoints.sharedInbox);
-      log.debug("sharedInbox", {
-        name,
-        sharedInbox: follower.endpoints.sharedInbox,
-      });
     }
   }
 
@@ -41,5 +36,4 @@ module.exports = async ({ body, config }) => {
 
   log.debug("inboxesPutResult", { putResult });
   log.info("reindexInboxesCount", { count: sharedInboxes.length });
-  log.debug("reindexInboxes", { sharedInboxes });
 };
