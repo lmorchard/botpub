@@ -22,7 +22,10 @@ module.exports = async ({ body, config }) => {
       const result = await S3.getObject({ Bucket, Key }).promise();
       const follower = JSON.parse(result.Body.toString("utf-8"));
       inboxes.push(follower.endpoints.sharedInbox);
-      log.debug("sharedInbox", { name, sharedInbox: follower.endpoints.sharedInbox });
+      log.debug("sharedInbox", {
+        name,
+        sharedInbox: follower.endpoints.sharedInbox,
+      });
     }
   }
 
@@ -31,7 +34,7 @@ module.exports = async ({ body, config }) => {
   // Save the new list of shared inboxes
   const putResult = await S3.putObject({
     Bucket,
-    Key: "inboxes.json",
+    Key: "sharedInboxes.json",
     ContentType: "application/json; charset=utf-8",
     Body: JSON.stringify(sharedInboxes),
   }).promise();

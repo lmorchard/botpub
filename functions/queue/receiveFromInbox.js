@@ -77,7 +77,9 @@ async function storeFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
-  const { profile: { name } } = bot;
+  const {
+    profile: { name },
+  } = bot;
 
   log.info("follow", { actorDeref });
 
@@ -99,7 +101,9 @@ async function deleteFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
-  const { profile: { name } } = bot;
+  const {
+    profile: { name },
+  } = bot;
 
   log.info("unfollow", { actorDeref });
 
@@ -125,12 +129,10 @@ async function sendNote({
 }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
+  const { log, SITE_URL: siteURL, STATIC_BUCKET: Bucket } = config;
   const {
-    log,
-    SITE_URL: siteURL,
-    STATIC_BUCKET: Bucket,
-  } = config;
-  const { profile: { name } } = bot;
+    profile: { name },
+  } = bot;
   const objectUuid = uid();
   const activity = createNote({
     bot,
@@ -197,7 +199,9 @@ async function publishActivity({
 }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { log, STATIC_BUCKET: Bucket } = config;
-  const { profile: { name } } = bot;
+  const {
+    profile: { name },
+  } = bot;
   const putResult = await Promise.all([
     S3.putObject({
       Bucket,
