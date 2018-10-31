@@ -77,6 +77,7 @@ async function storeFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
+  const { profile: { name } } = bot;
 
   log.info("follow", { actorDeref });
 
@@ -84,7 +85,7 @@ async function storeFollower({ config, bot, actorDeref }) {
 
   const putResult = await S3.putObject({
     Bucket,
-    Key: `${bot.name}/followers/${followId}.json`,
+    Key: `${name}/followers/${followId}.json`,
     ContentType: "application/activity+json; charset=utf-8",
     Body: JSON.stringify(withContext(actorDeref), null, "  "),
   }).promise();
@@ -98,6 +99,7 @@ async function deleteFollower({ config, bot, actorDeref }) {
   const S3 = new AWS.S3({ apiVersion: "2006-03-01" });
   const { enqueue } = require("./index");
   const { log, STATIC_BUCKET: Bucket } = config;
+  const { profile: { name } } = bot;
 
   log.info("unfollow", { actorDeref });
 
@@ -105,7 +107,7 @@ async function deleteFollower({ config, bot, actorDeref }) {
 
   const deleteResult = await S3.deleteObject({
     Bucket,
-    Key: `${bot.name}/followers/${followId}.json`,
+    Key: `${name}/followers/${followId}.json`,
   }).promise();
 
   log.debug("unfollowDelete", { deleteResult });
