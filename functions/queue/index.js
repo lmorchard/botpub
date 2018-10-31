@@ -42,7 +42,7 @@ exports.handler = async (event, context) => {
         await taskHandlers[task]({ record, body, context, config });
       }
     } catch (error) {
-      log.error("queueDispatchFailure", { error, record });
+      log.error("queueDispatchFailure", { error: error.toString(), record });
     }
   }
 };
