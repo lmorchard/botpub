@@ -1,6 +1,7 @@
 const { expect } = require("chai");
 const AWS = require("aws-sdk-mock");
 const setupConfig = require("../../lib/config");
+const { ID_PUBLIC } = require("../../lib/activities");
 
 describe("functions/queue/receiveFromInbox", () => {
   const receiveFromInbox = require("./receiveFromInbox");
@@ -33,20 +34,16 @@ describe("functions/queue/receiveFromInbox", () => {
 
   it("handles a Create Note with a response", async () => {
     const config = await setupConfig();
-    const actor = "https://foo.example.com/actor";
-
-    global.mocks.fetch.onCall(0).resolves({
-      json: () => {
-        return {
-          type: "Person",
-          username: "foobar",
-          preferredUsername: "foobar",
-          url: "https://bar.example.com/@foobar",
-          inbox: "https://bar.example.com/actor",
-          followers: "https://bar.example.com/followers",
-        };
-      },
-    });
+    const actor = {
+      id: "https://bar.example.com/foobar.json",
+      type: "Person",
+      username: "foobar",
+      preferredUsername: "foobar",
+      url: "https://bar.example.com/@foobar",
+      inbox: "https://bar.example.com/actor",
+      followers: "https://bar.example.com/followers",
+    };
+    global.mocks.fetch.onCall(0).resolves({ json: () => actor });
 
     const s3PutMock = AWS.mock("S3", "putObject", (params, cb) =>
       cb(null, { result: "ok" })
@@ -84,7 +81,7 @@ describe("functions/queue/receiveFromInbox", () => {
         name,
         activity: {
           type: "Create",
-          actor,
+          actor: actor.id,
           object: {
             type: "Note",
           },
@@ -99,13 +96,23 @@ describe("functions/queue/receiveFromInbox", () => {
     expect(sqsGetQueueUrlMock.stub.callCount).to.equal(1);
     expect(sendMessageCalls.length).to.equal(3);
 
-    for (let [{ Key }] of s3PutMock.stub.args) {
+    for (let [{ Key, Body }] of s3PutMock.stub.args) {
       expect(Key.startsWith(name)).to.be.true;
+      if (Key.endsWith(".json")) {
+        const activity = JSON.parse(Body);
+        expect(activity.to).to.include(ID_PUBLIC);
+        expect(activity.cc).to.include(actor.id);
+        expect(activity.cc).to.include(actor.followers);
+      }
     }
 
     /*
     const putKeys = s3PutMock.stub.args.map(([{ Key }]) => Key);
     console.log("PUTS", putKeys);
+    const putBodies = s3PutMock.stub.args
+      .filter(([{ Key }]) => Key.endsWith(".json"))
+      .map(([{ Body }]) => JSON.parse(Body));
+    console.log("BODIES", putBodies);
     console.log("SENDS", sendMessageCalls);
     */
   });

@@ -1,5 +1,10 @@
 const path = require("path");
 const { loadTextLines, pick } = require("../../lib/utils");
+const {
+  createNote,
+  deliverActivity,
+  ID_PUBLIC,
+} = require("../../lib/activities");
 
 exports.profile = {
   name: "CatFacts",
@@ -24,22 +29,27 @@ exports.onCreateNote = async ({ send }) => {
   return send(pickFact());
 };
 
-// TODO: Implement onPeriodic
+exports.onPeriodic = async ({ config, bot }) => {
+  return deliverActivity({
+    bot,
+    config,
+    activity: createNote({
+      baseUrl: bot.baseUrl,
+      attributedTo: bot.actor.id,
+      to: [ID_PUBLIC],
+      content: pickFact(),
+    }),
+  });
+};
 
-/*
 exports.onLike = async ({ send }) => {
-  return send(`Oh you liked that, did you? ${await pickFact()}`);
+  return send(`I'm glad you liked that fact!`);
 };
 
 exports.onBoost = async ({ send }) => {
-  return send(`Thank you for the boost, ${await pickFact()}`);
+  return send(`Thank you for the boost!`);
 };
 
 exports.onFollow = async ({ send }) => {
-  return send(`Thanks for the follow, ${await pickFact()}`);
+  return send(`Thanks for the follow!`);
 };
-
-exports.onUnfollow = async ({ send }) => {
-  return send(`I will miss you, ${await pickFact()}`);
-};
-*/

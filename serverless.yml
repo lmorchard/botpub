@@ -121,7 +121,7 @@ functions:
     timeout: 60
     handler: functions/queue.handler
     name: ${self:custom.resourceNames.queue}
-    reservedConcurrency: 3
+    reservedConcurrency: 1
     events:
       - sqs:
           batchSize: 5
