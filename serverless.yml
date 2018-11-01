@@ -115,7 +115,7 @@ functions:
     handler: functions/periodic.handler
     name: ${self:custom.prefix}-periodic
     events:
-      - schedule: rate(10 mminutes)
+      - schedule: rate(10 minutes)
 
   queue:
     timeout: 60

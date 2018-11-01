@@ -4,8 +4,6 @@ This is hangout for my ActivityPub bots
 
 ## TODO
 
-* Implement periodic timer function (e.g. to compliment / insult random follower)
-
 * Handle generating and linking to images
 
 * Start using a real JSON-LD library
