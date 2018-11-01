@@ -110,12 +110,12 @@ functions:
           method: GET
           path: outbox/{name}
 
-  #periodic:
-  #  timeout: 60
-  #  handler: functions/periodic.handler
-  #  name: ${self:custom.prefix}-periodic
-  #  events:
-  #    - schedule: rate(10 mminutes)
+  periodic:
+    timeout: 60
+    handler: functions/periodic.handler
+    name: ${self:custom.prefix}-periodic
+    events:
+      - schedule: rate(10 mminutes)
 
   queue:
     timeout: 60
