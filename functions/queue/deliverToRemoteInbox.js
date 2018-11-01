@@ -25,7 +25,7 @@ module.exports = async ({ body: { name, inbox, activity }, config }) => {
   const body = JSON.stringify(withContext(activity));
 
   const signature = signRequest({
-    keyId: bot.keyId,
+    keyId: bot.actor.publicKey.id,
     privateKey: bot.privateKeyPem,
     method,
     path,
