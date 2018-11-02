@@ -21,13 +21,13 @@ exports.profile = {
 let markov = null;
 
 exports.init = async () => {
-  markov = new MarkovGeneratorWord(1, 7);
+  markov = new MarkovGeneratorWord(1, 9);
   markov.fromJSON(await readTextFile(__dirname + "/markov.json"));
 };
 
 const generateText = () => {
   const out = [];
-  const lines = Math.floor(Math.random() * 7) + 5;
+  const lines = Math.floor(Math.random() * 5) + 3;
   for (let i = 0; i < lines; i++) {
     out.push(markov.generate());
   }
@@ -39,9 +39,9 @@ exports.onCreateNote = async ({ send }) => {
 };
 
 exports.onPeriodic = async ({ config, bot }) => {
-  // HACK: be lazy and skip writing 70% of the time.
-  if (Math.random() < 0.7) {
-    return;
+  // HACK: be lazy and skip writing for 90% of scheduled runs.
+  if (Math.random() < 0.9) {
+    return false;
   }
   return deliverActivity({
     bot,
@@ -53,4 +53,12 @@ exports.onPeriodic = async ({ config, bot }) => {
       content: generateText(),
     }),
   });
+};
+
+exports.onLike = async ({ send }) => {
+  return send(`My android heart goes out to you!`);
+};
+
+exports.onBoost = async ({ send }) => {
+  return send(`The Priests boost your name on this night!`);
 };

@@ -47,7 +47,6 @@ exports.MarkovGeneratorWord = function(n, max) {
 
   // A function to feed in text to the markov chain
   this.feed = function(text) {
-
     var tokens = text.tokenize();
 
     // Discard this line if it's too short
@@ -80,13 +79,11 @@ exports.MarkovGeneratorWord = function(n, max) {
 
   // Generate a text from the information ngrams
   this.generate = function() {
-
     // Get a random beginning
     var current = this.beginnings.choice();
 
     // The output is now an array of tokens that we'll join later
     var output = current.tokenize();
-
 
     // Generate a new token max number of times
     for (var i = 0; i < this.max; i++) {
@@ -109,4 +106,3 @@ exports.MarkovGeneratorWord = function(n, max) {
     return output.join(" ");
   };
 };
-

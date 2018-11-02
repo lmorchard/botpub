@@ -29,4 +29,3 @@ exports.generateShakespeare = async () =>
     pick(exports.shakespeare[1]),
     pick(exports.shakespeare[2]),
   ].join(" ");
-
