@@ -19,3 +19,8 @@ This is hangout for my ActivityPub bots
 * Get everything working on serverless Google Cloud
 
 * Get everything working on Glitch & Firebase?
+
+* Do something with likes & favorites
+  * save somehow? generate stats on best notes?
+
+* Rate limiting / DoS defense?

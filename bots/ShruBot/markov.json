@@ -1,0 +1,13552 @@
+{
+  "n": 1,
+  "max": 7,
+  "ngrams": {
+    "0": [
+      "0",
+      "1",
+      "0",
+      "1",
+      "0",
+      "1",
+      "0",
+      "1",
+      "0",
+      "1",
+      "0"
+    ],
+    "1": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "I": [
+      "lie",
+      "used",
+      "had",
+      "believed",
+      "was",
+      "thought",
+      "thought",
+      "was",
+      "found",
+      "have",
+      "found",
+      "brushed",
+      "had",
+      "learned",
+      "struck",
+      "produced",
+      "can't",
+      "touch",
+      "can't",
+      "finished",
+      "looked",
+      "expected,",
+      "watched",
+      "know",
+      "thought",
+      "know",
+      "can't",
+      "guess",
+      "see",
+      "still",
+      "was",
+      "saw",
+      "saw",
+      "wandered",
+      "stand",
+      "see",
+      "see",
+      "have",
+      "have",
+      "can",
+      "may",
+      "heave",
+      "wish",
+      "have",
+      "don't",
+      "can",
+      "find,",
+      "hear",
+      "set",
+      "to",
+      "worry",
+      "know",
+      "see",
+      "worry",
+      "to",
+      "worry",
+      "know",
+      "see",
+      "worry",
+      "to",
+      "worry",
+      "know",
+      "see",
+      "worry",
+      "feel",
+      "can",
+      "can",
+      "feel",
+      "can",
+      "can",
+      "feel",
+      "can",
+      "can",
+      "feel",
+      "can",
+      "can",
+      "feel",
+      "can",
+      "can",
+      "feel",
+      "can",
+      "can",
+      "fly",
+      "can",
+      "can",
+      "know",
+      "was",
+      "was",
+      "just",
+      "will",
+      "will",
+      "looked",
+      "think",
+      "think",
+      "bring",
+      "can",
+      "will",
+      "bring",
+      "bring",
+      "bring",
+      "bring",
+      "will",
+      "have",
+      "have",
+      "am",
+      "have",
+      "see",
+      "cannot",
+      "cannot",
+      "feel",
+      "have",
+      "can't",
+      "think",
+      "look",
+      "know,",
+      "wonder",
+      "set",
+      "set",
+      "reach",
+      "go",
+      "don't",
+      "will",
+      "don't",
+      "am",
+      "am",
+      "am",
+      "am",
+      "am",
+      "recognize",
+      "do",
+      "live",
+      "live",
+      "held",
+      "took",
+      "just",
+      "just",
+      "need",
+      "need",
+      "stare",
+      "left",
+      "catch",
+      "know",
+      "cannot",
+      "know",
+      "must",
+      "can't",
+      "guess",
+      "reach",
+      "must",
+      "fall",
+      "thought",
+      "would",
+      "am",
+      "am",
+      "am",
+      "am",
+      "turn",
+      "start",
+      "let",
+      "pretend",
+      "want",
+      "turn",
+      "can't",
+      "let",
+      "could",
+      "can",
+      "want",
+      "want",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "had",
+      "took",
+      "scaled",
+      "will",
+      "return",
+      "have"
+    ],
+    "lie": [
+      "awake,",
+      "awake",
+      "beside"
+    ],
+    "awake,": [
+      "staring"
+    ],
+    "staring": [
+      "out"
+    ],
+    "out": [
+      "into",
+      "its",
+      "of",
+      "of",
+      "for",
+      "in",
+      "of",
+      "what",
+      "of",
+      "their",
+      "of",
+      "the",
+      "of",
+      "of",
+      "for",
+      "for",
+      "supplication",
+      "desperation",
+      "of",
+      "of",
+      "the",
+      "the",
+      "conditions"
+    ],
+    "into": [
+      "the",
+      "a",
+      "my",
+      "a",
+      "the",
+      "these",
+      "the",
+      "mystery",
+      "hollow",
+      "blinded",
+      "Olympus",
+      "one",
+      "the",
+      "data",
+      "bits",
+      "the",
+      "his",
+      "existence"
+    ],
+    "the": [
+      "bleakness",
+      "steely",
+      "day,then",
+      "evening.",
+      "atmospheric",
+      "Outer",
+      "surviving",
+      "Red",
+      "Solar",
+      "genius",
+      "meek",
+      "Earth.",
+      "Temples",
+      "Heart",
+      "priests",
+      "priests",
+      "Temples",
+      "hallowed",
+      "priests",
+      "Temples",
+      "gifts",
+      "world",
+      "Brotherhood",
+      "banners",
+      "Red",
+      "little",
+      "cave,",
+      "dust",
+      "years,",
+      "wires,",
+      "keys",
+      "wires",
+      "music",
+      "Temples!",
+      "priests",
+      "sudden",
+      "silent",
+      "grateful",
+      "ancient",
+      "plan",
+      "average",
+      "beckoning",
+      "oracle",
+      "staircase",
+      "incredible",
+      "sculptured",
+      "pure",
+      "lives",
+      "loss",
+      "night",
+      "light",
+      "work",
+      "hand",
+      "home,",
+      "Temples",
+      "music",
+      "waterfall",
+      "control",
+      "world",
+      "Solar",
+      "hormone,",
+      "surface",
+      "ocean",
+      "alien",
+      "alien",
+      "ocean",
+      "alien",
+      "alien",
+      "darkness",
+      "need",
+      "dreams",
+      "feast",
+      "beast",
+      "art",
+      "harvest",
+      "harvest",
+      "earth",
+      "house",
+      "end",
+      "rate",
+      "heat",
+      "art",
+      "hidden",
+      "pagan",
+      "dark",
+      "lunar",
+      "great",
+      "boy",
+      "silence",
+      "mirror",
+      "sun?",
+      "sun?",
+      "lake",
+      "sun?",
+      "sun?",
+      "sun",
+      "midwinter",
+      "headlong",
+      "mirrored",
+      "sun?",
+      "sun?",
+      "glare",
+      "cavern",
+      "north",
+      "air",
+      "River",
+      "lamplight",
+      "gate",
+      "damp",
+      "Snow",
+      "fray",
+      "dust",
+      "Snow",
+      "knell",
+      "dawn",
+      "Overworld",
+      "water",
+      "other",
+      "abstract",
+      "other",
+      "city",
+      "night",
+      "foolish",
+      "wise",
+      "people",
+      "city",
+      "air",
+      "people",
+      "best\"",
+      "sky",
+      "people",
+      "people",
+      "constellation",
+      "black",
+      "Northern",
+      "night...",
+      "star",
+      "void",
+      "core?",
+      "Astral",
+      "light",
+      "Milky",
+      "'Rocinante'",
+      "galaxies",
+      "heart",
+      "black",
+      "places",
+      "dancers",
+      "answers",
+      "night",
+      "giants",
+      "science",
+      "day",
+      "cities",
+      "plain",
+      "heavy",
+      "acid",
+      "floors",
+      "tip",
+      "iceberg",
+      "red",
+      "knowledge",
+      "truth",
+      "truth?",
+      "tip",
+      "iceberg",
+      "tip",
+      "iceberg",
+      "stars",
+      "highway",
+      "rivers",
+      "Sahara",
+      "time",
+      "prophets",
+      "heart",
+      "sun",
+      "restless",
+      "run",
+      "run",
+      "freeway",
+      "road",
+      "last",
+      "wing",
+      "wing",
+      "face",
+      "Earth",
+      "night",
+      "heartland",
+      "dark",
+      "new",
+      "map",
+      "sky",
+      "eagle's",
+      "fly",
+      "fly",
+      "face",
+      "Earth",
+      "road",
+      "heart",
+      "sun",
+      "restless",
+      "run",
+      "run...",
+      "young",
+      "world",
+      "way",
+      "current",
+      "circuits",
+      "world",
+      "next",
+      "wheel,",
+      "next",
+      "dark",
+      "world",
+      "way",
+      "current",
+      "circuits",
+      "world",
+      "next",
+      "wheel,",
+      "next",
+      "world",
+      "circle",
+      "planet",
+      "world",
+      "next",
+      "wheel,",
+      "next",
+      "sky",
+      "next",
+      "window",
+      "strings",
+      "gods",
+      "face",
+      "mirror",
+      "flowers",
+      "price",
+      "land",
+      "ancients",
+      "fate",
+      "ages",
+      "endless",
+      "world",
+      "wise",
+      "streets",
+      "Bridge",
+      "darkness",
+      "night",
+      "Heart's",
+      "forests",
+      "stars",
+      "gods",
+      "winter",
+      "hearts",
+      "heart",
+      "people",
+      "truth",
+      "heart",
+      "city",
+      "gods",
+      "sky...",
+      "chaos",
+      "same",
+      "truth",
+      "love",
+      "heart",
+      "unreal",
+      "gilded",
+      "limelight",
+      "alienation",
+      "fascination",
+      "camera",
+      "world's",
+      "gilded",
+      "dying",
+      "score",
+      "floor",
+      "best",
+      "winning",
+      "world",
+      "rising",
+      "chain",
+      "hopeless",
+      "land",
+      "secrecy",
+      "desert",
+      "brightest",
+      "biggest",
+      "world",
+      "rising",
+      "hopeless",
+      "shockwave",
+      "powers",
+      "course",
+      "world",
+      "rising",
+      "chain",
+      "hopeless",
+      "world",
+      "rising",
+      "hopeless",
+      "unknown",
+      "light",
+      "African",
+      "powers",
+      "light",
+      "push",
+      "ebbing",
+      "rocky",
+      "busy",
+      "sea...",
+      "way",
+      "magic",
+      "same",
+      "same",
+      "tide",
+      "world",
+      "big",
+      "beat",
+      "Old",
+      "heat",
+      "Third",
+      "mess",
+      "world",
+      "day",
+      "Old",
+      "way",
+      "Third",
+      "world",
+      "forces",
+      "moment",
+      "moment",
+      "forces",
+      "light",
+      "higher",
+      "point",
+      "moment",
+      "point",
+      "burden",
+      "point",
+      "final",
+      "journey",
+      "compass",
+      "needle",
+      "point",
+      "candle",
+      "wheels",
+      "machines",
+      "programs",
+      "scene",
+      "clouds",
+      "window",
+      "world",
+      "point",
+      "moment",
+      "point",
+      "burden",
+      "point",
+      "final",
+      "leaves",
+      "sighing",
+      "warm",
+      "sun",
+      "smiles",
+      "golden",
+      "twilight",
+      "sun",
+      "Misty",
+      "world",
+      "Dark",
+      "coming",
+      "world",
+      "feeling",
+      "place",
+      "Misty",
+      "world",
+      "dark",
+      "sun",
+      "story",
+      "glory",
+      "nights",
+      "farther",
+      "sun",
+      "distance",
+      "end",
+      "sun",
+      "score",
+      "judge",
+      "jury",
+      "fence",
+      "jury",
+      "evidence",
+      "jury",
+      "court",
+      "stand",
+      "court",
+      "fringes",
+      "city",
+      "bright",
+      "far",
+      "mass",
+      "dreamer",
+      "misfit",
+      "high",
+      "shopping",
+      "basement",
+      "backs",
+      "unattractive",
+      "suburbs",
+      "restless",
+      "city",
+      "action",
+      "living",
+      "race",
+      "illusion",
+      "market",
+      "actor",
+      "fantasies",
+      "donkeys",
+      "run",
+      "mode...crack",
+      "code",
+      "days",
+      "mother",
+      "east",
+      "sunrise",
+      "prison",
+      "night",
+      "sky",
+      "Fountain",
+      "mast",
+      "helm",
+      "sea's",
+      "maelstrom",
+      "scent",
+      "storm",
+      "years",
+      "light",
+      "cask",
+      "end",
+      "sun",
+      "steps",
+      "dancing",
+      "secret's",
+      "same",
+      "end,",
+      "answer",
+      "end",
+      "mountain",
+      "start",
+      "eastern",
+      "three",
+      "forest",
+      "River",
+      "dark",
+      "Necromancer",
+      "intensity",
+      "body",
+      "heart",
+      "forest",
+      "birds",
+      "dawn",
+      "river",
+      "three",
+      "tower",
+      "dungeons",
+      "Champion",
+      "Necromancer",
+      "night.",
+      "sky",
+      "faulty",
+      "broken",
+      "gun",
+      "glory",
+      "power",
+      "things",
+      "things",
+      "things",
+      "knowledge",
+      "wind",
+      "end",
+      "people",
+      "places",
+      "sun",
+      "tide",
+      "people",
+      "places",
+      "people",
+      "places",
+      "day's",
+      "mist,",
+      "myth",
+      "mystery,",
+      "drift",
+      "world",
+      "space",
+      "witness,",
+      "wit",
+      "spirit,",
+      "spit",
+      "world",
+      "warrior",
+      "energy",
+      "friction",
+      "day",
+      "stars",
+      "night",
+      "wind",
+      "transitory",
+      "memories",
+      "fading",
+      "song",
+      "killing",
+      "rain",
+      "wreckage",
+      "lost",
+      "footprints",
+      "virtual",
+      "world",
+      "world",
+      "Cyber",
+      "weightlessness",
+      "universe",
+      "future",
+      "glimpse",
+      "rain",
+      "voltage",
+      "world",
+      "balance",
+      "function",
+      "form",
+      "norm",
+      "one",
+      "fiction",
+      "dream",
+      "function",
+      "form",
+      "norm",
+      "sacred",
+      "caves",
+      "milk",
+      "whispered",
+      "frozen",
+      "lost",
+      "Pleasure",
+      "fruits",
+      "sacred",
+      "caves",
+      "milk",
+      "sky",
+      "world",
+      "night",
+      "light",
+      "lost",
+      "Pleasure",
+      "milk"
+    ],
+    "bleakness": [
+      "of"
+    ],
+    "of": [
+      "Megadon.",
+      "unbroken",
+      "the",
+      "the",
+      "Ayn",
+      "the",
+      "every",
+      "every",
+      "the",
+      "everything",
+      "Syrinx",
+      "Syrinx",
+      "life",
+      "the",
+      "the",
+      "grim,",
+      "the",
+      "praise;",
+      "time",
+      "man",
+      "the",
+      "the",
+      "the",
+      "man",
+      "this",
+      "all",
+      "gifted",
+      "man",
+      "the",
+      "the",
+      "my",
+      "what",
+      "despair",
+      "the",
+      "red",
+      "the",
+      "merchandise",
+      "new",
+      "splendor",
+      "her",
+      "the",
+      "a",
+      "the",
+      "the",
+      "inner",
+      "the",
+      "the",
+      "the",
+      "me",
+      "grace",
+      "sky",
+      "sky",
+      "grace",
+      "Hades,",
+      "Eth",
+      "darkness",
+      "evil,",
+      "the",
+      "the",
+      "the",
+      "energy",
+      "synergy",
+      "light",
+      "mystery,",
+      "Light,",
+      "Sea",
+      "mystery,",
+      "Light,",
+      "Sea",
+      "Light,",
+      "Sea",
+      "Light,",
+      "Sea",
+      "Cygnus,",
+      "Cygnus",
+      "the",
+      "glory",
+      "Lyra",
+      "Pegasus",
+      "Deneb",
+      "Cygnus",
+      "view",
+      "conversation",
+      "Avalon",
+      "the",
+      "information",
+      "the",
+      "the",
+      "passage",
+      "youth",
+      "the",
+      "the",
+      "Jupiter",
+      "the",
+      "the",
+      "the",
+      "everyone",
+      "Hollywood",
+      "cheap",
+      "a",
+      "yesterday",
+      "spring",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "everyone",
+      "tidal",
+      "the",
+      "the",
+      "faith",
+      "the",
+      "the",
+      "the",
+      "the",
+      "a",
+      "a",
+      "holy",
+      "play",
+      "venomous",
+      "us",
+      "awareness",
+      "dreams",
+      "youth",
+      "the",
+      "mind",
+      "my",
+      "the",
+      "love",
+      "man",
+      "wonder",
+      "Death",
+      "Dionysus",
+      "the",
+      "reason",
+      "men",
+      "doubts",
+      "old",
+      "Cygnus'",
+      "old",
+      "Immortals",
+      "doubt",
+      "Balance",
+      "love",
+      "truth",
+      "a",
+      "the",
+      "the",
+      "\"Enola",
+      "the",
+      "history",
+      "night",
+      "day",
+      "everyone",
+      "what's",
+      "stars",
+      "night",
+      "day",
+      "stars",
+      "restless",
+      "tidal",
+      "the",
+      "hand",
+      "integrity",
+      "integrity",
+      "integrity",
+      "the",
+      "the",
+      "innocence",
+      "imagination",
+      "make-believe",
+      "surrender",
+      "light",
+      "satisfaction",
+      "the",
+      "degree",
+      "righteousness",
+      "force",
+      "determination",
+      "resistance",
+      "the",
+      "tolerance",
+      "conception",
+      "truth",
+      "surrender",
+      "proof",
+      "ignition",
+      "the",
+      "hands",
+      "plans",
+      "the",
+      "entry",
+      "departure",
+      "conception",
+      "truth",
+      "surrender",
+      "proof",
+      "ignition",
+      "a",
+      "coming",
+      "mind",
+      "a",
+      "mind",
+      "Gold",
+      "Gold",
+      "Gold",
+      "snow",
+      "Gold",
+      "Gold",
+      "Gold",
+      "my",
+      "Gold",
+      "Gold",
+      "Gold",
+      "your",
+      "the",
+      "cars",
+      "youth",
+      "somewhere",
+      "a",
+      "lighted",
+      "persona",
+      "its",
+      "dying",
+      "the",
+      "routines",
+      "all",
+      "life",
+      "the",
+      "dew",
+      "dust",
+      "Lamneth",
+      "freedom",
+      "confusion",
+      "ambergris",
+      "dawn",
+      "grey",
+      "wine",
+      "mind",
+      "'43",
+      "me",
+      "Lamneth",
+      "breath",
+      "their",
+      "dawn",
+      "Willowdale,",
+      "the",
+      "his",
+      "will",
+      "his",
+      "black",
+      "the",
+      "long",
+      "the",
+      "Necromancer",
+      "your",
+      "horrors",
+      "dying",
+      "your",
+      "life",
+      "the",
+      "the",
+      "the",
+      "the",
+      "our",
+      "condensation",
+      "white",
+      "the",
+      "pixellated",
+      "sand",
+      "vagabonds",
+      "a",
+      "life",
+      "perception",
+      "obscure",
+      "ice",
+      "Paradise",
+      "immortality",
+      "eastern",
+      "life",
+      "ice",
+      "Paradise",
+      "the",
+      "the",
+      "ice",
+      "Paradise"
+    ],
+    "Megadon.": [
+      "City"
+    ],
+    "City": [
+      "and"
+    ],
+    "and": [
+      "sky",
+      "directed",
+      "play",
+      "all",
+      "join",
+      "picked",
+      "to",
+      "soon",
+      "give",
+      "his",
+      "horror",
+      "works",
+      "understanding",
+      "wonderous",
+      "open",
+      "grow",
+      "know",
+      "sadly",
+      "empty",
+      "I,",
+      "soul",
+      "free",
+      "I,",
+      "ultramarine",
+      "me,",
+      "me,",
+      "me",
+      "I,",
+      "culture,",
+      "race",
+      "me,",
+      "me,",
+      "me",
+      "I,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me",
+      "toc",
+      "weather",
+      "she",
+      "moon",
+      "shout",
+      "doubt",
+      "why",
+      "illusion",
+      "act",
+      "fact",
+      "why",
+      "baptized",
+      "why",
+      "the",
+      "the",
+      "the",
+      "close",
+      "sing",
+      "graceful,",
+      "Sky",
+      "Land",
+      "so",
+      "close",
+      "sing",
+      "graceful,",
+      "Sky",
+      "Land",
+      "truly",
+      "perfect",
+      "sing",
+      "graceful,",
+      "Sky",
+      "Land",
+      "sing",
+      "graceful,",
+      "Sky",
+      "Land",
+      "fury",
+      "the",
+      "radiation",
+      "romancers",
+      "synthetic",
+      "arrangers",
+      "a",
+      "rights",
+      "whites",
+      "heroes,",
+      "the",
+      "heroes,",
+      "heroes,",
+      "hereos,",
+      "the",
+      "wandering",
+      "speaking",
+      "flow",
+      "betrayal",
+      "repeat",
+      "I",
+      "pensive",
+      "kindness",
+      "incomplete",
+      "talk",
+      "reason",
+      "understanding",
+      "wisdom",
+      "shelter",
+      "comfort",
+      "I",
+      "lived",
+      "wine",
+      "cold",
+      "mind",
+      "fears",
+      "aimless",
+      "awareness",
+      "yet",
+      "purest",
+      "were",
+      "fear",
+      "free",
+      "liberty",
+      "mind",
+      "feel",
+      "portrayers",
+      "shook",
+      "it",
+      "shook",
+      "the",
+      "shook",
+      "it",
+      "shook",
+      "unexplained",
+      "wonder",
+      "pull",
+      "complex",
+      "in",
+      "the",
+      "tragic",
+      "strong",
+      "recede",
+      "a",
+      "farms",
+      "arranger",
+      "heat",
+      "love",
+      "forth",
+      "sound",
+      "endless",
+      "soft",
+      "friendly",
+      "sanctuary",
+      "friendly",
+      "sanctuary",
+      "nameless",
+      "cactus",
+      "trackless",
+      "friendless",
+      "endless",
+      "a",
+      "subdivided",
+      "simple",
+      "it's",
+      "prays",
+      "feeds",
+      "captivates",
+      "held",
+      "I",
+      "warm",
+      "fear",
+      "a",
+      "forbidding",
+      "saddening",
+      "soul,",
+      "is",
+      "a",
+      "the",
+      "the",
+      "the",
+      "life",
+      "life",
+      "talk",
+      "environmental",
+      "interchange",
+      "the",
+      "the",
+      "Man",
+      "gone"
+    ],
+    "sky": [
+      "become",
+      "in",
+      "grow",
+      "is"
+    ],
+    "become": [
+      "one,",
+      "with",
+      "my",
+      "empty,",
+      "a",
+      "a"
+    ],
+    "one,": [
+      "merging"
+    ],
+    "merging": [
+      "into"
+    ],
+    "a": [
+      "single",
+      "vast",
+      "pretty",
+      "Temple",
+      "few",
+      "good",
+      "nice",
+      "sound",
+      "sad",
+      "mountain",
+      "waste",
+      "dream,",
+      "way",
+      "fitful",
+      "spiral",
+      "sigh,",
+      "world",
+      "struggle",
+      "primitive",
+      "competition",
+      "job",
+      "theme",
+      "much",
+      "competition",
+      "definition",
+      "coral",
+      "competition",
+      "definition",
+      "snake",
+      "deal",
+      "rose",
+      "friend",
+      "demon",
+      "gentle",
+      "fortress",
+      "touch",
+      "little",
+      "submissive",
+      "lake",
+      "fine",
+      "fine",
+      "fine",
+      "moment",
+      "break",
+      "fine",
+      "mysterious,",
+      "final",
+      "course",
+      "spiral",
+      "long",
+      "lover's",
+      "tropic",
+      "force",
+      "flexible",
+      "date",
+      "black",
+      "bed",
+      "digital",
+      "page",
+      "road",
+      "liquid-crystal",
+      "desert",
+      "star",
+      "sister",
+      "decent",
+      "limited",
+      "gypsy",
+      "long-range",
+      "flickering",
+      "limited",
+      "desert",
+      "far",
+      "far",
+      "far",
+      "far",
+      "far",
+      "crack",
+      "new",
+      "season",
+      "reason",
+      "lone",
+      "ready",
+      "choice",
+      "path",
+      "losing",
+      "place",
+      "fortune",
+      "few",
+      "piece",
+      "battlefield",
+      "world",
+      "cloud",
+      "disembodied",
+      "silent",
+      "sudden",
+      "world",
+      "while",
+      "different",
+      "single",
+      "lighted",
+      "fish",
+      "stranger",
+      "long-awaited",
+      "stage",
+      "time",
+      "war",
+      "man",
+      "world",
+      "place",
+      "world",
+      "man",
+      "world",
+      "world",
+      "window",
+      "canopy",
+      "canopy",
+      "trail",
+      "short-lived",
+      "spiral",
+      "synthetic",
+      "view",
+      "world",
+      "rebel",
+      "runner",
+      "signal",
+      "restless",
+      "problem",
+      "cure",
+      "New",
+      "radio",
+      "writer",
+      "young",
+      "problem",
+      "fine",
+      "New",
+      "willingness",
+      "difference",
+      "different",
+      "tidewater",
+      "show",
+      "change",
+      "point",
+      "journey",
+      "new",
+      "new",
+      "while",
+      "country",
+      "country",
+      "grim",
+      "prehistoric",
+      "revelation",
+      "comet",
+      "constellation",
+      "country",
+      "country",
+      "deep",
+      "revelation",
+      "comet",
+      "constellation",
+      "revelation",
+      "comet",
+      "constellation",
+      "few",
+      "firefly",
+      "memory",
+      "rebel",
+      "hero",
+      "soft",
+      "target",
+      "world",
+      "soft",
+      "lonely",
+      "clenching",
+      "guiding",
+      "meaning",
+      "candle",
+      "dream",
+      "signpost",
+      "velvet",
+      "weapon",
+      "little",
+      "lot",
+      "weapon",
+      "steely",
+      "silken",
+      "weapon",
+      "moment",
+      "drink",
+      "friend",
+      "little",
+      "little",
+      "little",
+      "little",
+      "little",
+      "little",
+      "little",
+      "little",
+      "quiet",
+      "hurricane",
+      "vapor",
+      "vapor",
+      "shipwrecked",
+      "castaway,",
+      "desolate",
+      "modem",
+      "disembodied",
+      "grain",
+      "virtual",
+      "pair",
+      "woman's",
+      "window",
+      "shape-shifter",
+      "mood",
+      "shape-shifter",
+      "soft",
+      "clue",
+      "mad"
+    ],
+    "single": [
+      "plane,",
+      "facet"
+    ],
+    "plane,": [
+      "a"
+    ],
+    "vast": [
+      "sea"
+    ],
+    "sea": [
+      "of"
+    ],
+    "unbroken": [
+      "grey."
+    ],
+    "grey.": [
+      "The"
+    ],
+    "The": [
+      "Twin",
+      "less",
+      "massive",
+      "words",
+      "songs",
+      "pictures",
+      "people",
+      "priests",
+      "Priests:",
+      "elder",
+      "Priests:",
+      "elder",
+      "sleep",
+      "dream",
+      "cosmic",
+      "night",
+      "saint",
+      "brightness",
+      "night",
+      "saint",
+      "night",
+      "saint",
+      "space",
+      "space",
+      "gap",
+      "lens",
+      "time",
+      "space",
+      "netherworld",
+      "sign",
+      "Snow",
+      "battle's",
+      "land",
+      "x-ray",
+      "world",
+      "world",
+      "world",
+      "promise",
+      "ebb",
+      "feeling",
+      "change",
+      "hours",
+      "cards",
+      "struggle",
+      "gods",
+      "people",
+      "people",
+      "urge",
+      "wise",
+      "cities",
+      "people",
+      "universe",
+      "warriors",
+      "god",
+      "universal",
+      "real",
+      "underlying",
+      "big",
+      "end",
+      "big",
+      "hopeful",
+      "big",
+      "hopeful",
+      "pilot",
+      "big",
+      "end",
+      "big",
+      "hopeful",
+      "big",
+      "hopeful",
+      "more",
+      "greater",
+      "hearts",
+      "universe",
+      "mess",
+      "most",
+      "honest",
+      "measure",
+      "greatest",
+      "point",
+      "point",
+      "point",
+      "point",
+      "world",
+      "future",
+      "timeless",
+      "fact",
+      "role",
+      "stage",
+      "one",
+      "mountain",
+      "mountain",
+      "valley",
+      "coldness",
+      "sky",
+      "wheel",
+      "whiteness",
+      "mountain",
+      "road",
+      "mist",
+      "Fountain",
+      "key,",
+      "road",
+      "air",
+      "shadow",
+      "Necromancer",
+      "spell",
+      "Wraith",
+      "men",
+      "Wraith",
+      "innocence",
+      "innocence",
+      "innocence",
+      "river",
+      "world",
+      "world",
+      "sun",
+      "world",
+      "oceans",
+      "feverish",
+      "impulse",
+      "fact",
+      "deepest",
+      "last"
+    ],
+    "Twin": [
+      "Moons,"
+    ],
+    "Moons,": [
+      "just"
+    ],
+    "just": [
+      "two",
+      "plugging",
+      "a",
+      "can't",
+      "us...",
+      "us...",
+      "an",
+      "need",
+      "east",
+      "one",
+      "can't",
+      "didn't",
+      "followed",
+      "imagination",
+      "been",
+      "I",
+      "don't",
+      "a"
+    ],
+    "two": [
+      "pale",
+      "passing"
+    ],
+    "pale": [
+      "orbs"
+    ],
+    "orbs": [
+      "as"
+    ],
+    "as": [
+      "they",
+      "I",
+      "Father",
+      "strong",
+      "life",
+      "he",
+      "I",
+      "the",
+      "long",
+      "he",
+      "the",
+      "brothers",
+      "expression",
+      "market",
+      "it",
+      "it",
+      "a",
+      "a",
+      "a",
+      "simple",
+      "if",
+      "arrogant",
+      "his",
+      "his"
+    ],
+    "they": [
+      "trace",
+      "were",
+      "for",
+      "belong",
+      "couldn't",
+      "make",
+      "move",
+      "move",
+      "move",
+      "move",
+      "were",
+      "knew",
+      "had",
+      "had",
+      "slept",
+      "heard",
+      "wondered,",
+      "turned",
+      "bargained",
+      "are",
+      "don't",
+      "turn",
+      "will",
+      "stand",
+      "are",
+      "might",
+      "fear"
+    ],
+    "trace": [
+      "their"
+    ],
+    "their": [
+      "way",
+      "own",
+      "claimers",
+      "arms",
+      "hands",
+      "arms",
+      "hands",
+      "arms",
+      "hands",
+      "arms",
+      "hands",
+      "sister's",
+      "prize",
+      "cities",
+      "brothers",
+      "hearts",
+      "struggle,",
+      "worst",
+      "destinies",
+      "pools",
+      "effects",
+      "own",
+      "dreams",
+      "restless",
+      "final",
+      "disguise",
+      "thirst"
+    ],
+    "way": [
+      "across",
+      "to",
+      "that",
+      "we",
+      "we",
+      "for",
+      "to",
+      "of"
+    ],
+    "across": [
+      "the",
+      "the",
+      "the",
+      "the",
+      "the"
+    ],
+    "steely": [
+      "sky.",
+      "blade"
+    ],
+    "sky.": [
+      "I"
+    ],
+    "used": [
+      "to",
+      "against"
+    ],
+    "to": [
+      "think",
+      "the",
+      "think",
+      "wonder",
+      "lay",
+      "turn",
+      "make",
+      "share",
+      "a",
+      "his",
+      "my",
+      "do",
+      "me.",
+      "life,",
+      "realms",
+      "tear",
+      "change",
+      "comfort",
+      "go.",
+      "pass",
+      "the",
+      "be",
+      "the",
+      "each",
+      "be",
+      "sin",
+      "resistance",
+      "be",
+      "humble",
+      "sand",
+      "sin",
+      "Rome",
+      "respond",
+      "sin",
+      "the",
+      "rule",
+      "defend",
+      "give",
+      "gently",
+      "face",
+      "yes",
+      "ahh,",
+      "yes",
+      "penetrate",
+      "yes",
+      "ahh,",
+      "yes",
+      "pray",
+      "the",
+      "howl",
+      "face",
+      "yes",
+      "ahh,",
+      "yes",
+      "the",
+      "Hell",
+      "I",
+      "one",
+      "O",
+      "me",
+      "O",
+      "the",
+      "fly",
+      "fly",
+      "worship,",
+      "fly",
+      "fly",
+      "fly",
+      "grace",
+      "telescopic",
+      "cross",
+      "my",
+      "spend",
+      "fly",
+      "stay",
+      "stay",
+      "talk",
+      "sweep",
+      "do?",
+      "do?",
+      "do?",
+      "the",
+      "redemption",
+      "adventure",
+      "the",
+      "get",
+      "chance",
+      "direct",
+      "give",
+      "decide,",
+      "rule",
+      "keep",
+      "claim",
+      "build",
+      "build",
+      "be",
+      "give",
+      "light",
+      "me",
+      "act",
+      "seem",
+      "be",
+      "lie",
+      "do",
+      "explore",
+      "hold",
+      "wish",
+      "hold",
+      "wish",
+      "say",
+      "spin",
+      "expand",
+      "a",
+      "go",
+      "run",
+      "match",
+      "catch",
+      "make",
+      "mend",
+      "know",
+      "choose",
+      "win",
+      "lose",
+      "factories",
+      "walk",
+      "save",
+      "pave",
+      "know",
+      "choose",
+      "win",
+      "lose",
+      "appear",
+      "risk",
+      "score",
+      "rise",
+      "survive",
+      "be",
+      "an",
+      "arrive",
+      "return",
+      "arrive",
+      "see",
+      "return",
+      "light",
+      "grow",
+      "return",
+      "aching",
+      "play",
+      "keep",
+      "keep",
+      "smooth",
+      "soothe",
+      "feel",
+      "rats",
+      "dream",
+      "conceal",
+      "screen",
+      "deceive",
+      "applause",
+      "change",
+      "change",
+      "exist",
+      "me",
+      "dust",
+      "breath",
+      "climb",
+      "consciousness",
+      "the",
+      "steer",
+      "hear",
+      "hear",
+      "give",
+      "live",
+      "my",
+      "the",
+      "battle",
+      "run",
+      "darken",
+      "fear...but",
+      "be",
+      "be",
+      "shove",
+      "be",
+      "the",
+      "spend",
+      "pause",
+      "transcend",
+      "live",
+      "look",
+      "the",
+      "pause",
+      "look",
+      "look",
+      "the",
+      "horizon",
+      "ashes",
+      "the",
+      "deviate",
+      "elevate",
+      "end,"
+    ],
+    "think": [
+      "I",
+      "that",
+      "what",
+      "about",
+      "of",
+      "I",
+      "that",
+      "I'm",
+      "I'm",
+      "and",
+      "about",
+      "we"
+    ],
+    "had": [
+      "a",
+      "peace",
+      "no",
+      "lost",
+      "aplenty",
+      "before...",
+      "the",
+      "heard"
+    ],
+    "pretty": [
+      "good"
+    ],
+    "good": [
+      "life",
+      "life,",
+      "to",
+      "friends"
+    ],
+    "life": [
+      "here,",
+      "is",
+      "has",
+      "might",
+      "of",
+      "ahead",
+      "again",
+      "begins",
+      "has",
+      "is",
+      "to",
+      "is",
+      "behind?",
+      "be",
+      "are",
+      "are"
+    ],
+    "here,": [
+      "just"
+    ],
+    "plugging": [
+      "into"
+    ],
+    "my": [
+      "machine",
+      "beloved",
+      "hands.",
+      "fingers",
+      "other",
+      "first",
+      "own",
+      "name",
+      "precious",
+      "music",
+      "last",
+      "total",
+      "death",
+      "dream,",
+      "eyes",
+      "head",
+      "dreams",
+      "life",
+      "garden",
+      "soul",
+      "armor",
+      "role",
+      "psyche",
+      "role",
+      "image",
+      "foolish",
+      "ship,",
+      "deadly",
+      "heart",
+      "shoulders",
+      "shoulders",
+      "shoulders",
+      "life",
+      "dear",
+      "homeland",
+      "mind",
+      "way",
+      "silent",
+      "story",
+      "thoughts",
+      "thoughts",
+      "thoughts",
+      "senses",
+      "final",
+      "imagination",
+      "dreams,",
+      "imagination",
+      "dreams,",
+      "cruel",
+      "imagination",
+      "dreams,",
+      "needs",
+      "eyes",
+      "heart",
+      "skin",
+      "vision",
+      "ship",
+      "own",
+      "crew",
+      "mind",
+      "life",
+      "head,",
+      "life",
+      "troubles",
+      "wandering",
+      "wonder",
+      "heart",
+      "eyes",
+      "back",
+      "breath",
+      "skin",
+      "face",
+      "eyes",
+      "defenses",
+      "past",
+      "virtual",
+      "fast",
+      "bitter"
+    ],
+    "machine": [
+      "for"
+    ],
+    "for": [
+      "the",
+      "all",
+      "one",
+      "the",
+      "you?",
+      "days",
+      "the",
+      "the",
+      "the",
+      "Eden",
+      "control",
+      "battle,",
+      "the",
+      "their",
+      "the",
+      "strangers",
+      "as",
+      "a",
+      "evermore...",
+      "the",
+      "the",
+      "many",
+      "a",
+      "the",
+      "small",
+      "sale",
+      "distant",
+      "direction",
+      "salvation",
+      "my",
+      "every",
+      "freedom",
+      "vengeance",
+      "freedom",
+      "the",
+      "rent",
+      "rent",
+      "the",
+      "the",
+      "the"
+    ],
+    "day,then": [
+      "watching"
+    ],
+    "watching": [
+      "Templevision"
+    ],
+    "Templevision": [
+      "or"
+    ],
+    "or": [
+      "reading",
+      "why",
+      "hindsight",
+      "form",
+      "a",
+      "a",
+      "a",
+      "the",
+      "be",
+      "be",
+      "a",
+      "fight?",
+      "government"
+    ],
+    "reading": [
+      "a"
+    ],
+    "Temple": [
+      "Paper",
+      "Hall."
+    ],
+    "Paper": [
+      "in"
+    ],
+    "in": [
+      "the",
+      "trade",
+      "hand",
+      "the",
+      "my",
+      "the",
+      "my",
+      "my",
+      "my",
+      "bed",
+      "depths",
+      "a",
+      "a",
+      "atomic",
+      "the",
+      "the",
+      "the",
+      "the",
+      "my",
+      "my",
+      "my",
+      "my",
+      "my",
+      "my",
+      "my",
+      "the",
+      "the",
+      "a",
+      "the",
+      "the",
+      "the",
+      "the",
+      "defeat,",
+      "the",
+      "mid-air",
+      "light",
+      "disguise",
+      "the",
+      "perfect",
+      "clockwork",
+      "Zion",
+      "Babylon",
+      "a",
+      "the",
+      "the",
+      "your",
+      "the",
+      "Vegas",
+      "the",
+      "the",
+      "Dreamland",
+      "the",
+      "the",
+      "tongues",
+      "on",
+      "anger,",
+      "on",
+      "on",
+      "the",
+      "on",
+      "some",
+      "Lotusland",
+      "chains",
+      "the",
+      "the",
+      "flowing",
+      "grace",
+      "tales",
+      "battle",
+      "silence",
+      "a",
+      "this",
+      "the",
+      "a",
+      "the",
+      "the",
+      "their",
+      "a",
+      "space",
+      "a",
+      "motion",
+      "motion",
+      "the",
+      "this",
+      "a",
+      "a",
+      "this",
+      "my",
+      "the",
+      "a",
+      "a",
+      "this",
+      "my",
+      "the",
+      "the",
+      "this",
+      "my",
+      "the",
+      "the",
+      "the",
+      "ticking",
+      "a",
+      "your",
+      "a",
+      "trouble",
+      "a",
+      "the",
+      "my",
+      "wonder",
+      "our",
+      "motion",
+      "overcast",
+      "his",
+      "the",
+      "the",
+      "this",
+      "emotional",
+      "a",
+      "a",
+      "a",
+      "the",
+      "a",
+      "the",
+      "a",
+      "the",
+      "the",
+      "a",
+      "my",
+      "the",
+      "the",
+      "an"
+    ],
+    "evening.": [
+      "My"
+    ],
+    "My": [
+      "friend",
+      "last",
+      "spirits",
+      "lifeblood",
+      "counterpart,",
+      "ship",
+      "ship",
+      "thoughts",
+      "life",
+      "eyes",
+      "life",
+      "eyes",
+      "way",
+      "gaze",
+      "heart",
+      "soul"
+    ],
+    "friend": [
+      "Jon"
+    ],
+    "Jon": [
+      "always"
+    ],
+    "always": [
+      "said",
+      "been",
+      "had",
+      "eager"
+    ],
+    "said": [
+      "it"
+    ],
+    "it": [
+      "was",
+      "was",
+      "all..",
+      "up,",
+      "reverently",
+      "might",
+      "was",
+      "could",
+      "gives",
+      "sings",
+      "can",
+      "will",
+      "was",
+      "all",
+      "has",
+      "might",
+      "makes",
+      "makes",
+      "makes",
+      "must",
+      "caught",
+      "all",
+      "first",
+      "all",
+      "would",
+      "back",
+      "away",
+      "all",
+      "all",
+      "would",
+      "back",
+      "away",
+      "just",
+      "does",
+      "was...",
+      "turns",
+      "safe",
+      "all",
+      "due",
+      "short",
+      "short",
+      "all",
+      "doesn't",
+      "flame",
+      "all",
+      "in"
+    ],
+    "was": [
+      "nicer",
+      "told,",
+      "a",
+      "happy.",
+      "hidden",
+      "beautiful",
+      "a",
+      "overwhelmed",
+      "gone",
+      "king",
+      "young",
+      "wrong",
+      "crossed",
+      "torn",
+      "told",
+      "astonished",
+      "something",
+      "begun",
+      "done",
+      "begun",
+      "done",
+      "the"
+    ],
+    "nicer": [
+      "here"
+    ],
+    "here": [
+      "than",
+      "as",
+      "to",
+      "today",
+      "for"
+    ],
+    "than": [
+      "under",
+      "we",
+      "receive",
+      "they",
+      "are",
+      "your",
+      "life?",
+      "his"
+    ],
+    "under": [
+      "the",
+      "the",
+      "the",
+      "observation",
+      "anesthetic",
+      "your",
+      "the"
+    ],
+    "atmospheric": [
+      "domes"
+    ],
+    "domes": [
+      "of"
+    ],
+    "Outer": [
+      "Planets."
+    ],
+    "Planets.": [
+      "We"
+    ],
+    "We": [
+      "have",
+      "are",
+      "are",
+      "have",
+      "have",
+      "have",
+      "agree",
+      "agree",
+      "add",
+      "might",
+      "just",
+      "monitor",
+      "need",
+      "travel",
+      "travel",
+      "dance",
+      "would",
+      "can",
+      "set",
+      "can",
+      "can",
+      "suspend",
+      "sometimes",
+      "suspend",
+      "feel",
+      "feel",
+      "treasure",
+      "feel",
+      "don't",
+      "are",
+      "don't"
+    ],
+    "have": [
+      "had",
+      "always",
+      "no",
+      "our",
+      "they",
+      "not",
+      "only",
+      "seen",
+      "assumed",
+      "their",
+      "made",
+      "memory",
+      "no",
+      "passed",
+      "no",
+      "no",
+      "just",
+      "come",
+      "dined"
+    ],
+    "peace": [
+      "since",
+      "of"
+    ],
+    "since": [
+      "2062,"
+    ],
+    "2062,": [
+      "when"
+    ],
+    "when": [
+      "the",
+      "we're",
+      "we're",
+      "we're",
+      "we're",
+      "I'm",
+      "it",
+      "it",
+      "the",
+      "first",
+      "push"
+    ],
+    "surviving": [
+      "planets"
+    ],
+    "planets": [
+      "were",
+      "long",
+      "of"
+    ],
+    "were": [
+      "banded",
+      "words",
+      "dealt",
+      "stacked",
+      "divided",
+      "delighted",
+      "consulted",
+      "abandoned",
+      "contented",
+      "so",
+      "divided",
+      "sad",
+      "far"
+    ],
+    "banded": [
+      "together"
+    ],
+    "together": [
+      "under"
+    ],
+    "Red": [
+      "Star",
+      "Star",
+      "alert",
+      "alert",
+      "alert",
+      "alert"
+    ],
+    "Star": [
+      "of",
+      "proudly"
+    ],
+    "Solar": [
+      "Federation.",
+      "Federation"
+    ],
+    "Federation.": [
+      "The"
+    ],
+    "less": [
+      "fortunate"
+    ],
+    "fortunate": [
+      "gave"
+    ],
+    "gave": [
+      "us"
+    ],
+    "us": [
+      "a",
+      "further",
+      "along?",
+      "well",
+      "along",
+      "down"
+    ],
+    "few": [
+      "new",
+      "more",
+      "good"
+    ],
+    "new": [
+      "moons.",
+      "wonder",
+      "birth",
+      "moon",
+      "life",
+      "chapter",
+      "day",
+      "way"
+    ],
+    "moons.": [
+      "I"
+    ],
+    "believed": [
+      "what"
+    ],
+    "what": [
+      "I",
+      "it",
+      "it",
+      "we",
+      "my",
+      "am",
+      "you're",
+      "am",
+      "you're",
+      "am",
+      "you're",
+      "our",
+      "our",
+      "I'm",
+      "was",
+      "they",
+      "they",
+      "you",
+      "you",
+      "they're",
+      "I",
+      "you",
+      "you"
+    ],
+    "told,": [
+      "I"
+    ],
+    "thought": [
+      "it",
+      "I",
+      "that",
+      "we'd",
+      "we'd",
+      "we'd",
+      "we'd",
+      "we'd",
+      "me",
+      "I"
+    ],
+    "life,": [
+      "I",
+      "a",
+      "in"
+    ],
+    "happy.": [
+      "Then"
+    ],
+    "Then": [
+      "I",
+      "all",
+      "they"
+    ],
+    "found": [
+      "something",
+      "it.",
+      "an",
+      "it"
+    ],
+    "something": [
+      "that",
+      "here",
+      "more?",
+      "more...",
+      "calling",
+      "calling",
+      "more"
+    ],
+    "that": [
+      "changed",
+      "every",
+      "give",
+      "was",
+      "vibrate,",
+      "I've",
+      "build",
+      "fall",
+      "I",
+      "you",
+      "it",
+      "has",
+      "it",
+      "would",
+      "tomorrow",
+      "we're",
+      "we're",
+      "empty",
+      "life",
+      "can",
+      "you",
+      "timeless",
+      "would",
+      "August",
+      "be,",
+      "fired",
+      "fired",
+      "fired",
+      "she's",
+      "soothes",
+      "mountain",
+      "promise",
+      "shine",
+      "chill",
+      "we",
+      "he",
+      "they",
+      "they",
+      "surround",
+      "I",
+      "surround",
+      "surround",
+      "freeze"
+    ],
+    "changed": [
+      "it",
+      "for"
+    ],
+    "With": [
+      "acknowledgements",
+      "hungry",
+      "one",
+      "one",
+      "the",
+      "uncertain",
+      "the",
+      "the",
+      "insufficient",
+      "a",
+      "weapons",
+      "sentimental",
+      "embattled",
+      "evil",
+      "an"
+    ],
+    "acknowledgements": [
+      "to"
+    ],
+    "genius": [
+      "of"
+    ],
+    "Ayn": [
+      "Rand"
+    ],
+    "And": [
+      "the",
+      "joyously",
+      "hear",
+      "fell",
+      "lie",
+      "northwest",
+      "someone",
+      "I",
+      "I",
+      "I",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "simple",
+      "now",
+      "converse",
+      "the",
+      "your",
+      "the",
+      "they",
+      "the",
+      "it",
+      "the",
+      "the",
+      "stayed",
+      "they",
+      "we",
+      "we",
+      "we",
+      "bury",
+      "learn",
+      "a",
+      "keep",
+      "run",
+      "watch",
+      "every",
+      "the",
+      "no",
+      "the",
+      "the",
+      "start",
+      "they're",
+      "as",
+      "sailed",
+      "I",
+      "there's",
+      "turn",
+      "I",
+      "my",
+      "the",
+      "the",
+      "tears",
+      "southward",
+      "the",
+      "the",
+      "those",
+      "the",
+      "the",
+      "the",
+      "set",
+      "throw",
+      "you",
+      "the",
+      "drink",
+      "drink",
+      "drunk"
+    ],
+    "meek": [
+      "shall"
+    ],
+    "shall": [
+      "inherit",
+      "be'",
+      "I"
+    ],
+    "inherit": [
+      "the"
+    ],
+    "massive": [
+      "grey"
+    ],
+    "grey": [
+      "walls",
+      "my",
+      "traces"
+    ],
+    "walls": [
+      "of"
+    ],
+    "Temples": [
+      "rise",
+      "of",
+      "of",
+      "down"
+    ],
+    "rise": [
+      "from",
+      "above",
+      "and",
+      "and"
+    ],
+    "from": [
+      "the",
+      "within!",
+      "the",
+      "paradise",
+      "earth",
+      "the",
+      "the",
+      "satellites",
+      "the",
+      "her",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "here",
+      "the",
+      "phantom",
+      "afar",
+      "Olympus",
+      "across",
+      "afa",
+      "a",
+      "the",
+      "rocky",
+      "breath",
+      "my",
+      "the",
+      "the",
+      "chains",
+      "the",
+      "her",
+      "the",
+      "the"
+    ],
+    "Heart": [
+      "of"
+    ],
+    "Federation": [
+      "city.",
+      "long"
+    ],
+    "city.": [
+      "I"
+    ],
+    "been": [
+      "awed",
+      "crushed",
+      "a",
+      "opened",
+      "brokenthe"
+    ],
+    "awed": [
+      "by"
+    ],
+    "by": [
+      "them,",
+      "the",
+      "both",
+      "the",
+      "one",
+      "flickering",
+      "her",
+      "night,",
+      "night,",
+      "night",
+      "Loud",
+      "Loud",
+      "a",
+      "shrieking",
+      "so",
+      "time",
+      "on",
+      "grain",
+      "the",
+      "persistence",
+      "Kubla",
+      "Kubla"
+    ],
+    "them,": [
+      "to"
+    ],
+    "facet": [
+      "of"
+    ],
+    "every": [
+      "life",
+      "treasure,",
+      "prize",
+      "prize",
+      "day",
+      "day",
+      "season",
+      "passing",
+      "move",
+      "move",
+      "move",
+      "move",
+      "tear"
+    ],
+    "is": [
+      "regulated",
+      "doing",
+      "no",
+      "that",
+      "still",
+      "still",
+      "not",
+      "not",
+      "not",
+      "not",
+      "not",
+      "not",
+      "tic",
+      "largely",
+      "no",
+      "turning",
+      "turning",
+      "partly",
+      "turning",
+      "turning",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "gathered",
+      "rising",
+      "waiting",
+      "clearing",
+      "nearing",
+      "victorious",
+      "saved",
+      "well",
+      "there",
+      "her",
+      "under",
+      "under",
+      "here",
+      "not",
+      "a",
+      "a",
+      "better",
+      "slipping",
+      "fashioned",
+      "here",
+      "not",
+      "burned",
+      "not",
+      "gone",
+      "the",
+      "the",
+      "easy",
+      "pitching",
+      "near",
+      "caught",
+      "not",
+      "ever",
+      "rising",
+      "peaking",
+      "pounding",
+      "just",
+      "lined",
+      "charged",
+      "already",
+      "a",
+      "not",
+      "not",
+      "turning",
+      "turning",
+      "lost",
+      "pure"
+    ],
+    "regulated": [
+      "and"
+    ],
+    "directed": [
+      "from"
+    ],
+    "within!": [
+      "Our"
+    ],
+    "books,": [
+      "our"
+    ],
+    "our": [
+      "music,",
+      "work",
+      "walls",
+      "work",
+      "planets",
+      "eyes",
+      "eyes",
+      "dreams",
+      "dreams",
+      "aimless",
+      "weary",
+      "course",
+      "road",
+      "goals",
+      "disbelief",
+      "disbelief",
+      "own",
+      "imaginations",
+      "eyes",
+      "perceptions",
+      "unity",
+      "transitory",
+      "virtual",
+      "circuits"
+    ],
+    "music,": [
+      "our"
+    ],
+    "work": [
+      "and",
+      "to",
+      "of",
+      "in"
+    ],
+    "play": [
+      "are",
+      "things",
+      "with",
+      "it",
+      "along"
+    ],
+    "are": [
+      "all",
+      "the",
+      "the",
+      "low,",
+      "strangers",
+      "pressed",
+      "in",
+      "young",
+      "young",
+      "charging",
+      "those",
+      "malign...'",
+      "those",
+      "all",
+      "merely",
+      "not",
+      "dreamed",
+      "entertained",
+      "my",
+      "drawn",
+      "new",
+      "near",
+      "bright.",
+      "free",
+      "sheltered",
+      "a",
+      "a",
+      "deep",
+      "wide",
+      "deep",
+      "wide"
+    ],
+    "all": [
+      "looked",
+      "and",
+      "for",
+      "see",
+      "make",
+      "seems",
+      "these",
+      "my",
+      "planets",
+      "night",
+      "aware",
+      "at",
+      "the",
+      "began",
+      "began",
+      "began",
+      "began",
+      "the",
+      "day",
+      "before",
+      "seems",
+      "provided",
+      "machines",
+      "things",
+      "confusion",
+      "his",
+      "down",
+      "the"
+    ],
+    "looked": [
+      "after",
+      "up",
+      "in"
+    ],
+    "after": [
+      "by",
+      "time",
+      "wave",
+      "tide"
+    ],
+    "benevolent": [
+      "wisdom"
+    ],
+    "wisdom": [
+      "of",
+      "fair"
+    ],
+    "We've": [
+      "taken",
+      "got"
+    ],
+    "taken": [
+      "care"
+    ],
+    "care": [
+      "of",
+      "what",
+      "what"
+    ],
+    "words": [
+      "you",
+      "of"
+    ],
+    "you": [
+      "read",
+      "sing",
+      "so",
+      "should",
+      "show",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "lack?\"",
+      "stranded",
+      "choose",
+      "still",
+      "all",
+      "food",
+      "fire",
+      "warm",
+      "transform'",
+      "solace",
+      "right",
+      "Cygnus",
+      "shall",
+      "know",
+      "were",
+      "can",
+      "away",
+      "know",
+      "can",
+      "hear",
+      "believe?",
+      "say",
+      "say",
+      "in",
+      "can",
+      "in",
+      "romance",
+      "say",
+      "say",
+      "say",
+      "say",
+      "trade",
+      "free",
+      "can",
+      "need"
+    ],
+    "songs": [
+      "you",
+      "and"
+    ],
+    "pictures": [
+      "that"
+    ],
+    "give": [
+      "pleasure",
+      "music",
+      "a",
+      "than",
+      "you",
+      "it",
+      "it"
+    ],
+    "To": [
+      "your",
+      "come",
+      "claim",
+      "hesitate",
+      "those",
+      "be",
+      "soar...",
+      "be",
+      "a",
+      "what",
+      "what",
+      "what",
+      "leave",
+      "want",
+      "find",
+      "the",
+      "this",
+      "the",
+      "keep",
+      "build",
+      "turn",
+      "work",
+      "play",
+      "reflect",
+      "keep",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "magnetic",
+      "the",
+      "the",
+      "the",
+      "where",
+      "where",
+      "relax",
+      "make",
+      "resist",
+      "the",
+      "the",
+      "days",
+      "catch",
+      "pass",
+      "any",
+      "a",
+      "see",
+      "seek",
+      "walk",
+      "break",
+      "stand",
+      "taste",
+      "find",
+      "walk",
+      "taste"
+    ],
+    "your": [
+      "eye",
+      "silly",
+      "saying",
+      "best",
+      "commands",
+      "own",
+      "radar",
+      "sights",
+      "feet",
+      "feelings",
+      "primal",
+      "prison",
+      "face",
+      "mind",
+      "demands",
+      "applause",
+      "fragile",
+      "gentle",
+      "judgment",
+      "Hell",
+      "lying",
+      "signal",
+      "fingers",
+      "impulse",
+      "message",
+      "heartbeat"
+    ],
+    "One": [
+      "for",
+      "day",
+      "day",
+      "day",
+      "day",
+      "day",
+      "day",
+      "day",
+      "must",
+      "little",
+      "little",
+      "humanoid",
+      "android"
+    ],
+    "Work": [
+      "together"
+    ],
+    "Common": [
+      "sons"
+    ],
+    "Never": [
+      "need"
+    ],
+    "need": [
+      "to",
+      "for",
+      "for",
+      "to",
+      "a",
+      "a",
+      "someone",
+      "only",
+      "I",
+      "a",
+      "a",
+      "reverse",
+      "a",
+      "reverse"
+    ],
+    "How": [
+      "or",
+      "many"
+    ],
+    "Of": [
+      "the",
+      "the",
+      "Man",
+      "powers",
+      "friends",
+      "human"
+    ],
+    "Our": [
+      "great",
+      "stock",
+      "world",
+      "world",
+      "causes"
+    ],
+    "great": [
+      "computers",
+      "enchantress"
+    ],
+    "Fill": [
+      "the"
+    ],
+    "hallowed": [
+      "halls"
+    ],
+    "All": [
+      "the",
+      "around",
+      "who",
+      "along",
+      "along",
+      "preordained",
+      "the",
+      "of",
+      "the",
+      "the",
+      "those",
+      "the"
+    ],
+    "gifts": [
+      "of",
+      "beyond"
+    ],
+    "Are": [
+      "held",
+      "swallowed"
+    ],
+    "held": [
+      "within",
+      "and",
+      "against",
+      "against"
+    ],
+    "within": [
+      "our",
+      "wheels",
+      "the",
+      "the"
+    ],
+    "Look": [
+      "around",
+      "at"
+    ],
+    "around": [
+      "the",
+      "the",
+      "me",
+      "in",
+      "me",
+      "me",
+      "me",
+      "me"
+    ],
+    "world": [
+      "we've",
+      "is",
+      "could",
+      "of",
+      "like",
+      "of",
+      "is",
+      "is",
+      "weighs",
+      "weighs",
+      "weighs",
+      "we",
+      "we",
+      "we",
+      "was",
+      "of",
+      "that",
+      "was",
+      "of",
+      "without",
+      "without",
+      "without",
+      "without",
+      "out",
+      "is",
+      "as",
+      "go",
+      "calls",
+      "because",
+      "is,",
+      "is",
+      "is,",
+      "is",
+      "is",
+      "to"
+    ],
+    "we've": [
+      "made",
+      "been",
+      "seen"
+    ],
+    "stock": [
+      "in"
+    ],
+    "Come": [
+      "and"
+    ],
+    "join": [
+      "the"
+    ],
+    "What": [
+      "a",
+      "can",
+      "can",
+      "use",
+      "price",
+      "you",
+      "you"
+    ],
+    "nice": [
+      "contented"
+    ],
+    "contented": [
+      "world"
+    ],
+    "Let": [
+      "the",
+      "them",
+      "the",
+      "the",
+      "my",
+      "your"
+    ],
+    "Be": [
+      "unfurled",
+      "cool"
+    ],
+    "Hold": [
+      "the"
+    ],
+    "High": [
+      "in",
+      "above"
+    ],
+    "Behind": [
+      "my"
+    ],
+    "beloved": [
+      "waterfall,"
+    ],
+    "waterfall,": [
+      "in"
+    ],
+    "little": [
+      "room",
+      "space",
+      "creatures",
+      "victory",
+      "victory",
+      "victory",
+      "bit",
+      "bit",
+      "bit",
+      "bit",
+      "bit",
+      "bit",
+      "bit",
+      "bit",
+      "bit"
+    ],
+    "room": [
+      "that"
+    ],
+    "beneath": [
+      "the",
+      "his",
+      "the",
+      "a"
+    ],
+    "cave,": [
+      "I"
+    ],
+    "it.": [
+      "I"
+    ],
+    "brushed": [
+      "away"
+    ],
+    "away": [
+      "the",
+      "from",
+      "in",
+      "from",
+      "in",
+      "like",
+      "like",
+      "like"
+    ],
+    "dust": [
+      "of",
+      "is",
+      "to"
+    ],
+    "picked": [
+      "it"
+    ],
+    "up,": [
+      "holding",
+      "old"
+    ],
+    "holding": [
+      "it"
+    ],
+    "reverently": [
+      "in"
+    ],
+    "hands.": [
+      "I"
+    ],
+    "no": [
+      "idea",
+      "need",
+      "longer",
+      "other",
+      "safe",
+      "clue",
+      "swimming",
+      "difference",
+      "difference",
+      "difference",
+      "shape",
+      "heart",
+      "one's",
+      "charms",
+      "peace",
+      "one",
+      "one",
+      "one"
+    ],
+    "might": [
+      "be,",
+      "do",
+      "come",
+      "be",
+      "agree",
+      "be",
+      "be",
+      "help",
+      "climb"
+    ],
+    "be,": [
+      "but",
+      "and"
+    ],
+    "but": [
+      "it",
+      "even",
+      "there",
+      "how",
+      "how",
+      "no",
+      "when",
+      "time"
+    ],
+    "learned": [
+      "to",
+      "to"
+    ],
+    "lay": [
+      "my"
+    ],
+    "fingers": [
+      "across",
+      "walk"
+    ],
+    "wires,": [
+      "and"
+    ],
+    "turn": [
+      "the",
+      "out",
+      "the",
+      "my",
+      "south,",
+      "my",
+      "my"
+    ],
+    "make": [
+      "them",
+      "their",
+      "a",
+      "contact",
+      "contact",
+      "you",
+      "his",
+      "an",
+      "the"
+    ],
+    "them": [
+      "sound",
+      "all",
+      "in",
+      "unprepared",
+      "away",
+      "away",
+      "away",
+      "hunger",
+      "to"
+    ],
+    "sound": [
+      "differently.",
+      "the"
+    ],
+    "differently.": [
+      "As"
+    ],
+    "As": [
+      "I",
+      "if",
+      "if",
+      "if",
+      "if",
+      "if",
+      "the",
+      "a",
+      "was",
+      "it",
+      "I",
+      "grey",
+      "the",
+      "a"
+    ],
+    "struck": [
+      "the"
+    ],
+    "wires": [
+      "with",
+      "that"
+    ],
+    "with": [
+      "my",
+      "purpose",
+      "my",
+      "a",
+      "hate",
+      "love",
+      "fate",
+      "life",
+      "sense",
+      "some",
+      "the",
+      "the",
+      "the",
+      "his",
+      "his",
+      "yesterday",
+      "my",
+      "light",
+      "eyes",
+      "peril",
+      "fear",
+      "his",
+      "fear",
+      "a",
+      "a"
+    ],
+    "hand,": [
+      "I"
+    ],
+    "produced": [
+      "my"
+    ],
+    "first": [
+      "harmonious",
+      "began",
+      "I"
+    ],
+    "harmonious": [
+      "sounds,"
+    ],
+    "sounds,": [
+      "and"
+    ],
+    "soon": [
+      "my",
+      "forget"
+    ],
+    "own": [
+      "music!",
+      "music",
+      "understanding",
+      "image",
+      "mistakes",
+      "hands"
+    ],
+    "music!": [
+      "How"
+    ],
+    "different": [
+      "it",
+      "way",
+      "aim",
+      "course"
+    ],
+    "could": [
+      "be",
+      "use",
+      "not",
+      "not",
+      "lose",
+      "lose",
+      "be",
+      "slow"
+    ],
+    "be": [
+      "from",
+      "that",
+      "true",
+      "happy",
+      "self-evident",
+      "grand",
+      "destroyed",
+      "continued...",
+      "worth",
+      "worth",
+      "wine",
+      "grey",
+      "so",
+      "wrong",
+      "lighted",
+      "sure",
+      "changed",
+      "tamed",
+      "alive",
+      "heaven's",
+      "the",
+      "cast",
+      "cast",
+      "gone",
+      "drawing",
+      "singing",
+      "coming",
+      "felt,",
+      "done",
+      "held",
+      "held",
+      "larger",
+      "limited",
+      "used",
+      "worn"
+    ],
+    "music": [
+      "of",
+      "of"
+    ],
+    "Temples!": [
+      "I"
+    ],
+    "can't": [
+      "wait",
+      "wait",
+      "believe",
+      "be",
+      "you",
+      "pretend",
+      "pray",
+      "pretend",
+      "see",
+      "resist",
+      "get"
+    ],
+    "wait": [
+      "to",
+      "to",
+      "until"
+    ],
+    "tell": [
+      "the",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)",
+      "me)"
+    ],
+    "priests": [
+      "about",
+      "praise"
+    ],
+    "about": [
+      "it!",
+      "your",
+      "the",
+      "you",
+      "you...",
+      "you",
+      "you",
+      "you",
+      "you",
+      "the",
+      "love,",
+      "his",
+      "society",
+      "his",
+      "society"
+    ],
+    "can": [
+      "this",
+      "this",
+      "do",
+      "no",
+      "carry",
+      "see",
+      "face",
+      "almost",
+      "almost",
+      "get",
+      "get",
+      "get",
+      "get",
+      "almost",
+      "almost",
+      "get",
+      "get",
+      "get",
+      "get",
+      "almost",
+      "almost",
+      "get",
+      "get",
+      "get",
+      "get",
+      "get",
+      "get",
+      "choose",
+      "choose",
+      "kill",
+      "build",
+      "make",
+      "live",
+      "steer",
+      "walk",
+      "run",
+      "be",
+      "happen...",
+      "happen...",
+      "happen...",
+      "happen...",
+      "happen...",
+      "escape",
+      "escape",
+      "lose",
+      "lose",
+      "you",
+      "twist",
+      "raise",
+      "dance",
+      "put",
+      "manipulate",
+      "be",
+      "wait",
+      "see",
+      "save",
+      "hold",
+      "play",
+      "smell",
+      "taste",
+      "feel"
+    ],
+    "this": [
+      "strange",
+      "thing",
+      "new",
+      "right",
+      "beauty",
+      "world.",
+      "strange",
+      "cave",
+      "immortal",
+      "unlikely",
+      "was",
+      "enchanted",
+      "desolation",
+      "desolation",
+      "desolation",
+      "mad",
+      "moment",
+      "moment",
+      "motion",
+      "moment",
+      "key",
+      "key",
+      "friction"
+    ],
+    "strange": [
+      "device",
+      "and"
+    ],
+    "device": [
+      "be?"
+    ],
+    "When": [
+      "I",
+      "we",
+      "we",
+      "our",
+      "the",
+      "the",
+      "I",
+      "the",
+      "you",
+      "I"
+    ],
+    "touch": [
+      "it,",
+      "of",
+      "with",
+      "you",
+      "your"
+    ],
+    "it,": [
+      "it"
+    ],
+    "gives": [
+      "forth",
+      "way",
+      "them"
+    ],
+    "forth": [
+      "a",
+      "to",
+      "from"
+    ],
+    "It's": [
+      "got",
+      "nothing",
+      "just",
+      "so",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "time",
+      "changing",
+      "hard",
+      "really"
+    ],
+    "got": [
+      "wires",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "to",
+      "a",
+      "to",
+      "to",
+      "nothing",
+      "mixed",
+      "to",
+      "mixed",
+      "to"
+    ],
+    "vibrate,": [
+      "and"
+    ],
+    "thing": [
+      "be"
+    ],
+    "I've": [
+      "found?",
+      "found",
+      "lost",
+      "traveled",
+      "had",
+      "heard",
+      "never",
+      "something",
+      "reached"
+    ],
+    "See": [
+      "how",
+      "the",
+      "more",
+      "more",
+      "more"
+    ],
+    "how": [
+      "it",
+      "meaningless"
+    ],
+    "sings": [
+      "like"
+    ],
+    "like": [
+      "a",
+      "a",
+      "rain",
+      "all",
+      "I",
+      "a",
+      "nights,",
+      "living",
+      "living",
+      "scattered",
+      "living",
+      "living",
+      "a",
+      "only",
+      "their",
+      "to",
+      "nature",
+      "this",
+      "this",
+      "hallucinations",
+      "a",
+      "this",
+      "this",
+      "hallucinations",
+      "a",
+      "hallucinations",
+      "a",
+      "moths",
+      "a",
+      "a",
+      "iron",
+      "to",
+      "an",
+      "voices",
+      "footprints"
+    ],
+    "sad": [
+      "heart"
+    ],
+    "joyously": [
+      "screams"
+    ],
+    "screams": [
+      "out"
+    ],
+    "its": [
+      "pain",
+      "light",
+      "preservation",
+      "program",
+      "wits",
+      "head"
+    ],
+    "Chords": [
+      "that"
+    ],
+    "build": [
+      "high",
+      "a",
+      "a",
+      "their",
+      "these",
+      "the"
+    ],
+    "high": [
+      "like",
+      "noon",
+      "above",
+      "school",
+      "on",
+      "on"
+    ],
+    "Or": [
+      "notes",
+      "is",
+      "through",
+      "the",
+      "the",
+      "a",
+      "a",
+      "lose",
+      "strolled",
+      "the"
+    ],
+    "notes": [
+      "that"
+    ],
+    "fall": [
+      "gently,",
+      "back,",
+      "before"
+    ],
+    "gently,": [
+      "like"
+    ],
+    "share": [
+      "this",
+      "it",
+      "it"
+    ],
+    "people": [
+      "will",
+      "raise",
+      "raise",
+      "raise",
+      "raise",
+      "were",
+      "were",
+      "were",
+      "left",
+      "and",
+      "and",
+      "and"
+    ],
+    "will": [
+      "all",
+      "reach",
+      "have",
+      "bow",
+      "turn",
+      "bring",
+      "choose",
+      "choose",
+      "find",
+      "soothe",
+      "call",
+      "surely",
+      "surely",
+      "flow",
+      "flow",
+      "never",
+      "be",
+      "sell",
+      "lie",
+      "become",
+      "and",
+      "be",
+      "dine"
+    ],
+    "see": [
+      "its",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "their",
+      "the",
+      "exhibit",
+      "what",
+      "the",
+      "amazing"
+    ],
+    "praise": [
+      "my"
+    ],
+    "name": [
+      "on"
+    ],
+    "on": [
+      "this",
+      "the",
+      "a",
+      "the",
+      "the",
+      "sound",
+      "the",
+      "my",
+      "my",
+      "my",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "top",
+      "me",
+      "the",
+      "top",
+      "me",
+      "top",
+      "me",
+      "me",
+      "the",
+      "high...",
+      "a",
+      "with",
+      "a",
+      "a",
+      "that",
+      "a",
+      "a",
+      "as",
+      "patrol",
+      "a",
+      "our",
+      "the",
+      "all",
+      "faith",
+      "the",
+      "the",
+      "quiet",
+      "the",
+      "her",
+      "the",
+      "the",
+      "without",
+      "you",
+      "you",
+      "you",
+      "to",
+      "the",
+      "an",
+      "honeydew",
+      "honeydew",
+      "honeydew"
+    ],
+    "In": [
+      "the",
+      "a",
+      "a",
+      "the",
+      "the",
+      "mourning",
+      "a",
+      "the",
+      "heaven's",
+      "the",
+      "quest",
+      "the",
+      "the",
+      "a",
+      "touch",
+      "the",
+      "each",
+      "a",
+      "time",
+      "their",
+      "a",
+      "a",
+      "geometric",
+      "between",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "distress",
+      "the",
+      "the",
+      "narrow",
+      "a",
+      "a",
+      "mental"
+    ],
+    "sudden": [
+      "silence",
+      "peace"
+    ],
+    "silence": [
+      "as",
+      "between"
+    ],
+    "finished": [
+      "playing,"
+    ],
+    "playing,": [
+      "I"
+    ],
+    "up": [
+      "to",
+      "with",
+      "scraps",
+      "scraps",
+      "the",
+      "barriers",
+      "his",
+      "all",
+      "light",
+      "it",
+      "like",
+      "again"
+    ],
+    "circle": [
+      "of",
+      "growing"
+    ],
+    "grim,": [
+      "expressionless"
+    ],
+    "expressionless": [
+      "faces."
+    ],
+    "faces.": [
+      "Father"
+    ],
+    "Father": [
+      "Brown",
+      "Brown"
+    ],
+    "Brown": [
+      "rose",
+      "ground"
+    ],
+    "rose": [
+      "to",
+      "of"
+    ],
+    "his": [
+      "feet,",
+      "somnolent",
+      "feet",
+      "tender",
+      "station",
+      "poisons",
+      "systems",
+      "nature",
+      "own",
+      "power",
+      "self-control",
+      "past,",
+      "way,",
+      "life,",
+      "every",
+      "every",
+      "dread",
+      "nearness",
+      "magic",
+      "lands",
+      "lair",
+      "land",
+      "prisms",
+      "foe",
+      "crime?",
+      "mind",
+      "company",
+      "skies",
+      "mind",
+      "company",
+      "eyes"
+    ],
+    "somnolent": [
+      "voice"
+    ],
+    "voice": [
+      "echoed"
+    ],
+    "echoed": [
+      "throughout",
+      "song"
+    ],
+    "throughout": [
+      "the"
+    ],
+    "silent": [
+      "Temple",
+      "streets",
+      "scream",
+      "cry"
+    ],
+    "Instead": [
+      "of",
+      "of"
+    ],
+    "grateful": [
+      "joy"
+    ],
+    "joy": [
+      "that",
+      "and"
+    ],
+    "expected,": [
+      "they"
+    ],
+    "quiet": [
+      "rejection!",
+      "nights...",
+      "defense"
+    ],
+    "rejection!": [
+      "Instead"
+    ],
+    "praise;": [
+      "sullen"
+    ],
+    "sullen": [
+      "dismissal."
+    ],
+    "dismissal.": [
+      "I"
+    ],
+    "watched": [
+      "in",
+      "from",
+      "the"
+    ],
+    "shock": [
+      "and"
+    ],
+    "horror": [
+      "as"
+    ],
+    "ground": [
+      "my"
+    ],
+    "precious": [
+      "instrument"
+    ],
+    "instrument": [
+      "to"
+    ],
+    "splinters": [
+      "beneath"
+    ],
+    "know": [
+      "it's",
+      "that",
+      "peace",
+      "about",
+      "it",
+      "it",
+      "it",
+      "why",
+      "about",
+      "he'll",
+      "what's",
+      "what's",
+      "I've",
+      "the",
+      "of",
+      "I",
+      "I"
+    ],
+    "it's": [
+      "most",
+      "Chemistry",
+      "falling",
+      "rolling",
+      "falling",
+      "rolling",
+      "falling",
+      "rolling",
+      "falling",
+      "time",
+      "scared",
+      "all"
+    ],
+    "most": [
+      "unusual",
+      "endangered"
+    ],
+    "come": [
+      "before",
+      "to",
+      "and"
+    ],
+    "before": [
+      "you"
+    ],
+    "But": [
+      "I've",
+      "that's",
+      "that's",
+      "there's",
+      "he",
+      "what",
+      "I",
+      "I",
+      "what",
+      "I",
+      "I",
+      "what",
+      "I",
+      "I",
+      "now",
+      "even",
+      "still",
+      "one",
+      "the",
+      "I",
+      "they",
+      "this",
+      "you",
+      "young",
+      "weak",
+      "weak",
+      "fool",
+      "apart",
+      "the",
+      "now",
+      "there's",
+      "no",
+      "I'm",
+      "he's",
+      "I",
+      "I",
+      "I",
+      "change"
+    ],
+    "an": [
+      "ancient",
+      "eyeless",
+      "unwise",
+      "audience",
+      "iron",
+      "evening",
+      "hourglass,",
+      "unknown",
+      "ancient",
+      "everlasting"
+    ],
+    "ancient": [
+      "miracle",
+      "ways",
+      "book"
+    ],
+    "should": [
+      "know"
+    ],
+    "Listen": [
+      "to"
+    ],
+    "hear": [
+      "what",
+      "in",
+      "it?"
+    ],
+    "There's": [
+      "something",
+      "a",
+      "no",
+      "not"
+    ],
+    "strong": [
+      "as",
+      "and"
+    ],
+    "reach": [
+      "you",
+      "my",
+      "their"
+    ],
+    "Priests:": [
+      "Yes",
+      "Don't"
+    ],
+    "Yes": [
+      "we"
+    ],
+    "we": [
+      "know",
+      "might",
+      "are",
+      "must",
+      "are",
+      "reject",
+      "hold",
+      "make",
+      "bow",
+      "bow",
+      "can",
+      "are",
+      "are",
+      "thought",
+      "thought",
+      "thought",
+      "thought",
+      "thought",
+      "cannot",
+      "loved",
+      "ask",
+      "would",
+      "pursue",
+      "are",
+      "think",
+      "know",
+      "are",
+      "are",
+      "lose",
+      "drift",
+      "fear"
+    ],
+    "nothing": [
+      "new",
+      "left",
+      "to"
+    ],
+    "waste": [
+      "of"
+    ],
+    "doing": [
+      "fine"
+    ],
+    "Another": [
+      "toy",
+      "chance",
+      "chance",
+      "endless",
+      "glass",
+      "foggy",
+      "doubtful",
+      "land"
+    ],
+    "That": [
+      "helped",
+      "the",
+      "they",
+      "gleam",
+      "you",
+      "you"
+    ],
+    "helped": [
+      "destroy"
+    ],
+    "elder": [
+      "race",
+      "race"
+    ],
+    "race": [
+      "of",
+      "still",
+      "is",
+      "is",
+      "is",
+      "to"
+    ],
+    "Forget": [
+      "about"
+    ],
+    "silly": [
+      "whim"
+    ],
+    "It": [
+      "doesn't",
+      "leaves",
+      "will",
+      "will",
+      "feels",
+      "goes",
+      "replays"
+    ],
+    "doesn't": [
+      "fit",
+      "matter"
+    ],
+    "fit": [
+      "the"
+    ],
+    "believe": [
+      "your"
+    ],
+    "These": [
+      "things"
+    ],
+    "things": [
+      "just",
+      "like",
+      "I",
+      "I",
+      "stir",
+      "than",
+      "are",
+      "that",
+      "that",
+      "they're"
+    ],
+    "use": [
+      "this",
+      "have"
+    ],
+    "Just": [
+      "think",
+      "think",
+      "think",
+      "variations",
+      "one",
+      "to",
+      "one"
+    ],
+    "Don't": [
+      "annoy",
+      "identify",
+      "put"
+    ],
+    "annoy": [
+      "us"
+    ],
+    "guess": [
+      "it",
+      "it"
+    ],
+    "dream,": [
+      "but",
+      "and"
+    ],
+    "even": [
+      "now",
+      "when"
+    ],
+    "now": [
+      "it",
+      "how",
+      "--",
+      "it",
+      "we've",
+      "for",
+      "the",
+      "the"
+    ],
+    "seems": [
+      "so",
+      "to",
+      "so"
+    ],
+    "so": [
+      "vivid",
+      "delicate",
+      "grand",
+      "hard",
+      "bright",
+      "involved",
+      "strong",
+      "many",
+      "unclear",
+      "grand",
+      "good",
+      "one-sided",
+      "alone",
+      "sweet",
+      "fast",
+      "eagerly",
+      "clear"
+    ],
+    "vivid": [
+      "to"
+    ],
+    "Clearly": [
+      "yet"
+    ],
+    "yet": [
+      "I",
+      "unborn",
+      "discontent"
+    ],
+    "beckoning": [
+      "hand"
+    ],
+    "hand": [
+      "of",
+      "of"
+    ],
+    "oracle": [
+      "as",
+      "confronts"
+    ],
+    "he": [
+      "stood",
+      "traces",
+      "can",
+      "won't",
+      "makes",
+      "believes",
+      "fears",
+      "invades"
+    ],
+    "stood": [
+      "at"
+    ],
+    "at": [
+      "the",
+      "last.",
+      "the",
+      "the",
+      "home",
+      "high",
+      "the",
+      "the",
+      "more",
+      "adaptation",
+      "home",
+      "home",
+      "home",
+      "home",
+      "strangers",
+      "your",
+      "me",
+      "once",
+      "last",
+      "victory",
+      "the",
+      "me",
+      "morning",
+      "last",
+      "half"
+    ],
+    "summit": [
+      "of"
+    ],
+    "still": [
+      "see",
+      "learn",
+      "in",
+      "in",
+      "have",
+      "be",
+      "neither",
+      "capture",
+      "survive"
+    ],
+    "incredible": [
+      "beauty"
+    ],
+    "beauty": [
+      "of"
+    ],
+    "sculptured": [
+      "cities,"
+    ],
+    "cities,": [
+      "and"
+    ],
+    "pure": [
+      "spirit"
+    ],
+    "spirit": [
+      "of",
+      "breaking"
+    ],
+    "man": [
+      "revealed",
+      "arise",
+      "must",
+      "must",
+      "must",
+      "must",
+      "when",
+      "can",
+      "can",
+      "could"
+    ],
+    "revealed": [
+      "in"
+    ],
+    "lives": [
+      "and"
+    ],
+    "works": [
+      "of"
+    ],
+    "overwhelmed": [
+      "by"
+    ],
+    "both": [
+      "wonder"
+    ],
+    "wonder": [
+      "and",
+      "and",
+      "and",
+      "and",
+      "and",
+      "what",
+      "they"
+    ],
+    "understanding": [
+      "as"
+    ],
+    "saw": [
+      "a",
+      "now"
+    ],
+    "completely": [
+      "different"
+    ],
+    "has": [
+      "been",
+      "become",
+      "become",
+      "nothing",
+      "been",
+      "passed"
+    ],
+    "crushed": [
+      "by"
+    ],
+    "long": [
+      "ago.",
+      "ago",
+      "while",
+      "as",
+      "sunrise",
+      "years"
+    ],
+    "ago.": [
+      "I"
+    ],
+    "meaningless": [
+      "life"
+    ],
+    "loss": [
+      "of"
+    ],
+    "these": [
+      "things.",
+      "solitudes",
+      "narrow",
+      "truths",
+      "fine",
+      "caves"
+    ],
+    "wandered": [
+      "home"
+    ],
+    "home": [
+      "through",
+      "when",
+      "when",
+      "when",
+      "when"
+    ],
+    "through": [
+      "silent",
+      "your",
+      "the",
+      "the",
+      "revolving",
+      "a",
+      "the",
+      "that",
+      "the",
+      "a",
+      "fields",
+      "the",
+      "the",
+      "a"
+    ],
+    "fell": [
+      "into",
+      "silent",
+      "upon"
+    ],
+    "fitful": [
+      "sleep"
+    ],
+    "Escape": [
+      "to",
+      "these"
+    ],
+    "realms": [
+      "beyond"
+    ],
+    "beyond": [
+      "the",
+      "compare"
+    ],
+    "Dream": [
+      "-"
+    ],
+    "-": [
+      "can't",
+      "move"
+    ],
+    "show": [
+      "me",
+      "of"
+    ],
+    "me": [
+      "the",
+      "there",
+      "on,",
+      "now.",
+      "at",
+      "it's",
+      "crazy",
+      "crazy",
+      "crazy",
+      "says",
+      "from",
+      "mad",
+      "all",
+      "touch",
+      "back",
+      "now",
+      "now",
+      "now",
+      "now",
+      "now",
+      "now",
+      "by"
+    ],
+    "stand": [
+      "atop",
+      "still)",
+      "still)",
+      "still",
+      "still",
+      "still)",
+      "still)",
+      "still",
+      "still",
+      "still",
+      "within"
+    ],
+    "atop": [
+      "a"
+    ],
+    "spiral": [
+      "star",
+      "sea",
+      "array"
+    ],
+    "An": [
+      "oracle",
+      "ill",
+      "insulated",
+      "ounce"
+    ],
+    "confronts": [
+      "me"
+    ],
+    "He": [
+      "leads",
+      "and",
+      "picks",
+      "picks",
+      "plays",
+      "knows",
+      "really",
+      "can",
+      "views",
+      "knows",
+      "gets",
+      "gets",
+      "knows",
+      "gets",
+      "gets"
+    ],
+    "leads": [
+      "me"
+    ],
+    "on,": [
+      "light"
+    ],
+    "light": [
+      "years",
+      "float",
+      "of",
+      "of",
+      "of",
+      "and",
+      "and",
+      "and",
+      "of",
+      "a",
+      "of"
+    ],
+    "years": [
+      "away",
+      "of",
+      "have"
+    ],
+    "Through": [
+      "astral",
+      "the",
+      "the"
+    ],
+    "astral": [
+      "nights,"
+    ],
+    "nights,": [
+      "galactic"
+    ],
+    "galactic": [
+      "days"
+    ],
+    "gifted": [
+      "hands"
+    ],
+    "Grace": [
+      "this"
+    ],
+    "wonderous": [
+      "land"
+    ],
+    "hungry": [
+      "mind"
+    ],
+    "mind": [
+      "and",
+      "collided",
+      "united",
+      "and",
+      "and",
+      "is",
+      "is",
+      "become",
+      "become"
+    ],
+    "open": [
+      "eyes",
+      "and",
+      "very"
+    ],
+    "They": [
+      "left",
+      "travel",
+      "travel",
+      "weren't",
+      "battled",
+      "ran",
+      "danced",
+      "knew",
+      "sat",
+      "always",
+      "soon",
+      "know",
+      "bow",
+      "shout",
+      "live"
+    ],
+    "left": [
+      "our",
+      "this",
+      "to",
+      "unguided",
+      "your",
+      "my"
+    ],
+    "learn": [
+      "and",
+      "to",
+      "to",
+      "to",
+      "to"
+    ],
+    "Their": [
+      "power",
+      "world",
+      "spirits",
+      "world"
+    ],
+    "power": [
+      "grows",
+      "in",
+      "can",
+      "train"
+    ],
+    "grows": [
+      "with",
+      "ever"
+    ],
+    "purpose": [
+      "strong"
+    ],
+    "claim": [
+      "the",
+      "their"
+    ],
+    "home,": [
+      "where"
+    ],
+    "where": [
+      "they",
+      "it",
+      "it",
+      "the",
+      "the"
+    ],
+    "Home": [
+      "to",
+      "to"
+    ],
+    "tear": [
+      "the",
+      "in"
+    ],
+    "change": [
+      "-",
+      "of",
+      "is",
+      "of",
+      "is",
+      "of",
+      "its",
+      "the",
+      "is"
+    ],
+    "not": [
+      "left",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "a",
+      "upon",
+      "die",
+      "the",
+      "just",
+      "to",
+      "what",
+      "to",
+      "be",
+      "appear",
+      "fight",
+      "alone...",
+      "to",
+      "concerned",
+      "to",
+      "to",
+      "to",
+      "to",
+      "know",
+      "much",
+      "so",
+      "the",
+      "failure,",
+      "fatal",
+      "afraid",
+      "looking",
+      "looking",
+      "looking",
+      "for",
+      "for"
+    ],
+    "cave": [
+      "for"
+    ],
+    "days": [
+      "now,",
+      "of",
+      "of",
+      "without"
+    ],
+    "now,": [
+      "it"
+    ],
+    "refuge": [
+      "in"
+    ],
+    "total": [
+      "despair."
+    ],
+    "despair.": [
+      "I"
+    ],
+    "only": [
+      "the",
+      "me",
+      "at",
+      "at",
+      "immortal",
+      "at",
+      "immortal",
+      "at",
+      "yesterday",
+      "trust",
+      "too",
+      "be"
+    ],
+    "comfort": [
+      "me"
+    ],
+    "now.": [
+      "I"
+    ],
+    "longer": [
+      "live"
+    ],
+    "live": [
+      "under",
+      "in",
+      "from",
+      "to",
+      "for",
+      "as"
+    ],
+    "control": [
+      "of"
+    ],
+    "Federation,": [
+      "but"
+    ],
+    "there": [
+      "is",
+      "lurks",
+      "something",
+      "to",
+      "to"
+    ],
+    "other": [
+      "place",
+      "president"
+    ],
+    "place": [
+      "to",
+      "to",
+      "where",
+      "you",
+      "to",
+      "you"
+    ],
+    "go.": [
+      "My"
+    ],
+    "last": [
+      "hope",
+      "days",
+      "to",
+      "I",
+      "immortal"
+    ],
+    "hope": [
+      "is",
+      "and"
+    ],
+    "death": [
+      "I"
+    ],
+    "may": [
+      "pass",
+      "say",
+      "say",
+      "say",
+      "say"
+    ],
+    "pass": [
+      "into",
+      "an"
+    ],
+    "sleep": [
+      "is"
+    ],
+    "dream": [
+      "is",
+      "of",
+      "into"
+    ],
+    "heave": [
+      "a"
+    ],
+    "sigh,": [
+      "and"
+    ],
+    "sadly": [
+      "smile"
+    ],
+    "awake": [
+      "in"
+    ],
+    "wish": [
+      "that",
+      "to",
+      "to",
+      "it",
+      "it"
+    ],
+    "Not": [
+      "fade",
+      "too",
+      "as",
+      "pain,",
+      "the",
+      "the"
+    ],
+    "fade": [
+      "like",
+      "from"
+    ],
+    "don't": [
+      "think",
+      "understand",
+      "take",
+      "tell",
+      "tell",
+      "tell",
+      "care",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "tell",
+      "care",
+      "tell",
+      "understand",
+      "see"
+    ],
+    "carry": [
+      "on"
+    ],
+    "This": [
+      "cold",
+      "is",
+      "is",
+      "is",
+      "is"
+    ],
+    "cold": [
+      "and",
+      "starvation"
+    ],
+    "empty": [
+      "life",
+      "feeling"
+    ],
+    "spirits": [
+      "are",
+      "in",
+      "were"
+    ],
+    "low,": [
+      "in"
+    ],
+    "depths": [
+      "of"
+    ],
+    "Spills": [
+      "over"
+    ],
+    "Attention": [
+      "all"
+    ],
+    "assumed": [
+      "control"
+    ],
+    "You": [
+      "and",
+      "and",
+      "and",
+      "and",
+      "promise",
+      "sometimes",
+      "sometimes",
+      "sometimes",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can",
+      "can't",
+      "can",
+      "need",
+      "feel",
+      "feel",
+      "can",
+      "can"
+    ],
+    "I,": [
+      "we",
+      "we",
+      "we",
+      "we",
+      "the"
+    ],
+    "strangers": [
+      "by",
+      "and",
+      "and"
+    ],
+    "one": [
+      "chromosome",
+      "another?",
+      "another?",
+      "more",
+      "day",
+      "another",
+      "more",
+      "little",
+      "blur",
+      "that",
+      "long",
+      "there",
+      "there",
+      "cares",
+      "you"
+    ],
+    "Slave": [
+      "to"
+    ],
+    "hormone,": [
+      "body"
+    ],
+    "body": [
+      "and",
+      "grieves",
+      "and"
+    ],
+    "struggle": [
+      "to",
+      "of",
+      "to"
+    ],
+    "happy": [
+      "and"
+    ],
+    "Swimming": [
+      "in"
+    ],
+    "primitive": [
+      "sea"
+    ],
+    "must": [
+      "dive",
+      "learn",
+      "build",
+      "learn",
+      "learn",
+      "be",
+      "put",
+      "my",
+      "be",
+      "be",
+      "be"
+    ],
+    "dive": [
+      "below"
+    ],
+    "below": [
+      "the"
+    ],
+    "A": [
+      "world",
+      "con",
+      "tear",
+      "man",
+      "warming",
+      "man",
+      "secret",
+      "man",
+      "peaceful",
+      "man",
+      "fine",
+      "change",
+      "radar",
+      "picture",
+      "list",
+      "highway",
+      "starry",
+      "host",
+      "planet",
+      "prisoner",
+      "victim",
+      "cell",
+      "stillness",
+      "weapon",
+      "scientist",
+      "glimpse",
+      "supernatural",
+      "complete",
+      "simple",
+      "pattern",
+      "quantum",
+      "mechanized",
+      "certain",
+      "certain",
+      "measure",
+      "certain",
+      "shot",
+      "spirit",
+      "certain",
+      "certain",
+      "certain",
+      "certain",
+      "certain",
+      "willingness",
+      "place",
+      "place",
+      "man",
+      "Man",
+      "splendid",
+      "man",
+      "man",
+      "splendid",
+      "long-awaited",
+      "splendid",
+      "melody",
+      "strong",
+      "struggle",
+      "pulse",
+      "hundred",
+      "shelter",
+      "smile",
+      "modern",
+      "symptom",
+      "tired",
+      "pound",
+      "tired",
+      "thousand"
+    ],
+    "red": [
+      "neon",
+      "book"
+    ],
+    "neon": [
+      "and"
+    ],
+    "Shining": [
+      "bridges",
+      "face",
+      "face"
+    ],
+    "bridges": [
+      "on",
+      "on"
+    ],
+    "ocean": [
+      "floor",
+      "floor"
+    ],
+    "Reaching": [
+      "to",
+      "for",
+      "for",
+      "for"
+    ],
+    "alien": [
+      "shore",
+      "shore",
+      "shore",
+      "shore"
+    ],
+    "For": [
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "you",
+      "a",
+      "a",
+      "so",
+      "their",
+      "those",
+      "those",
+      "superior",
+      "to",
+      "the",
+      "I"
+    ],
+    "me,": [
+      "sex",
+      "sex",
+      "race",
+      "race",
+      "race",
+      "sex",
+      "we",
+      "we'd",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't",
+      "don't"
+    ],
+    "sex": [
+      "is",
+      "is",
+      "is"
+    ],
+    "job": [
+      "description"
+    ],
+    "pressed": [
+      "into"
+    ],
+    "Color": [
+      "and"
+    ],
+    "culture,": [
+      "language"
+    ],
+    "language": [
+      "and"
+    ],
+    "variations": [
+      "on"
+    ],
+    "Islands": [
+      "in"
+    ],
+    "much": [
+      "larger",
+      "more"
+    ],
+    "larger": [
+      "stream",
+      "than"
+    ],
+    "that's": [
+      "just",
+      "just",
+      "clear",
+      "far"
+    ],
+    "reject": [
+      "these"
+    ],
+    "narrow": [
+      "attitudes",
+      "paths"
+    ],
+    "add": [
+      "to"
+    ],
+    "each": [
+      "other,",
+      "other",
+      "other",
+      "nation",
+      "of",
+      "step",
+      "sensation",
+      "sensation",
+      "impression",
+      "sensation"
+    ],
+    "other,": [
+      "like"
+    ],
+    "coral": [
+      "reef"
+    ],
+    "Building": [
+      "bridges"
+    ],
+    "hold": [
+      "these",
+      "it",
+      "it",
+      "the",
+      "the"
+    ],
+    "truths": [
+      "to"
+    ],
+    "we'd": [
+      "elect",
+      "inherit",
+      "share",
+      "inherit",
+      "share",
+      "inherit"
+    ],
+    "elect": [
+      "each"
+    ],
+    "snake": [
+      "coming"
+    ],
+    "coming": [
+      "out",
+      "and",
+      "dawn",
+      "of",
+      "up"
+    ],
+    "Parade": [
+      "from"
+    ],
+    "End": [
+      "the"
+    ],
+    "Chase": [
+      "the"
+    ],
+    "dreams": [
+      "of",
+      "might",
+      "might",
+      "all",
+      "of",
+      "for"
+    ],
+    "There": [
+      "is",
+      "is",
+      "is",
+      "is",
+      "are",
+      "are"
+    ],
+    "tic": [
+      "and"
+    ],
+    "toc": [
+      "in"
+    ],
+    "Leaders": [
+      "make"
+    ],
+    "cosmic": [
+      "is"
+    ],
+    "largely": [
+      "comic"
+    ],
+    "con": [
+      "they"
+    ],
+    "couldn't": [
+      "conceal"
+    ],
+    "safe": [
+      "seat"
+    ],
+    "seat": [
+      "at"
+    ],
+    "Take": [
+      "your",
+      "heart",
+      "heart",
+      "a",
+      "a"
+    ],
+    "best": [
+      "stab",
+      "big"
+    ],
+    "stab": [
+      "at"
+    ],
+    "night": [
+      "is",
+      "is",
+      "turns",
+      "in",
+      "escape",
+      "escape"
+    ],
+    "turning": [
+      "thin",
+      "to",
+      "thin",
+      "to",
+      "green",
+      "black",
+      "gray"
+    ],
+    "saint": [
+      "is",
+      "is",
+      "turns"
+    ],
+    "Raise": [
+      "the"
+    ],
+    "art": [
+      "to"
+    ],
+    "Danger": [
+      "dare"
+    ],
+    "dare": [
+      "to",
+      "to"
+    ],
+    "Pride": [
+      "reduced"
+    ],
+    "reduced": [
+      "to"
+    ],
+    "humble": [
+      "pie"
+    ],
+    "Diamonds": [
+      "down"
+    ],
+    "down": [
+      "to",
+      "vanity",
+      "from",
+      "the",
+      "the",
+      "the",
+      "the",
+      "that",
+      "as"
+    ],
+    "heart": [
+      "from",
+      "from",
+      "of",
+      "of",
+      "of",
+      "and",
+      "of",
+      "and",
+      "to",
+      "no",
+      "will",
+      "is"
+    ],
+    "earth": [
+      "and"
+    ],
+    "brightness": [
+      "of"
+    ],
+    "Shave": [
+      "the"
+    ],
+    "harvest": [
+      "from"
+    ],
+    "Reasoning": [
+      "is"
+    ],
+    "partly": [
+      "insane"
+    ],
+    "Image": [
+      "just"
+    ],
+    "eyeless": [
+      "game"
+    ],
+    "Miracles": [
+      "will"
+    ],
+    "More": [
+      "will",
+      "than",
+      "things"
+    ],
+    "bow": [
+      "to",
+      "and",
+      "and",
+      "defeated"
+    ],
+    "she": [
+      "are"
+    ],
+    "there's": [
+      "only",
+      "something",
+      "something",
+      "no",
+      "no"
+    ],
+    "Rose": [
+      "is"
+    ],
+    "Posed": [
+      "to"
+    ],
+    "respond": [
+      "in"
+    ],
+    "Lonely": [
+      "things"
+    ],
+    "find,": [
+      "end"
+    ],
+    "end": [
+      "finer",
+      "was",
+      "was",
+      "of",
+      "is",
+      "here"
+    ],
+    "finer": [
+      "with"
+    ],
+    "rate": [
+      "of"
+    ],
+    "her": [
+      "heart",
+      "course",
+      "fearsome",
+      "siren",
+      "long",
+      "hometown",
+      "final",
+      "every",
+      "every",
+      "tail",
+      "perfume",
+      "lips",
+      "fingertips"
+    ],
+    "heat": [
+      "of",
+      "of"
+    ],
+    "turns": [
+      "thin",
+      "to",
+      "into"
+    ],
+    "Polarize": [
+      "me",
+      "me"
+    ],
+    "Sensitize": [
+      "me",
+      "me"
+    ],
+    "Criticize": [
+      "me",
+      "me"
+    ],
+    "Civilize": [
+      "me",
+      "me"
+    ],
+    "Compensate": [
+      "me",
+      "me"
+    ],
+    "Animate": [
+      "me",
+      "me"
+    ],
+    "Complicate": [
+      "me",
+      "me"
+    ],
+    "Elevate": [
+      "me",
+      "me"
+    ],
+    "Goddess": [
+      "in"
+    ],
+    "Sister": [
+      "in",
+      "to"
+    ],
+    "Angel": [
+      "in"
+    ],
+    "Actress": [
+      "in"
+    ],
+    "Daughter": [
+      "of",
+      "of"
+    ],
+    "demon": [
+      "lover"
+    ],
+    "Empress": [
+      "of"
+    ],
+    "hidden": [
+      "face"
+    ],
+    "Priestess": [
+      "of"
+    ],
+    "pagan": [
+      "mother"
+    ],
+    "Ancient": [
+      "queen"
+    ],
+    "queen": [
+      "of"
+    ],
+    "inner": [
+      "space"
+    ],
+    "Spirit": [
+      "in"
+    ],
+    "Double": [
+      "in"
+    ],
+    "Alter": [
+      "in",
+      "our"
+    ],
+    "Struggle": [
+      "for"
+    ],
+    "Mistress": [
+      "of"
+    ],
+    "dark": [
+      "unconscious",
+      "of",
+      "horizon",
+      "lord",
+      "and"
+    ],
+    "Mermaid": [
+      "of"
+    ],
+    "lunar": [
+      "sea"
+    ],
+    "boy": [
+      "inside",
+      "bearing"
+    ],
+    "inside": [
+      "of",
+      "me"
+    ],
+    "counterpart,": [
+      "my"
+    ],
+    "foolish": [
+      "heart",
+      "and"
+    ],
+    "rule": [
+      "his",
+      "the"
+    ],
+    "tender": [
+      "part"
+    ],
+    "warming": [
+      "trend,"
+    ],
+    "trend,": [
+      "a"
+    ],
+    "gentle": [
+      "friend",
+      "lure"
+    ],
+    "fortress": [
+      "to"
+    ],
+    "secret": [
+      "face,"
+    ],
+    "face,": [
+      "a"
+    ],
+    "peaceful": [
+      "state,"
+    ],
+    "state,": [
+      "a"
+    ],
+    "submissive": [
+      "trait"
+    ],
+    "gently": [
+      "dominate"
+    ],
+    "lake": [
+      "between",
+      "of"
+    ],
+    "between": [
+      "sun",
+      "whisper",
+      "wonder",
+      "wonder",
+      "love",
+      "actor",
+      "wishes",
+      "wonder",
+      "wonder",
+      "the",
+      "two"
+    ],
+    "sun": [
+      "and",
+      "at",
+      "upon",
+      "is",
+      "like",
+      "like",
+      "like",
+      "is",
+      "is"
+    ],
+    "too": [
+      "many",
+      "fleet",
+      "real",
+      "heavy",
+      "thin",
+      "fast"
+    ],
+    "many": [
+      "know",
+      "troubled",
+      "things",
+      "miles",
+      "times"
+    ],
+    "whisper": [
+      "and"
+    ],
+    "space": [
+      "between",
+      "between",
+      "between",
+      "he"
+    ],
+    "fine": [
+      "place",
+      "line",
+      "place",
+      "place",
+      "place",
+      "things",
+      "line"
+    ],
+    "face": [
+      "to",
+      "to",
+      "the",
+      "of",
+      "of",
+      "to"
+    ],
+    "Those": [
+      "bonfire",
+      "bonfire",
+      "bonfire",
+      "who"
+    ],
+    "bonfire": [
+      "lights",
+      "lights",
+      "lights"
+    ],
+    "lights": [
+      "in",
+      "in",
+      "in"
+    ],
+    "mirror": [
+      "of",
+      "today"
+    ],
+    "Ahh,": [
+      "yes",
+      "yes",
+      "yes"
+    ],
+    "yes": [
+      "to",
+      "to",
+      "to",
+      "to",
+      "to",
+      "to"
+    ],
+    "ahh,": [
+      "ahh",
+      "ahh",
+      "ahh"
+    ],
+    "ahh": [
+      "to",
+      "to",
+      "to"
+    ],
+    "Why": [
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "try?",
+      "must"
+    ],
+    "line": [
+      "between"
+    ],
+    "love": [
+      "and",
+      "to",
+      "and",
+      "to",
+      "can",
+      "could",
+      "be",
+      "of",
+      "must"
+    ],
+    "gap": [
+      "between"
+    ],
+    "actor": [
+      "and"
+    ],
+    "lens": [
+      "between"
+    ],
+    "wishes": [
+      "and"
+    ],
+    "time": [
+      "between",
+      "of",
+      "I",
+      "I",
+      "we",
+      "and",
+      "out",
+      "to",
+      "has"
+    ],
+    "Some": [
+      "need",
+      "fought",
+      "who",
+      "will"
+    ],
+    "pray": [
+      "to",
+      "for"
+    ],
+    "Need": [
+      "to"
+    ],
+    "howl": [
+      "at"
+    ],
+    "midwinter": [
+      "moon"
+    ],
+    "Reborn": [
+      "and"
+    ],
+    "baptized": [
+      "in"
+    ],
+    "moment": [
+      "of",
+      "of",
+      "of",
+      "to",
+      "a",
+      "a",
+      "a"
+    ],
+    "From": [
+      "the",
+      "the",
+      "the",
+      "the",
+      "a",
+      "the",
+      "the",
+      "the",
+      "the",
+      "the",
+      "labyrinths",
+      "an"
+    ],
+    "headlong": [
+      "race"
+    ],
+    "mirrored": [
+      "sky"
+    ],
+    "Tobes": [
+      "of"
+    ],
+    "Hades,": [
+      "lit"
+    ],
+    "lit": [
+      "by"
+    ],
+    "flickering": [
+      "torchlight",
+      "light"
+    ],
+    "netherworld": [
+      "is"
+    ],
+    "gathered": [
+      "in"
+    ],
+    "Prince": [
+      "By-Tor",
+      "By-Tor"
+    ],
+    "By-Tor": [
+      "takes",
+      "and",
+      "appears",
+      "slays"
+    ],
+    "takes": [
+      "the"
+    ],
+    "cavern": [
+      "to"
+    ],
+    "north": [
+      "light"
+    ],
+    "sign": [
+      "of"
+    ],
+    "Eth": [
+      "is"
+    ],
+    "rising": [
+      "in",
+      "lays",
+      "sun",
+      "sun.",
+      "sun",
+      "sun"
+    ],
+    "By-Tor,": [
+      "knight",
+      "in"
+    ],
+    "knight": [
+      "of"
+    ],
+    "Centurion": [
+      "of"
+    ],
+    "evil,": [
+      "devil's"
+    ],
+    "devil's": [
+      "prince"
+    ],
+    "Across": [
+      "the",
+      "the"
+    ],
+    "River": [
+      "Styx,",
+      "Dawn,"
+    ],
+    "Styx,": [
+      "out"
+    ],
+    "His": [
+      "nemesis",
+      "world",
+      "world",
+      "reliance",
+      "reserve,"
+    ],
+    "nemesis": [
+      "is"
+    ],
+    "waiting": [
+      "at"
+    ],
+    "Snow": [
+      "Dog,",
+      "Dog",
+      "Dog",
+      "Dog"
+    ],
+    "Dog,": [
+      "ermine"
+    ],
+    "ermine": [
+      "glowing"
+    ],
+    "glowing": [
+      "in"
+    ],
+    "damp": [
+      "night"
+    ],
+    "Coal-black": [
+      "eyes"
+    ],
+    "eyes": [
+      "shimmering",
+      "just",
+      "have",
+      "are",
+      "that",
+      "are"
+    ],
+    "shimmering": [
+      "with"
+    ],
+    "Square": [
+      "for"
+    ],
+    "battle,": [
+      "let"
+    ],
+    "let": [
+      "the",
+      "me",
+      "my",
+      "my"
+    ],
+    "fray": [
+      "begin"
+    ],
+    "battle's": [
+      "over"
+    ],
+    "over": [
+      "and",
+      "me",
+      "me",
+      "me"
+    ],
+    "Disciples": [
+      "of"
+    ],
+    "Dog": [
+      "sound",
+      "is"
+    ],
+    "Rejoicing": [
+      "echoes"
+    ],
+    "echoes": [
+      "as"
+    ],
+    "dawn": [
+      "is",
+      "tinge"
+    ],
+    "defeat,": [
+      "retreats"
+    ],
+    "retreats": [
+      "to"
+    ],
+    "land": [
+      "of",
+      "to"
+    ],
+    "Overworld": [
+      "is"
+    ],
+    "saved": [
+      "again"
+    ],
+    "Signal": [
+      "transmitted"
+    ],
+    "Message": [
+      "received"
+    ],
+    "Reaction": [
+      "making",
+      "making",
+      "burning"
+    ],
+    "making": [
+      "impact",
+      "contact",
+      "contact"
+    ],
+    "Elemental": [
+      "telepathy",
+      "empathy"
+    ],
+    "Exchange": [
+      "of",
+      "graffiti"
+    ],
+    "Eye": [
+      "to"
+    ],
+    "burning": [
+      "hotter"
+    ],
+    "Two": [
+      "to"
+    ],
+    "Reflection": [
+      "on"
+    ],
+    "H": [
+      "to",
+      "to"
+    ],
+    "No": [
+      "flow",
+      "flow",
+      "singing",
+      "fright",
+      "wonder",
+      "matter",
+      "time",
+      "his"
+    ],
+    "flow": [
+      "without",
+      "without",
+      "of",
+      "with",
+      "and"
+    ],
+    "without": [
+      "the",
+      "subtraction",
+      "the",
+      "end",
+      "end",
+      "end",
+      "end",
+      "that",
+      "a"
+    ],
+    "Oh": [
+      "but",
+      "let"
+    ],
+    "Do": [
+      "they",
+      "we"
+    ],
+    "Electricity?": [
+      "Biology?"
+    ],
+    "Seems": [
+      "to",
+      "like"
+    ],
+    "Emotion": [
+      "transmitted",
+      "received"
+    ],
+    "Music": [
+      "in",
+      "making"
+    ],
+    "One,": [
+      "two,"
+    ],
+    "two,": [
+      "three"
+    ],
+    "Add": [
+      "without"
+    ],
+    "Sound": [
+      "on",
+      "and"
+    ],
+    "Multiplied": [
+      "reaction"
+    ],
+    "Oh,": [
+      "but",
+      "I"
+    ],
+    "above": [
+      "the"
+    ],
+    "city": [
+      "square",
+      "square",
+      "of",
+      "lights"
+    ],
+    "Globes": [
+      "of"
+    ],
+    "float": [
+      "in"
+    ],
+    "Higher": [
+      "still,"
+    ],
+    "still,": [
+      "against"
+    ],
+    "against": [
+      "the",
+      "them",
+      "us...",
+      "him...",
+      "them..."
+    ],
+    "Clockwork": [
+      "angels",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,",
+      "angels,"
+    ],
+    "angels": [
+      "bathed",
+      "high"
+    ],
+    "bathed": [
+      "in"
+    ],
+    "promise": [
+      "every",
+      "every",
+      "every",
+      "of",
+      "me"
+    ],
+    "treasure,": [
+      "to"
+    ],
+    "Goddesses": [
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "mystery,": [
+      "spirits",
+      "so",
+      "catch"
+    ],
+    "Every": [
+      "pleasure,",
+      "nerve",
+      "soul"
+    ],
+    "pleasure,": [
+      "we"
+    ],
+    "close": [
+      "our",
+      "our"
+    ],
+    "angels,": [
+      "promise",
+      "spread",
+      "the",
+      "promise",
+      "spread",
+      "the",
+      "spread",
+      "the",
+      "spread",
+      "the"
+    ],
+    "spread": [
+      "their",
+      "their",
+      "their",
+      "their"
+    ],
+    "arms": [
+      "and",
+      "and",
+      "and",
+      "and"
+    ],
+    "Synchronized": [
+      "and",
+      "and",
+      "and",
+      "and"
+    ],
+    "graceful,": [
+      "they",
+      "they",
+      "they",
+      "they"
+    ],
+    "move": [
+      "like",
+      "through",
+      "like",
+      "like",
+      "like"
+    ],
+    "living": [
+      "things",
+      "things",
+      "things",
+      "things",
+      "night"
+    ],
+    "Light,": [
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "Sea": [
+      "and",
+      "and",
+      "and",
+      "and"
+    ],
+    "Sky": [
+      "and",
+      "and",
+      "and",
+      "and"
+    ],
+    "raise": [
+      "their",
+      "their",
+      "their",
+      "their",
+      "objections"
+    ],
+    "if": [
+      "to",
+      "to",
+      "to",
+      "to",
+      "to",
+      "each"
+    ],
+    "Power": [
+      "shimmers"
+    ],
+    "shimmers": [
+      "in"
+    ],
+    "People": [
+      "gazing"
+    ],
+    "gazing": [
+      "up"
+    ],
+    "those": [
+      "angels",
+      "who",
+      "who",
+      "chains",
+      "who",
+      "who",
+      "who",
+      "wounds"
+    ],
+    "Celestial": [
+      "machinery"
+    ],
+    "machinery": [
+      "-"
+    ],
+    "delicate": [
+      "and"
+    ],
+    "Moved": [
+      "to"
+    ],
+    "worship,": [
+      "we"
+    ],
+    "\"Lean": [
+      "not"
+    ],
+    "upon": [
+      "your",
+      "them",
+      "our",
+      "your"
+    ],
+    "Ignorance": [
+      "is"
+    ],
+    "well": [
+      "and"
+    ],
+    "truly": [
+      "blessed"
+    ],
+    "Trust": [
+      "in"
+    ],
+    "perfect": [
+      "love,",
+      "planning"
+    ],
+    "love,": [
+      "and",
+      "but"
+    ],
+    "Everything": [
+      "will",
+      "is"
+    ],
+    "Stars": [
+      "aglow",
+      "of",
+      "stopped"
+    ],
+    "aglow": [
+      "like"
+    ],
+    "scattered": [
+      "sparks"
+    ],
+    "Span": [
+      "the"
+    ],
+    "clockwork": [
+      "arcs"
+    ],
+    "Hint": [
+      "at"
+    ],
+    "more": [
+      "than",
+      "pawn",
+      "hairs",
+      "we",
+      "to",
+      "to",
+      "afraid",
+      "than",
+      "of",
+      "of",
+      "of"
+    ],
+    "Spiritual": [
+      "machinery"
+    ],
+    "\"What": [
+      "do"
+    ],
+    "do": [
+      "you",
+      "their",
+      "you",
+      "not"
+    ],
+    "constellation": [
+      "of"
+    ],
+    "Cygnus,": [
+      "there"
+    ],
+    "lurks": [
+      "a"
+    ],
+    "mysterious,": [
+      "invisible"
+    ],
+    "invisible": [
+      "force:"
+    ],
+    "force:": [
+      "the"
+    ],
+    "black": [
+      "hole",
+      "hole",
+      "sedan",
+      "cloud"
+    ],
+    "Cygnus": [
+      "X-1..."
+    ],
+    "Six": [
+      "Stars"
+    ],
+    "Northern": [
+      "Cross"
+    ],
+    "mourning": [
+      "for"
+    ],
+    "sister's": [
+      "loss"
+    ],
+    "final": [
+      "flash",
+      "flight'",
+      "drive",
+      "drive",
+      "day",
+      "few"
+    ],
+    "flash": [
+      "of"
+    ],
+    "Nevermore": [
+      "to",
+      "shall"
+    ],
+    "grace": [
+      "the",
+      "and"
+    ],
+    "Invisible": [
+      "to"
+    ],
+    "telescopic": [
+      "eye"
+    ],
+    "Infinity,": [
+      "the"
+    ],
+    "star": [
+      "that",
+      "map"
+    ],
+    "would": [
+      "not",
+      "sit",
+      "take",
+      "yield",
+      "settle",
+      "be",
+      "hit",
+      "hit",
+      "be"
+    ],
+    "who": [
+      "dare",
+      "think",
+      "think",
+      "did",
+      "think",
+      "wish",
+      "wish",
+      "never",
+      "push",
+      "wave"
+    ],
+    "cross": [
+      "her"
+    ],
+    "swallowed": [
+      "by"
+    ],
+    "fearsome": [
+      "force",
+      "force"
+    ],
+    "Atomized...at": [
+      "the"
+    ],
+    "Astral": [
+      "Door?"
+    ],
+    "set": [
+      "a",
+      "our",
+      "the",
+      "the",
+      "you"
+    ],
+    "course": [
+      "just",
+      "of"
+    ],
+    "east": [
+      "of"
+    ],
+    "northwest": [
+      "of"
+    ],
+    "Flew": [
+      "into"
+    ],
+    "Sailed": [
+      "across"
+    ],
+    "Milky": [
+      "Way"
+    ],
+    "On": [
+      "my",
+      "a",
+      "the",
+      "the",
+      "the",
+      "a",
+      "the",
+      "a",
+      "her",
+      "a",
+      "our"
+    ],
+    "ship,": [
+      "the"
+    ],
+    "Wheeling": [
+      "through"
+    ],
+    "Headed": [
+      "for"
+    ],
+    "Headlong": [
+      "into"
+    ],
+    "x-ray": [
+      "is"
+    ],
+    "siren": [
+      "song"
+    ],
+    "ship": [
+      "cannot",
+      "isn't",
+      "of",
+      "runs",
+      "Fantasy"
+    ],
+    "cannot": [
+      "resist",
+      "perceive",
+      "move,",
+      "hide...",
+      "go",
+      "go",
+      "leave"
+    ],
+    "resist": [
+      "her",
+      "your"
+    ],
+    "Nearer": [
+      "to"
+    ],
+    "deadly": [
+      "goal"
+    ],
+    "Until": [
+      "the",
+      "the",
+      "later...",
+      "later..."
+    ],
+    "Gains": [
+      "control..."
+    ],
+    "Spinning,": [
+      "whirling"
+    ],
+    "Still": [
+      "descending",
+      "it's",
+      "I"
+    ],
+    "Like": [
+      "a",
+      "lovers",
+      "lovers",
+      "lovers",
+      "lovers",
+      "Old",
+      "a",
+      "some",
+      "some",
+      "a",
+      "a"
+    ],
+    "Drown": [
+      "my"
+    ],
+    "Is": [
+      "torn",
+      "enough",
+      "a",
+      "not",
+      "unfolding",
+      "any",
+      "what",
+      "what"
+    ],
+    "torn": [
+      "apart...",
+      "asunder"
+    ],
+    "monitor": [
+      "his"
+    ],
+    "Under": [
+      "faces",
+      "the",
+      "northern",
+      "city",
+      "northern"
+    ],
+    "faces": [
+      "and"
+    ],
+    "Where": [
+      "he",
+      "the",
+      "the"
+    ],
+    "traces": [
+      "points",
+      "of",
+      "of"
+    ],
+    "points": [
+      "of"
+    ],
+    "picks": [
+      "up",
+      "up"
+    ],
+    "scraps": [
+      "of",
+      "of"
+    ],
+    "Radio": [
+      "and"
+    ],
+    "dancers": [
+      "and"
+    ],
+    "answers": [
+      "but"
+    ],
+    "He'd": [
+      "love",
+      "like"
+    ],
+    "spend": [
+      "the"
+    ],
+    "He's": [
+      "been",
+      "adept",
+      "got",
+      "got",
+      "a",
+      "got",
+      "got",
+      "a",
+      "a",
+      "a",
+      "got",
+      "cleaning",
+      "got",
+      "old",
+      "noble",
+      "a",
+      "a",
+      "a",
+      "got",
+      "got",
+      "not",
+      "noble",
+      "wise",
+      "a",
+      "not",
+      "a"
+    ],
+    "while": [
+      "in",
+      "in",
+      "until"
+    ],
+    "lover's": [
+      "wings"
+    ],
+    "wings": [
+      "to"
+    ],
+    "fly": [
+      "on",
+      "through",
+      "tonight"
+    ],
+    "tropic": [
+      "isle"
+    ],
+    "isle": [
+      "of"
+    ],
+    "Subdivided": [
+      "and"
+    ],
+    "reliance": [
+      "on"
+    ],
+    "science": [
+      "of"
+    ],
+    "adept": [
+      "at"
+    ],
+    "Because": [
+      "for"
+    ],
+    "Constant": [
+      "change"
+    ],
+    "force": [
+      "field",
+      "would",
+      "a",
+      "a"
+    ],
+    "field": [
+      "and"
+    ],
+    "flexible": [
+      "plan"
+    ],
+    "date": [
+      "with"
+    ],
+    "fate": [
+      "in",
+      "of"
+    ],
+    "plays": [
+      "fast"
+    ],
+    "fast": [
+      "forward",
+      "on"
+    ],
+    "forward": [
+      "for"
+    ],
+    "won't": [
+      "need",
+      "budge"
+    ],
+    "digital": [
+      "man"
+    ],
+    "ill": [
+      "wind"
+    ],
+    "wind": [
+      "comes"
+    ],
+    "comes": [
+      "arising",
+      "to",
+      "around"
+    ],
+    "cities": [
+      "of",
+      "were"
+    ],
+    "swimming": [
+      "in"
+    ],
+    "heavy": [
+      "water"
+    ],
+    "singing": [
+      "in"
+    ],
+    "acid": [
+      "rain"
+    ],
+    "hard": [
+      "to",
+      "to"
+    ],
+    "stay": [
+      "together"
+    ],
+    "Passing": [
+      "through"
+    ],
+    "revolving": [
+      "doors"
+    ],
+    "someone": [
+      "to",
+      "to"
+    ],
+    "talk": [
+      "to",
+      "of"
+    ],
+    "sweep": [
+      "the"
+    ],
+    "weighs": [
+      "on",
+      "on",
+      "on"
+    ],
+    "am": [
+      "I",
+      "I",
+      "I",
+      "dead",
+      "born",
+      "me",
+      "new",
+      "free",
+      "young",
+      "still",
+      "crying",
+      "still"
+    ],
+    "sometimes": [
+      "drive",
+      "drive",
+      "drive",
+      "catch"
+    ],
+    "drive": [
+      "me",
+      "me",
+      "me"
+    ],
+    "worry": [
+      "about",
+      "about",
+      "about",
+      "about",
+      "about",
+      "about"
+    ],
+    "makes": [
+      "no",
+      "no",
+      "no"
+    ],
+    "you're": [
+      "going",
+      "going",
+      "going"
+    ],
+    "going": [
+      "through",
+      "through",
+      "through",
+      "bald",
+      "bald",
+      "fast,"
+    ],
+    "tip": [
+      "of",
+      "of",
+      "of"
+    ],
+    "Cruising": [
+      "under",
+      "for"
+    ],
+    "Watching": [
+      "from",
+      "from",
+      "oer"
+    ],
+    "page": [
+      "from"
+    ],
+    "Keep": [
+      "them"
+    ],
+    "Left": [
+      "and",
+      "behind"
+    ],
+    "rights": [
+      "of"
+    ],
+    "Black": [
+      "and"
+    ],
+    "whites": [
+      "of"
+    ],
+    "Who": [
+      "can",
+      "dance",
+      "can",
+      "learns"
+    ],
+    "truth": [
+      "is",
+      "and",
+      "could",
+      "of",
+      "shine"
+    ],
+    "road": [
+      "map",
+      "to",
+      "to",
+      "together",
+      "is",
+      "is"
+    ],
+    "map": [
+      "of",
+      "of",
+      "of"
+    ],
+    "radar": [
+      "fix"
+    ],
+    "fix": [
+      "on"
+    ],
+    "along": [
+      "the",
+      "the"
+    ],
+    "She's": [
+      "got",
+      "got",
+      "got",
+      "addicted"
+    ],
+    "liquid-crystal": [
+      "compass"
+    ],
+    "picture": [
+      "book"
+    ],
+    "book": [
+      "of",
+      "I"
+    ],
+    "travel": [
+      "in",
+      "on",
+      "in",
+      "on"
+    ],
+    "desert": [
+      "highway",
+      "highway",
+      "sand",
+      "sun",
+      "me?"
+    ],
+    "highway": [
+      "straight",
+      "out",
+      "traced",
+      "straight"
+    ],
+    "straight": [
+      "to",
+      "to"
+    ],
+    "lovers": [
+      "and",
+      "and",
+      "and",
+      "and"
+    ],
+    "heroes,": [
+      "and",
+      "birds",
+      "lonely"
+    ],
+    "restless": [
+      "part",
+      "part",
+      "rhythms",
+      "young",
+      "dreams",
+      "flight"
+    ],
+    "part": [
+      "of",
+      "of",
+      "of"
+    ],
+    "We're": [
+      "only",
+      "only",
+      "only",
+      "only"
+    ],
+    "we're": [
+      "on",
+      "on",
+      "only",
+      "on",
+      "only",
+      "on",
+      "so"
+    ],
+    "list": [
+      "of"
+    ],
+    "cheap": [
+      "motels"
+    ],
+    "sister": [
+      "out"
+    ],
+    "decent": [
+      "job"
+    ],
+    "Far": [
+      "away"
+    ],
+    "yesterday": [
+      "--"
+    ],
+    "--": [
+      "that",
+      "not"
+    ],
+    "tomorrow": [
+      "will"
+    ],
+    "birds": [
+      "in",
+      "announce"
+    ],
+    "Wandering": [
+      "the",
+      "the",
+      "aimless"
+    ],
+    "Wondering": [
+      "what",
+      "what"
+    ],
+    "Learning": [
+      "that",
+      "that",
+      "to",
+      "to"
+    ],
+    "limited": [
+      "time",
+      "time",
+      "by"
+    ],
+    "Time": [
+      "is",
+      "after",
+      "will",
+      "stand",
+      "stand",
+      "stand",
+      "stand",
+      "stand",
+      "and"
+    ],
+    "gypsy": [
+      "caravan"
+    ],
+    "Steals": [
+      "away"
+    ],
+    "leave": [
+      "you"
+    ],
+    "stranded": [
+      "in",
+      "in"
+    ],
+    "Distance": [
+      "is"
+    ],
+    "long-range": [
+      "filter"
+    ],
+    "Memory": [
+      "a",
+      "lane",
+      "banks",
+      "written"
+    ],
+    "behind": [
+      "in",
+      "that",
+      "the",
+      "the"
+    ],
+    "starry": [
+      "highway"
+    ],
+    "traced": [
+      "on"
+    ],
+    "lonely": [
+      "as",
+      "desert"
+    ],
+    "eagle's": [
+      "cry"
+    ],
+    "hereos,": [
+      "and"
+    ],
+    "Pariah": [
+      "dogs"
+    ],
+    "dogs": [
+      "and"
+    ],
+    "wandering": [
+      "madmen",
+      "body"
+    ],
+    "Barking": [
+      "at"
+    ],
+    "speaking": [
+      "in"
+    ],
+    "ebb": [
+      "and"
+    ],
+    "tidal": [
+      "fortune",
+      "pools"
+    ],
+    "Electrical": [
+      "changes"
+    ],
+    "changes": [
+      "are",
+      "aren't"
+    ],
+    "charging": [
+      "up"
+    ],
+    "far": [
+      "cry",
+      "cry",
+      "cry",
+      "cry",
+      "cry",
+      "too",
+      "away",
+      "away",
+      "unlit"
+    ],
+    "cry": [
+      "from",
+      "from",
+      "from",
+      "from",
+      "from"
+    ],
+    "almost": [
+      "feel",
+      "see",
+      "feel",
+      "see",
+      "see",
+      "feel",
+      "gone"
+    ],
+    "feel": [
+      "the",
+      "I'm",
+      "I'm",
+      "the",
+      "I'm",
+      "I'm",
+      "the",
+      "I'm",
+      "I'm",
+      "a",
+      "the",
+      "the",
+      "there's",
+      "the",
+      "there's",
+      "the",
+      "the"
+    ],
+    "current": [
+      "flowing",
+      "flowing"
+    ],
+    "circuits": [
+      "blowing",
+      "blowing",
+      "get"
+    ],
+    "day": [
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "I",
+      "the",
+      "for",
+      "long",
+      "warrior"
+    ],
+    "I'm": [
+      "on",
+      "ahead",
+      "on",
+      "ahead",
+      "on",
+      "ahead",
+      "after",
+      "going",
+      "going",
+      "aging",
+      "grey",
+      "lashed",
+      "tired",
+      "in",
+      "together",
+      "apart",
+      "forever",
+      "not",
+      "not",
+      "not",
+      "a"
+    ],
+    "top": [
+      "of",
+      "of",
+      "of"
+    ],
+    "next": [
+      "it's",
+      "it's",
+      "it's",
+      "it's",
+      "it's",
+      "it's",
+      "it's"
+    ],
+    "falling": [
+      "in",
+      "in",
+      "in",
+      "in"
+    ],
+    "get": [
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "back",
+      "away",
+      "too",
+      "unwound",
+      "shorted",
+      "crossed"
+    ],
+    "back": [
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "on",
+      "at",
+      "and",
+      "to",
+      "my",
+      "to"
+    ],
+    "ahead": [
+      "of",
+      "of",
+      "of"
+    ],
+    "rolling": [
+      "over",
+      "over",
+      "over"
+    ],
+    "Whirlwind": [
+      "life"
+    ],
+    "faith": [
+      "and"
+    ],
+    "Rise": [
+      "in"
+    ],
+    "anger,": [
+      "fall"
+    ],
+    "back,": [
+      "and"
+    ],
+    "Slow": [
+      "degrees"
+    ],
+    "degrees": [
+      "on"
+    ],
+    "Full": [
+      "moon"
+    ],
+    "moon": [
+      "rising"
+    ],
+    "lays": [
+      "silver"
+    ],
+    "silver": [
+      "at"
+    ],
+    "planet": [
+      "glowing",
+      "of"
+    ],
+    "crack": [
+      "in"
+    ],
+    "try?": [
+      "I"
+    ],
+    "feeling": [
+      "inside",
+      "inside"
+    ],
+    "says": [
+      "it's"
+    ],
+    "Clear": [
+      "head,"
+    ],
+    "head,": [
+      "new",
+      "surprised"
+    ],
+    "king": [
+      "now"
+    ],
+    "Fly": [
+      "by",
+      "by"
+    ],
+    "night,": [
+      "away",
+      "goodbye"
+    ],
+    "Change": [
+      "my"
+    ],
+    "goodbye": [
+      "my"
+    ],
+    "isn't": [
+      "coming"
+    ],
+    "Moon": [
+      "rise,"
+    ],
+    "rise,": [
+      "thoughtful"
+    ],
+    "thoughtful": [
+      "eyes"
+    ],
+    "Staring": [
+      "back"
+    ],
+    "window": [
+      "beside",
+      "in"
+    ],
+    "fright": [
+      "or"
+    ],
+    "Leaving": [
+      "behind",
+      "my",
+      "life"
+    ],
+    "Start": [
+      "a"
+    ],
+    "Find": [
+      "what"
+    ],
+    "changing": [
+      "every"
+    ],
+    "enough": [
+      "of",
+      "to",
+      "not",
+      "to",
+      "to",
+      "to",
+      "not",
+      "to",
+      "to"
+    ],
+    "want": [
+      "to",
+      "to",
+      "to",
+      "to"
+    ],
+    "Quiet": [
+      "and"
+    ],
+    "thoughts": [
+      "apprehensive"
+    ],
+    "hours": [
+      "drift"
+    ],
+    "drift": [
+      "away",
+      "into"
+    ],
+    "Playing": [
+      "a"
+    ],
+    "lone": [
+      "hand"
+    ],
+    "begins": [
+      "today"
+    ],
+    "host": [
+      "of"
+    ],
+    "holy": [
+      "horrors"
+    ],
+    "horrors": [
+      "to",
+      "worse"
+    ],
+    "direct": [
+      "our"
+    ],
+    "aimless": [
+      "dance",
+      "like"
+    ],
+    "dance": [
+      "on",
+      "to",
+      "to",
+      "tonight"
+    ],
+    "powers": [
+      "we",
+      "that",
+      "and"
+    ],
+    "'The": [
+      "stars"
+    ],
+    "stars": [
+      "aren't",
+      "fade"
+    ],
+    "aren't": [
+      "aligned",
+      "permanent"
+    ],
+    "gods": [
+      "are",
+      "of",
+      "watched",
+      "in"
+    ],
+    "Blame": [
+      "is"
+    ],
+    "better": [
+      "to"
+    ],
+    "choose": [
+      "a",
+      "not",
+      "from",
+      "a",
+      "freewill",
+      "it",
+      "it"
+    ],
+    "ready": [
+      "guide"
+    ],
+    "guide": [
+      "in"
+    ],
+    "some": [
+      "celestial",
+      "fought",
+      "reality",
+      "pilgrim",
+      "captain,"
+    ],
+    "celestial": [
+      "voice"
+    ],
+    "If": [
+      "you",
+      "our",
+      "we",
+      "I"
+    ],
+    "decide,": [
+      "you"
+    ],
+    "made": [
+      "a",
+      "of"
+    ],
+    "phantom": [
+      "fears"
+    ],
+    "fears": [
+      "and",
+      "are"
+    ],
+    "kindness": [
+      "that"
+    ],
+    "path": [
+      "that's"
+    ],
+    "dealt": [
+      "a"
+    ],
+    "losing": [
+      "hand"
+    ],
+    "cards": [
+      "were"
+    ],
+    "stacked": [
+      "against"
+    ],
+    "weren't": [
+      "born"
+    ],
+    "born": [
+      "in"
+    ],
+    "prisoner": [
+      "in"
+    ],
+    "victim": [
+      "of"
+    ],
+    "venomous": [
+      "fate"
+    ],
+    "Kicked": [
+      "in"
+    ],
+    "heaven's": [
+      "unearthly",
+      "gate"
+    ],
+    "unearthly": [
+      "estate"
+    ],
+    "Each": [
+      "of",
+      "another's",
+      "microcosmic"
+    ],
+    "cell": [
+      "of"
+    ],
+    "Imperfect": [
+      "and"
+    ],
+    "Genetic": [
+      "blends"
+    ],
+    "uncertain": [
+      "ends"
+    ],
+    "fortune": [
+      "hunt"
+    ],
+    "hunt": [
+      "that's"
+    ],
+    "didn't": [
+      "seem"
+    ],
+    "seem": [
+      "so"
+    ],
+    "lost": [
+      "a",
+      "ship",
+      "Xanadu"
+    ],
+    "sit": [
+      "and"
+    ],
+    "Dreams": [
+      "of"
+    ],
+    "simple": [
+      "truths",
+      "kind",
+      "beat",
+      "are"
+    ],
+    "Now": [
+      "we're",
+      "we",
+      "we've",
+      "he"
+    ],
+    "So": [
+      "involved",
+      "many"
+    ],
+    "involved": [
+      "with"
+    ],
+    "Walk": [
+      "down"
+    ],
+    "vanity": [
+      "fair"
+    ],
+    "lane": [
+      "everywhere"
+    ],
+    "Wall": [
+      "Street"
+    ],
+    "Street": [
+      "shuffles"
+    ],
+    "shuffles": [
+      "there"
+    ],
+    "Dressed": [
+      "in"
+    ],
+    "flowing": [
+      "hair"
+    ],
+    "Once": [
+      "we",
+      "we"
+    ],
+    "loved": [
+      "the"
+    ],
+    "ask": [
+      "the"
+    ],
+    "price": [
+      "of",
+      "peace"
+    ],
+    "take": [
+      "water",
+      "anything",
+      "the"
+    ],
+    "piece": [
+      "of"
+    ],
+    "slipping": [
+      "away"
+    ],
+    "aging": [
+      "every"
+    ],
+    "I'll": [
+      "still",
+      "give",
+      "be"
+    ],
+    "weary": [
+      "world",
+      "of"
+    ],
+    "ancients": [
+      "first"
+    ],
+    "Sought": [
+      "alone"
+    ],
+    "alone": [
+      "to",
+      "and"
+    ],
+    "battled": [
+      "through"
+    ],
+    "neither": [
+      "force"
+    ],
+    "soul": [
+      "a",
+      "grows"
+    ],
+    "'I": [
+      "bring",
+      "bring"
+    ],
+    "bring": [
+      "truth",
+      "wit",
+      "love",
+      "laughter,",
+      "music",
+      "joy",
+      "tears"
+    ],
+    "wit": [
+      "and"
+    ],
+    "Precious": [
+      "gifts"
+    ],
+    "find": [
+      "you",
+      "out",
+      "a",
+      "the"
+    ],
+    "food": [
+      "and"
+    ],
+    "Show": [
+      "you"
+    ],
+    "fire": [
+      "to"
+    ],
+    "keep": [
+      "you",
+      "oneself",
+      "his",
+      "his",
+      "it",
+      "it"
+    ],
+    "endless": [
+      "winter",
+      "nights",
+      "day"
+    ],
+    "winter": [
+      "storm",
+      "fell"
+    ],
+    "Coming": [
+      "forth"
+    ],
+    "ran": [
+      "to"
+    ],
+    "converse": [
+      "among"
+    ],
+    "among": [
+      "the"
+    ],
+    "streets": [
+      "fell",
+      "on"
+    ],
+    "Yet": [
+      "they",
+      "you",
+      "my",
+      "I"
+    ],
+    "knew": [
+      "not",
+      "love"
+    ],
+    "urge": [
+      "to"
+    ],
+    "Seemed": [
+      "not"
+    ],
+    "wise": [
+      "men",
+      "enough"
+    ],
+    "men": [
+      "were",
+      "despaired",
+      "of",
+      "are"
+    ],
+    "Bridge": [
+      "of"
+    ],
+    "Death": [
+      "was"
+    ],
+    "quest": [
+      "of"
+    ],
+    "darkness": [
+      "of"
+    ],
+    "Heart's": [
+      "eternal"
+    ],
+    "eternal": [
+      "light"
+    ],
+    "trust": [
+      "your"
+    ],
+    "Only": [
+      "love"
+    ],
+    "steer": [
+      "you"
+    ],
+    "laughter,": [
+      "I"
+    ],
+    "soothe": [
+      "your",
+      "the"
+    ],
+    "primal": [
+      "fears"
+    ],
+    "Throw": [
+      "off"
+    ],
+    "off": [
+      "those",
+      "again"
+    ],
+    "chains": [
+      "of",
+      "of"
+    ],
+    "prison": [
+      "disappears'",
+      "of"
+    ],
+    "forests": [
+      "echoed"
+    ],
+    "danced": [
+      "and"
+    ],
+    "lived": [
+      "as"
+    ],
+    "Food": [
+      "and"
+    ],
+    "wine": [
+      "they",
+      "and"
+    ],
+    "slept": [
+      "beneath"
+    ],
+    "caught": [
+      "them",
+      "in",
+      "and"
+    ],
+    "Bringing": [
+      "wolves"
+    ],
+    "wolves": [
+      "and"
+    ],
+    "hearts": [
+      "of",
+      "were",
+      "of"
+    ],
+    "universe": [
+      "divided",
+      "learned",
+      "in"
+    ],
+    "troubled": [
+      "years"
+    ],
+    "cloud": [
+      "of",
+      "loom"
+    ],
+    "doubts": [
+      "and"
+    ],
+    "asunder": [
+      "into"
+    ],
+    "fought": [
+      "themselves,",
+      "each"
+    ],
+    "themselves,": [
+      "some"
+    ],
+    "Most": [
+      "just"
+    ],
+    "followed": [
+      "one"
+    ],
+    "Lost": [
+      "and"
+    ],
+    "divided": [
+      "into"
+    ],
+    "did": [
+      "not"
+    ],
+    "Brought": [
+      "tales"
+    ],
+    "tales": [
+      "of",
+      "of",
+      "of"
+    ],
+    "old": [
+      "to",
+      "enough",
+      "attraction",
+      "friends"
+    ],
+    "'My": [
+      "Rocinante"
+    ],
+    "Rocinante": [
+      "sailed"
+    ],
+    "sailed": [
+      "by",
+      "for"
+    ],
+    "Cygnus'": [
+      "fearsome"
+    ],
+    "Spiralled": [
+      "through"
+    ],
+    "timeless": [
+      "space",
+      "old"
+    ],
+    "immortal": [
+      "place",
+      "man",
+      "man"
+    ],
+    "memory": [
+      "and",
+      "of",
+      "chip"
+    ],
+    "shape": [
+      "or"
+    ],
+    "disembodied": [
+      "spirit",
+      "race"
+    ],
+    "dead": [
+      "and"
+    ],
+    "passed": [
+      "into",
+      "me"
+    ],
+    "told": [
+      "in",
+      "the"
+    ],
+    "Marble": [
+      "white"
+    ],
+    "white": [
+      "and"
+    ],
+    "purest": [
+      "gold..."
+    ],
+    "battle": [
+      "rage",
+      "for"
+    ],
+    "rage": [
+      "on"
+    ],
+    "Thunderbolts": [
+      "across"
+    ],
+    "move,": [
+      "I"
+    ],
+    "scream": [
+      "begin"
+    ],
+    "begin": [
+      "inside..."
+    ],
+    "once": [
+      "the"
+    ],
+    "chaos": [
+      "ceased"
+    ],
+    "stillness": [
+      "fell,"
+    ],
+    "fell,": [
+      "a"
+    ],
+    "warriors": [
+      "felt"
+    ],
+    "felt": [
+      "my"
+    ],
+    "stayed": [
+      "their"
+    ],
+    "struggle,": [
+      "mystified"
+    ],
+    "Apollo": [
+      "was"
+    ],
+    "Dionysus": [
+      "thought"
+    ],
+    "heard": [
+      "my",
+      "it",
+      "the"
+    ],
+    "story": [
+      "further"
+    ],
+    "wondered,": [
+      "and"
+    ],
+    "Looking": [
+      "down"
+    ],
+    "doubt": [
+      "and"
+    ],
+    "Its": [
+      "surface"
+    ],
+    "surface": [
+      "splintered"
+    ],
+    "Into": [
+      "sorry"
+    ],
+    "sorry": [
+      "Hemispheres"
+    ],
+    "sat": [
+      "a"
+    ],
+    "turned": [
+      "at"
+    ],
+    "'We": [
+      "will"
+    ],
+    "call": [
+      "you"
+    ],
+    "god": [
+      "of",
+      "or"
+    ],
+    "Balance": [
+      "you"
+    ],
+    "walk": [
+      "our",
+      "a",
+      "and",
+      "the",
+      "the"
+    ],
+    "goals": [
+      "are"
+    ],
+    "run": [
+      "alone",
+      "the",
+      "behind",
+      "now"
+    ],
+    "pursue": [
+      "a"
+    ],
+    "shine": [
+      "clear"
+    ],
+    "Armed": [
+      "with"
+    ],
+    "sense": [
+      "and"
+    ],
+    "united": [
+      "in"
+    ],
+    "Living": [
+      "on",
+      "in",
+      "in",
+      "in",
+      "one"
+    ],
+    "lighted": [
+      "stage",
+      "streets"
+    ],
+    "Approaches": [
+      "the"
+    ],
+    "Beyond": [
+      "the"
+    ],
+    "gilded": [
+      "cage",
+      "cage"
+    ],
+    "Cast": [
+      "in"
+    ],
+    "unlikely": [
+      "role"
+    ],
+    "Ill-equipped": [
+      "to"
+    ],
+    "insufficient": [
+      "tact"
+    ],
+    "put": [
+      "up",
+      "aside",
+      "a",
+      "him"
+    ],
+    "oneself": [
+      "intact"
+    ],
+    "universal": [
+      "dream"
+    ],
+    "Must": [
+      "put",
+      "also",
+      "give"
+    ],
+    "aside": [
+      "the"
+    ],
+    "Get": [
+      "on",
+      "caught"
+    ],
+    "real": [
+      "relation"
+    ],
+    "underlying": [
+      "theme"
+    ],
+    "fish": [
+      "eye"
+    ],
+    "eye": [
+      "lens"
+    ],
+    "Caught": [
+      "in"
+    ],
+    "camera": [
+      "eye"
+    ],
+    "pretend": [
+      "a"
+    ],
+    "long-awaited": [
+      "friend",
+      "treasure"
+    ],
+    "world's": [
+      "indeed"
+    ],
+    "indeed": [
+      "a"
+    ],
+    "merely": [
+      "players"
+    ],
+    "Performers": [
+      "and"
+    ],
+    "another's": [
+      "audience"
+    ],
+    "Outside": [
+      "the"
+    ],
+    "Imagine": [
+      "a",
+      "a",
+      "a",
+      "a"
+    ],
+    "dying": [
+      "days",
+      "power"
+    ],
+    "weapon": [
+      "that",
+      "to",
+      "to",
+      "to"
+    ],
+    "settle": [
+      "the"
+    ],
+    "Whoever": [
+      "found"
+    ],
+    "sure": [
+      "to"
+    ],
+    "scientist": [
+      "pacing"
+    ],
+    "pacing": [
+      "the"
+    ],
+    "eager": [
+      "to"
+    ],
+    "big": [
+      "stick",
+      "bang",
+      "shots",
+      "bang",
+      "bang",
+      "shots",
+      "bang",
+      "machine"
+    ],
+    "winning": [
+      "trick"
+    ],
+    "bang": [
+      "took",
+      "took",
+      "took",
+      "took"
+    ],
+    "took": [
+      "and",
+      "and",
+      "and",
+      "and",
+      "the",
+      "a"
+    ],
+    "shook": [
+      "the",
+      "the",
+      "the",
+      "the"
+    ],
+    "Shot": [
+      "down",
+      "down",
+      "down",
+      "down"
+    ],
+    "begun": [
+      "and",
+      "and"
+    ],
+    "hit": [
+      "everyone",
+      "everyone"
+    ],
+    "chain": [
+      "reaction",
+      "reaction"
+    ],
+    "reaction": [
+      "was",
+      "was"
+    ],
+    "shots": [
+      "try",
+      "try"
+    ],
+    "try": [
+      "to",
+      "to",
+      "to",
+      "to",
+      "to",
+      "to"
+    ],
+    "Fools": [
+      "try",
+      "try"
+    ],
+    "hopeful": [
+      "depend",
+      "depend",
+      "depend",
+      "depend"
+    ],
+    "depend": [
+      "on",
+      "on",
+      "on",
+      "on"
+    ],
+    "Whatever": [
+      "the",
+      "the",
+      "the",
+      "the"
+    ],
+    "hopeless": [
+      "may",
+      "may",
+      "may",
+      "may"
+    ],
+    "Gathered": [
+      "from"
+    ],
+    "secrecy": [
+      "of"
+    ],
+    "brightest": [
+      "boys"
+    ],
+    "biggest": [
+      "toys"
+    ],
+    "bargained": [
+      "for..."
+    ],
+    "pilot": [
+      "of"
+    ],
+    "\"Enola": [
+      "Gay\""
+    ],
+    "Flying": [
+      "out"
+    ],
+    "August": [
+      "day"
+    ],
+    "Would": [
+      "be"
+    ],
+    "look": [
+      "far",
+      "around",
+      "around",
+      "around"
+    ],
+    "Things": [
+      "I",
+      "I'd"
+    ],
+    "know,": [
+      "things"
+    ],
+    "I'd": [
+      "like",
+      "like"
+    ],
+    "greater": [
+      "the"
+    ],
+    "suspend": [
+      "our",
+      "our"
+    ],
+    "Mystic": [
+      "rhythms",
+      "rhythms",
+      "rhythms",
+      "rhythms",
+      "rhythms",
+      "rhythms"
+    ],
+    "Capture": [
+      "my",
+      "my",
+      "my"
+    ],
+    "Carry": [
+      "them",
+      "them",
+      "them"
+    ],
+    "Mysteries": [
+      "of",
+      "of"
+    ],
+    "escape": [
+      "the",
+      "the",
+      "the",
+      "the",
+      "might"
+    ],
+    "northern": [
+      "lights",
+      "lights"
+    ],
+    "African": [
+      "sun"
+    ],
+    "Primitive": [
+      "things"
+    ],
+    "catch": [
+      "a",
+      "the",
+      "the",
+      "my",
+      "the",
+      "the",
+      "the",
+      "the"
+    ],
+    "glimpse": [
+      "of",
+      "of",
+      "of"
+    ],
+    "what's": [
+      "beyond",
+      "right",
+      "right"
+    ],
+    "Was": [
+      "it"
+    ],
+    "Stringing": [
+      "us"
+    ],
+    "dreamed": [
+      "about"
+    ],
+    "Unseen": [
+      "and"
+    ],
+    "Nature": [
+      "seems"
+    ],
+    "supernatural": [
+      "way"
+    ],
+    "canopy": [
+      "of",
+      "of"
+    ],
+    "push": [
+      "and",
+      "us",
+      "comes"
+    ],
+    "pull": [
+      "of"
+    ],
+    "rhythms": [
+      "from"
+    ],
+    "ebbing": [
+      "tide"
+    ],
+    "tide": [
+      "retreats",
+      "will",
+      "comes"
+    ],
+    "Along": [
+      "the"
+    ],
+    "rocky": [
+      "shoreline",
+      "chains"
+    ],
+    "leaves": [
+      "a",
+      "it"
+    ],
+    "trail": [
+      "of"
+    ],
+    "short-lived": [
+      "galaxy"
+    ],
+    "microcosmic": [
+      "planet"
+    ],
+    "complete": [
+      "society"
+    ],
+    "kind": [
+      "mirror"
+    ],
+    "reflect": [
+      "upon"
+    ],
+    "busy": [
+      "little"
+    ],
+    "Chasing": [
+      "out"
+    ],
+    "forget": [
+      "about"
+    ],
+    "Wheels": [
+      "within"
+    ],
+    "wheels": [
+      "in",
+      "in"
+    ],
+    "pattern": [
+      "so"
+    ],
+    "grand": [
+      "and"
+    ],
+    "lose": [
+      "sight",
+      "it",
+      "it",
+      "his",
+      "his",
+      "himself,",
+      "his",
+      "the"
+    ],
+    "sight": [
+      "of"
+    ],
+    "causes": [
+      "can't"
+    ],
+    "quantum": [
+      "leap"
+    ],
+    "leap": [
+      "forward"
+    ],
+    "mess": [
+      "and",
+      "he"
+    ],
+    "Triumphant": [
+      "and"
+    ],
+    "mechanized": [
+      "world"
+    ],
+    "Computerized": [
+      "clinic"
+    ],
+    "superior": [
+      "cynics"
+    ],
+    "synthetic": [
+      "band"
+    ],
+    "Science,": [
+      "like"
+    ],
+    "also": [
+      "be"
+    ],
+    "view": [
+      "towards"
+    ],
+    "towards": [
+      "its"
+    ],
+    "Given": [
+      "the",
+      "the"
+    ],
+    "State": [
+      "of",
+      "of",
+      "of"
+    ],
+    "surely": [
+      "serve",
+      "help"
+    ],
+    "serve": [
+      "us"
+    ],
+    "Art": [
+      "as"
+    ],
+    "market": [
+      "campaigns"
+    ],
+    "Will": [
+      "still",
+      "still",
+      "only",
+      "drag"
+    ],
+    "capture": [
+      "our"
+    ],
+    "help": [
+      "us",
+      "to"
+    ],
+    "endangered": [
+      "species"
+    ],
+    "honest": [
+      "man"
+    ],
+    "survive": [
+      "annihilation"
+    ],
+    "Forming": [
+      "a"
+    ],
+    "Sensitive,": [
+      "open"
+    ],
+    "Wave": [
+      "after"
+    ],
+    "wave": [
+      "will",
+      "between"
+    ],
+    "bury": [
+      "the"
+    ],
+    "Tide": [
+      "after"
+    ],
+    "go": [
+      "on",
+      "'round",
+      "too"
+    ],
+    "rebel": [
+      "and",
+      "or"
+    ],
+    "signal": [
+      "turning",
+      "'round"
+    ],
+    "young": [
+      "romantic",
+      "enough",
+      "boy"
+    ],
+    "Wants": [
+      "to"
+    ],
+    "problem": [
+      "with",
+      "with"
+    ],
+    "he'll": [
+      "find"
+    ],
+    "cleaning": [
+      "up"
+    ],
+    "nature": [
+      "pure"
+    ],
+    "match": [
+      "the"
+    ],
+    "beat": [
+      "of"
+    ],
+    "Old": [
+      "World",
+      "World",
+      "Sol"
+    ],
+    "World": [
+      "Man",
+      "Man",
+      "Man...",
+      "Man",
+      "Man",
+      "Man..."
+    ],
+    "Third": [
+      "World",
+      "World"
+    ],
+    "mend": [
+      "the"
+    ],
+    "noble": [
+      "enough",
+      "enough"
+    ],
+    "win": [
+      "the",
+      "the"
+    ],
+    "weak": [
+      "enough",
+      "enough"
+    ],
+    "New": [
+      "World",
+      "World"
+    ],
+    "radio": [
+      "receiver"
+    ],
+    "Tuned": [
+      "to"
+    ],
+    "factories": [
+      "and"
+    ],
+    "writer": [
+      "and"
+    ],
+    "bearing": [
+      "arms"
+    ],
+    "weapons": [
+      "on"
+    ],
+    "Trying": [
+      "to",
+      "to",
+      "to",
+      "to"
+    ],
+    "save": [
+      "the",
+      "the"
+    ],
+    "pave": [
+      "the"
+    ],
+    "concerned": [
+      "with"
+    ],
+    "knows": [
+      "constant",
+      "everything",
+      "of",
+      "changes"
+    ],
+    "constant": [
+      "change"
+    ],
+    "fool": [
+      "enough"
+    ],
+    "certain": [
+      "measure",
+      "degree",
+      "degree",
+      "measure",
+      "amount",
+      "degree",
+      "amount",
+      "measure"
+    ],
+    "measure": [
+      "of",
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "Willing": [
+      "to"
+    ],
+    "appear": [
+      "naive"
+    ],
+    "degree": [
+      "of",
+      "of",
+      "of"
+    ],
+    "forces": [
+      "of",
+      "of"
+    ],
+    "shot": [
+      "of"
+    ],
+    "willingness": [
+      "to",
+      "to"
+    ],
+    "risk": [
+      "defeat"
+    ],
+    "Celebrate": [
+      "the"
+    ],
+    "chance": [
+      "at",
+      "to"
+    ],
+    "difference": [
+      "of"
+    ],
+    "breaking": [
+      "free"
+    ],
+    "greatest": [
+      "act"
+    ],
+    "act": [
+      "can"
+    ],
+    "amount": [
+      "of",
+      "of"
+    ],
+    "Daring": [
+      "on"
+    ],
+    "Basic": [
+      "elemental",
+      "temperamental"
+    ],
+    "elemental": [
+      "instinct"
+    ],
+    "instinct": [
+      "to"
+    ],
+    "Stirs": [
+      "the"
+    ],
+    "higher": [
+      "passions"
+    ],
+    "Thrill": [
+      "to"
+    ],
+    "Alternating": [
+      "currents",
+      "currents"
+    ],
+    "currents": [
+      "in",
+      "force"
+    ],
+    "tidewater": [
+      "surge"
+    ],
+    "Rational": [
+      "resistance",
+      "responses"
+    ],
+    "resistance": [
+      "to"
+    ],
+    "unwise": [
+      "urge"
+    ],
+    "Anything": [
+      "can",
+      "can",
+      "can",
+      "can",
+      "can"
+    ],
+    "point": [
+      "of",
+      "of",
+      "of",
+      "of",
+      "on",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "At": [
+      "the",
+      "the",
+      "the"
+    ],
+    "burden": [
+      "of",
+      "of"
+    ],
+    "journey": [
+      "is",
+      "on"
+    ],
+    "temperamental": [
+      "filters"
+    ],
+    "filters": [
+      "on"
+    ],
+    "Lenses": [
+      "polarize"
+    ],
+    "responses": [
+      "force"
+    ],
+    "magnetic": [
+      "north"
+    ],
+    "needle": [
+      "moving"
+    ],
+    "moving": [
+      "back"
+    ],
+    "candle": [
+      "is",
+      "and"
+    ],
+    "departure": [
+      "is"
+    ],
+    "Turn": [
+      "up",
+      "up"
+    ],
+    "Activate": [
+      "the",
+      "the"
+    ],
+    "clouds": [
+      "in"
+    ],
+    "watch": [
+      "the",
+      "with"
+    ],
+    "Sunlight": [
+      "dances"
+    ],
+    "dances": [
+      "through"
+    ],
+    "Soft": [
+      "winds"
+    ],
+    "winds": [
+      "stir"
+    ],
+    "stir": [
+      "the"
+    ],
+    "sighing": [
+      "trees"
+    ],
+    "Lying": [
+      "in"
+    ],
+    "warm": [
+      "grass"
+    ],
+    "Feel": [
+      "the"
+    ],
+    "Elven": [
+      "songs"
+    ],
+    "Sweet": [
+      "wine"
+    ],
+    "soft": [
+      "relaxing",
+      "place",
+      "place",
+      "and",
+      "filter"
+    ],
+    "relaxing": [
+      "lights"
+    ],
+    "never": [
+      "touch",
+      "left",
+      "leaves",
+      "watched"
+    ],
+    "Here": [
+      "in"
+    ],
+    "enchanted": [
+      "place"
+    ],
+    "traveled": [
+      "now"
+    ],
+    "feels": [
+      "so"
+    ],
+    "friends": [
+      "who",
+      "growing"
+    ],
+    "golden": [
+      "light"
+    ],
+    "'Til": [
+      "the",
+      "I",
+      "bursting"
+    ],
+    "twilight": [
+      "when"
+    ],
+    "treasure": [
+      "every",
+      "at"
+    ],
+    "passing": [
+      "day",
+      "trains"
+    ],
+    "calling": [
+      "you",
+      "you"
+    ],
+    "You're": [
+      "wanting",
+      "wanting"
+    ],
+    "wanting": [
+      "to",
+      "to"
+    ],
+    "Misty": [
+      "Mountains",
+      "Mountains"
+    ],
+    "Mountains": [
+      "rise",
+      "rise"
+    ],
+    "friendly": [
+      "fires",
+      "fires"
+    ],
+    "fires": [
+      "burn",
+      "burn"
+    ],
+    "Dark": [
+      "Lord",
+      "gives",
+      "Lands"
+    ],
+    "Lord": [
+      "cannot"
+    ],
+    "Peace": [
+      "of",
+      "of"
+    ],
+    "sanctuary": [
+      "by",
+      "by"
+    ],
+    "Loud": [
+      "Water's",
+      "Water's"
+    ],
+    "Water's": [
+      "flow",
+      "flow"
+    ],
+    "Stop": [
+      "here"
+    ],
+    "until": [
+      "the",
+      "the"
+    ],
+    "calls": [
+      "you"
+    ],
+    "Standing": [
+      "with"
+    ],
+    "senses": [
+      "reeling"
+    ],
+    "grow": [
+      "old",
+      "longer,",
+      "pale",
+      "lighter"
+    ],
+    "lord": [
+      "cannot"
+    ],
+    "past,": [
+      "in"
+    ],
+    "country": [
+      "like",
+      "like",
+      "like",
+      "like"
+    ],
+    "Parched": [
+      "and"
+    ],
+    "Man": [
+      "could",
+      "alone"
+    ],
+    "way,": [
+      "in"
+    ],
+    "Canyons": [
+      "and"
+    ],
+    "Endless": [
+      "and"
+    ],
+    "Searching": [
+      "through",
+      "for"
+    ],
+    "grim": [
+      "eternity"
+    ],
+    "Sculptured": [
+      "by"
+    ],
+    "prehistoric": [
+      "sea"
+    ],
+    "Seven": [
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities",
+      "Cities"
+    ],
+    "Cities": [
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "Stories": [
+      "that",
+      "that",
+      "that"
+    ],
+    "fired": [
+      "my",
+      "my",
+      "my"
+    ],
+    "splendid": [
+      "mirage",
+      "mirage",
+      "mirage"
+    ],
+    "mirage": [
+      "in",
+      "in",
+      "in"
+    ],
+    "Glowing": [
+      "in",
+      "in",
+      "in"
+    ],
+    "dreams,": [
+      "like",
+      "like",
+      "like"
+    ],
+    "Glitter": [
+      "in",
+      "in",
+      "in"
+    ],
+    "Distant": [
+      "as",
+      "as",
+      "as"
+    ],
+    "comet": [
+      "or",
+      "or",
+      "or"
+    ],
+    "himself,": [
+      "in"
+    ],
+    "Rewrite": [
+      "the"
+    ],
+    "Recapture": [
+      "the"
+    ],
+    "Sunblind": [
+      "and"
+    ],
+    "Frozen": [
+      "and",
+      "in"
+    ],
+    "nights": [
+      "grow",
+      "growing"
+    ],
+    "longer,": [
+      "the"
+    ],
+    "farther": [
+      "I"
+    ],
+    "Wake": [
+      "to"
+    ],
+    "aching": [
+      "cold,"
+    ],
+    "cold,": [
+      "and"
+    ],
+    "deep": [
+      "Sahara"
+    ],
+    "Sahara": [
+      "of"
+    ],
+    "gleam": [
+      "in"
+    ],
+    "distance": [
+      "could"
+    ],
+    "cruel": [
+      "fate"
+    ],
+    "times": [
+      "do"
+    ],
+    "goes": [
+      "on"
+    ],
+    "Everyone": [
+      "knows"
+    ],
+    "one's": [
+      "ever"
+    ],
+    "ever": [
+      "wrong",
+      "weary",
+      "near"
+    ],
+    "apart": [
+      "from"
+    ],
+    "anything": [
+      "on"
+    ],
+    "Show...don't": [
+      "tell..."
+    ],
+    "(Show": [
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,",
+      "me,"
+    ],
+    "You've": [
+      "figured"
+    ],
+    "figured": [
+      "out"
+    ],
+    "twist": [
+      "perceptions"
+    ],
+    "Reality": [
+      "won't",
+      "withdraws"
+    ],
+    "due": [
+      "reflection"
+    ],
+    "Give": [
+      "the",
+      "me"
+    ],
+    "jury": [
+      "direction"
+    ],
+    "Based": [
+      "on"
+    ],
+    "Hey,": [
+      "order",
+      "order"
+    ],
+    "order": [
+      "in",
+      "in"
+    ],
+    "Let's": [
+      "try",
+      "try",
+      "see",
+      "dance",
+      "fly"
+    ],
+    "Enough": [
+      "of"
+    ],
+    "Witness": [
+      "take"
+    ],
+    "exhibit": [
+      "A"
+    ],
+    "Sprawling": [
+      "on"
+    ],
+    "fringes": [
+      "of"
+    ],
+    "geometric": [
+      "order"
+    ],
+    "insulated": [
+      "border"
+    ],
+    "bright": [
+      "lights"
+    ],
+    "unlit": [
+      "unknown"
+    ],
+    "Growing": [
+      "up"
+    ],
+    "Opinions": [
+      "all"
+    ],
+    "future": [
+      "pre-decided",
+      "in"
+    ],
+    "Detached": [
+      "and"
+    ],
+    "mass": [
+      "production",
+      "appeal"
+    ],
+    "production": [
+      "zone"
+    ],
+    "Nowhere": [
+      "is"
+    ],
+    "dreamer": [
+      "or"
+    ],
+    "misfit": [
+      "so"
+    ],
+    "school": [
+      "halls"
+    ],
+    "shopping": [
+      "malls"
+    ],
+    "Conform": [
+      "or"
+    ],
+    "cast": [
+      "out",
+      "out"
+    ],
+    "basement": [
+      "bars"
+    ],
+    "backs": [
+      "of"
+    ],
+    "cool": [
+      "or"
+    ],
+    "Any": [
+      "escape"
+    ],
+    "smooth": [
+      "the"
+    ],
+    "unattractive": [
+      "truth"
+    ],
+    "suburbs": [
+      "have"
+    ],
+    "charms": [
+      "to"
+    ],
+    "Drawn": [
+      "like",
+      "by"
+    ],
+    "moths": [
+      "we"
+    ],
+    "Lit": [
+      "up"
+    ],
+    "sell": [
+      "their"
+    ],
+    "small": [
+      "desires"
+    ],
+    "ticking": [
+      "traps"
+    ],
+    "start": [
+      "to",
+      "off"
+    ],
+    "relax": [
+      "their"
+    ],
+    "Somewhere": [
+      "out"
+    ],
+    "Packaged": [
+      "like"
+    ],
+    "Target": [
+      "mass"
+    ],
+    "audience": [
+      "feel"
+    ],
+    "really": [
+      "means",
+      "not"
+    ],
+    "means": [
+      "it"
+    ],
+    "Package": [
+      "the"
+    ],
+    "illusion": [
+      "of"
+    ],
+    "Careful": [
+      "to"
+    ],
+    "fact": [
+      "that",
+      "is,"
+    ],
+    "she's": [
+      "only"
+    ],
+    "screen": [
+      "it"
+    ],
+    "Hit": [
+      "you",
+      "you"
+    ],
+    "melody": [
+      "so"
+    ],
+    "Watch": [
+      "his",
+      "his",
+      "her",
+      "her"
+    ],
+    "Orchestrate": [
+      "illusions"
+    ],
+    "Hoping": [
+      "you'll"
+    ],
+    "you'll": [
+      "believe"
+    ],
+    "Designing": [
+      "to"
+    ],
+    "That's": [
+      "entertainment",
+      "entertainment..."
+    ],
+    "target": [
+      "on"
+    ],
+    "Bask": [
+      "in"
+    ],
+    "believes": [
+      "it"
+    ],
+    "role": [
+      "becomes"
+    ],
+    "becomes": [
+      "the"
+    ],
+    "addicted": [
+      "to"
+    ],
+    "stage": [
+      "a"
+    ],
+    "She": [
+      "never",
+      "can"
+    ],
+    "sentimental": [
+      "ease"
+    ],
+    "romance": [
+      "to"
+    ],
+    "manipulate": [
+      "reactions"
+    ],
+    "Pin": [
+      "the"
+    ],
+    "donkeys": [
+      "on"
+    ],
+    "Fantasy": [
+      "for"
+    ],
+    "humanoid": [
+      "escapee"
+    ],
+    "android": [
+      "on"
+    ],
+    "Seeking": [
+      "freedom"
+    ],
+    "freedom": [
+      "beneath",
+      "gives",
+      "from"
+    ],
+    "mode...crack": [
+      "the"
+    ],
+    "Images": [
+      "conflicting",
+      "around"
+    ],
+    "conflicting": [
+      "into"
+    ],
+    "data": [
+      "overload"
+    ],
+    "banks": [
+      "unloading"
+    ],
+    "Bytes": [
+      "break"
+    ],
+    "break": [
+      "into",
+      "down",
+      "my"
+    ],
+    "Unit": [
+      "One's"
+    ],
+    "One's": [
+      "in"
+    ],
+    "trouble": [
+      "and"
+    ],
+    "scared": [
+      "out"
+    ],
+    "Guidance": [
+      "systems"
+    ],
+    "systems": [
+      "break"
+    ],
+    "pulse": [
+      "of"
+    ],
+    "clenching": [
+      "plastic"
+    ],
+    "plastic": [
+      "fist"
+    ],
+    "replays": [
+      "each"
+    ],
+    "hundred": [
+      "years"
+    ],
+    "Bows": [
+      "its"
+    ],
+    "head": [
+      "and"
+    ],
+    "mother": [
+      "of"
+    ],
+    "Sight": [
+      "unseen"
+    ],
+    "Life": [
+      "unsung",
+      "is"
+    ],
+    "they're": [
+      "open",
+      "made",
+      "afraid"
+    ],
+    "very": [
+      "wide"
+    ],
+    "identify": [
+      "inside"
+    ],
+    "blur": [
+      "I"
+    ],
+    "soothes": [
+      "and"
+    ],
+    "drawn": [
+      "toward"
+    ],
+    "mountain": [
+      "in",
+      "holds",
+      "almost",
+      "tops"
+    ],
+    "Fascinates": [
+      "and"
+    ],
+    "Gives": [
+      "my"
+    ],
+    "holds": [
+      "the"
+    ],
+    "bursting": [
+      "forth"
+    ],
+    "valley": [
+      "floods"
+    ],
+    "floods": [
+      "with"
+    ],
+    "strolled": [
+      "through"
+    ],
+    "fields": [
+      "of"
+    ],
+    "breath": [
+      "to"
+    ],
+    "climb": [
+      "that"
+    ],
+    "Fountain": [
+      "of",
+      "of"
+    ],
+    "Stay!": [
+      "Go!"
+    ],
+    "Work!": [
+      "No!"
+    ],
+    "Learn!": [
+      "Live!"
+    ],
+    "Earn!": [
+      "Give!"
+    ],
+    "Stay": [
+      "or"
+    ],
+    "fight?": [
+      "What's"
+    ],
+    "What's": [
+      "right?"
+    ],
+    "Crying": [
+      "back"
+    ],
+    "coldness": [
+      "grips"
+    ],
+    "grips": [
+      "my"
+    ],
+    "pitching": [
+      "violently"
+    ],
+    "shrieking": [
+      "winds"
+    ],
+    "Seaspray": [
+      "blurs"
+    ],
+    "blurs": [
+      "my"
+    ],
+    "Waves": [
+      "roll"
+    ],
+    "roll": [
+      "by"
+    ],
+    "Save": [
+      "my"
+    ],
+    "lashed": [
+      "helpless"
+    ],
+    "helpless": [
+      "to",
+      "mesmerized",
+      "invaders"
+    ],
+    "Remembering": [
+      "when"
+    ],
+    "wheel": [
+      "in"
+    ],
+    "helm": [
+      "so"
+    ],
+    "distant": [
+      "lands"
+    ],
+    "sea's": [
+      "too"
+    ],
+    "crew": [
+      "desert"
+    ],
+    "guiding": [
+      "hand"
+    ],
+    "Call": [
+      "out"
+    ],
+    "Shout": [
+      "out"
+    ],
+    "Cry": [
+      "out"
+    ],
+    "maelstrom": [
+      "is"
+    ],
+    "Scream": [
+      "out"
+    ],
+    "cares": [
+      "to"
+    ],
+    "whiteness": [
+      "of"
+    ],
+    "unfolding": [
+      "from"
+    ],
+    "stare": [
+      "around"
+    ],
+    "Have": [
+      "I"
+    ],
+    "scent": [
+      "of"
+    ],
+    "gaze": [
+      "is"
+    ],
+    "Am": [
+      "helpless"
+    ],
+    "Panacea,": [
+      "liquid",
+      "passion"
+    ],
+    "liquid": [
+      "grace"
+    ],
+    "fragile": [
+      "face"
+    ],
+    "Enchantment": [
+      "falls"
+    ],
+    "falls": [
+      "around"
+    ],
+    "Here's": [
+      "a"
+    ],
+    "meaning": [
+      "for"
+    ],
+    "shelter": [
+      "from"
+    ],
+    "Pacify": [
+      "my"
+    ],
+    "troubles": [
+      "with"
+    ],
+    "Her": [
+      "body,"
+    ],
+    "body,": [
+      "soft"
+    ],
+    "Naked": [
+      "in"
+    ],
+    "smile": [
+      "for",
+      "through"
+    ],
+    "Gentle": [
+      "hands"
+    ],
+    "hands": [
+      "that"
+    ],
+    "Comfort": [
+      "through"
+    ],
+    "Before": [
+      "the",
+      "I"
+    ],
+    "passion": [
+      "pure"
+    ],
+    "beside": [
+      "you"
+    ],
+    "Silhouettes": [
+      "of"
+    ],
+    "glass": [
+      "of"
+    ],
+    "Drink": [
+      "with"
+    ],
+    "chill": [
+      "at"
+    ],
+    "Nights": [
+      "time"
+    ],
+    "Draw": [
+      "another"
+    ],
+    "another": [
+      "goblet"
+    ],
+    "cask": [
+      "of"
+    ],
+    "Crimson": [
+      "misty"
+    ],
+    "misty": [
+      "memory"
+    ],
+    "Hazy": [
+      "glimpse"
+    ],
+    "foggy": [
+      "dawn"
+    ],
+    "doubtful": [
+      "fear"
+    ],
+    "Look!": [
+      "The"
+    ],
+    "mist": [
+      "is"
+    ],
+    "peaking": [
+      "through"
+    ],
+    "steps": [
+      "grow"
+    ],
+    "Hear": [
+      "the"
+    ],
+    "dancing": [
+      "waters"
+    ],
+    "drawing": [
+      "near"
+    ],
+    "Feel,": [
+      "my"
+    ],
+    "embattled": [
+      "hope"
+    ],
+    "Now,": [
+      "at"
+    ],
+    "tired": [
+      "out",
+      "mind",
+      "mind"
+    ],
+    "Many": [
+      "journeys"
+    ],
+    "journeys": [
+      "end"
+    ],
+    "But,": [
+      "the"
+    ],
+    "secret's": [
+      "told"
+    ],
+    "key,": [
+      "the"
+    ],
+    "end,": [
+      "the",
+      "weary"
+    ],
+    "Stripped": [
+      "of"
+    ],
+    "tears": [
+      "spring"
+    ],
+    "spring": [
+      "to"
+    ],
+    "Though": [
+      "I've",
+      "his"
+    ],
+    "reached": [
+      "a"
+    ],
+    "Sol": [
+      "behind"
+    ],
+    "tinge": [
+      "the"
+    ],
+    "eastern": [
+      "sky,",
+      "lands"
+    ],
+    "three": [
+      "travelers,",
+      "helpless"
+    ],
+    "travelers,": [
+      "men"
+    ],
+    "emerge": [
+      "from"
+    ],
+    "forest": [
+      "shadow."
+    ],
+    "Fording": [
+      "the"
+    ],
+    "Dawn,": [
+      "they"
+    ],
+    "south,": [
+      "journeying"
+    ],
+    "forbidding": [
+      "lands"
+    ],
+    "lands": [
+      "of",
+      "and",
+      "unknown"
+    ],
+    "Even": [
+      "now",
+      "love"
+    ],
+    "intensity": [
+      "of"
+    ],
+    "dread": [
+      "power"
+    ],
+    "weakening": [
+      "the"
+    ],
+    "saddening": [
+      "the"
+    ],
+    "Ultimately": [
+      "they"
+    ],
+    "empty,": [
+      "mindless"
+    ],
+    "mindless": [
+      "spectres"
+    ],
+    "stripped": [
+      "of"
+    ],
+    "soul,": [
+      "only"
+    ],
+    "thirst": [
+      "for"
+    ],
+    "hunger": [
+      "for"
+    ],
+    "Silence": [
+      "shrouds",
+      "all"
+    ],
+    "shrouds": [
+      "the"
+    ],
+    "announce": [
+      "the"
+    ],
+    "Three": [
+      "travllers"
+    ],
+    "travllers": [
+      "ford"
+    ],
+    "ford": [
+      "the"
+    ],
+    "southward": [
+      "journey"
+    ],
+    "lined": [
+      "with"
+    ],
+    "air": [
+      "is"
+    ],
+    "charged": [
+      "with"
+    ],
+    "shadow": [
+      "of"
+    ],
+    "Weighs": [
+      "like"
+    ],
+    "iron": [
+      "tears",
+      "fist"
+    ],
+    "Shreds": [
+      "of"
+    ],
+    "loom": [
+      "in"
+    ],
+    "overcast": [
+      "skies."
+    ],
+    "Necromancer": [
+      "keeps",
+      "soars"
+    ],
+    "keeps": [
+      "watch"
+    ],
+    "magic": [
+      "prism"
+    ],
+    "prism": [
+      "eyes.",
+      "eye"
+    ],
+    "views": [
+      "all"
+    ],
+    "already": [
+      "aware"
+    ],
+    "aware": [
+      "of"
+    ],
+    "trapped": [
+      "in"
+    ],
+    "Brooding": [
+      "in"
+    ],
+    "oer": [
+      "his"
+    ],
+    "Holding": [
+      "evry"
+    ],
+    "evry": [
+      "creature"
+    ],
+    "Helplessly": [
+      "they"
+    ],
+    "Gaze": [
+      "into"
+    ],
+    "Knowing": [
+      "they"
+    ],
+    "Lead": [
+      "them"
+    ],
+    "Spectres": [
+      "numb"
+    ],
+    "numb": [
+      "with"
+    ],
+    "Enter": [
+      "the"
+    ],
+    "appears": [
+      "to"
+    ],
+    "spell": [
+      "has"
+    ],
+    "brokenthe": [
+      "Dark"
+    ],
+    "Lands": [
+      "are"
+    ],
+    "Wraith": [
+      "of",
+      "of"
+    ],
+    "Stealthily": [
+      "attacking"
+    ],
+    "slays": [
+      "his"
+    ],
+    "free": [
+      "to"
+    ],
+    "labyrinths": [
+      "below"
+    ],
+    "Shadows": [
+      "through"
+    ],
+    "evil": [
+      "prism"
+    ],
+    "fear...but": [
+      "fear"
+    ],
+    "fear": [
+      "itself?",
+      "are",
+      "is"
+    ],
+    "pain,": [
+      "not"
+    ],
+    "failure,": [
+      "not"
+    ],
+    "fatal": [
+      "tragedy?"
+    ],
+    "faulty": [
+      "units"
+    ],
+    "units": [
+      "in"
+    ],
+    "mad": [
+      "machinery?",
+      "immortal"
+    ],
+    "broken": [
+      "contacts"
+    ],
+    "contacts": [
+      "in"
+    ],
+    "emotional": [
+      "chemistry?"
+    ],
+    "fist": [
+      "in"
+    ],
+    "velvet": [
+      "glove"
+    ],
+    "sheltered": [
+      "under"
+    ],
+    "glory": [
+      "game"
+    ],
+    "game": [
+      "on"
+    ],
+    "Thy": [
+      "kingdom's"
+    ],
+    "kingdom's": [
+      "will"
+    ],
+    "afraid": [
+      "of",
+      "of",
+      "of",
+      "of"
+    ],
+    "worse": [
+      "than"
+    ],
+    "bit": [
+      "afraid",
+      "longer",
+      "stronger",
+      "longer",
+      "stronger",
+      "stronger",
+      "longer",
+      "longer",
+      "stronger"
+    ],
+    "he's": [
+      "a"
+    ],
+    "lot": [
+      "more"
+    ],
+    "Can": [
+      "any"
+    ],
+    "any": [
+      "part",
+      "killer",
+      "god"
+    ],
+    "killer": [
+      "worth"
+    ],
+    "worth": [
+      "more"
+    ],
+    "blade": [
+      "in"
+    ],
+    "silken": [
+      "sheath"
+    ],
+    "shout": [
+      "about"
+    ],
+    "knowledge": [
+      "that"
+    ],
+    "Driven": [
+      "on"
+    ],
+    "evening": [
+      "with"
+    ],
+    "drink": [
+      "and",
+      "the",
+      "the"
+    ],
+    "skin": [
+      "get"
+    ],
+    "matter": [
+      "what"
+    ],
+    "learns": [
+      "to"
+    ],
+    "Learns": [
+      "to"
+    ],
+    "step": [
+      "was"
+    ],
+    "(Time": [
+      "stand",
+      "stand",
+      "stand",
+      "stand"
+    ],
+    "looking": [
+      "back",
+      "back",
+      "back"
+    ],
+    "places": [
+      "that",
+      "that",
+      "that"
+    ],
+    "surround": [
+      "me",
+      "me",
+      "me"
+    ],
+    "Freeze": [
+      "this",
+      "this",
+      "this",
+      "this"
+    ],
+    "Make": [
+      "each",
+      "each",
+      "each",
+      "each"
+    ],
+    "sensation": [
+      "a",
+      "a",
+      "a"
+    ],
+    "Experience": [
+      "slips",
+      "slips",
+      "slips",
+      "slips"
+    ],
+    "slips": [
+      "away",
+      "away",
+      "away",
+      "away",
+      "away",
+      "away",
+      "away"
+    ],
+    "Close": [
+      "my"
+    ],
+    "defenses": [
+      "down"
+    ],
+    "wounds": [
+      "that"
+    ],
+    "past": [
+      "go"
+    ],
+    "slow": [
+      "it"
+    ],
+    "captain,": [
+      "whose"
+    ],
+    "whose": [
+      "ship"
+    ],
+    "runs": [
+      "aground"
+    ],
+    "impression": [
+      "a"
+    ],
+    "motion": [
+      "a"
+    ],
+    "innocence": [
+      "slips",
+      "slips",
+      "slips"
+    ],
+    "Summer's": [
+      "going"
+    ],
+    "fast,": [
+      "nights"
+    ],
+    "growing": [
+      "colder",
+      "up,",
+      "older"
+    ],
+    "Children": [
+      "growing"
+    ],
+    "modern": [
+      "day"
+    ],
+    "Mean,": [
+      "mean",
+      "mean"
+    ],
+    "mean": [
+      "stride",
+      "pride"
+    ],
+    "Today's": [
+      "Tom",
+      "Tom",
+      "Tom"
+    ],
+    "Tom": [
+      "Sawyer",
+      "Sawyer",
+      "Sawyer"
+    ],
+    "him": [
+      "down"
+    ],
+    "reserve,": [
+      "a"
+    ],
+    "Riding": [
+      "out"
+    ],
+    "day's": [
+      "events"
+    ],
+    "say": [
+      "about",
+      "about",
+      "about",
+      "about"
+    ],
+    "Catch": [
+      "the",
+      "the",
+      "the",
+      "the"
+    ],
+    "mist,": [
+      "catch"
+    ],
+    "is,": [
+      "the",
+      "the",
+      "this"
+    ],
+    "Love": [
+      "and",
+      "and"
+    ],
+    "Maybe": [
+      "as",
+      "as"
+    ],
+    "skies": [
+      "are"
+    ],
+    "gets": [
+      "high",
+      "by",
+      "high",
+      "right"
+    ],
+    "Always": [
+      "hopeful,"
+    ],
+    "hopeful,": [
+      "yet"
+    ],
+    "witness,": [
+      "catch"
+    ],
+    "spirit,": [
+      "catch"
+    ],
+    "Exit": [
+      "the"
+    ],
+    "energy": [
+      "you"
+    ],
+    "right": [
+      "on"
+    ],
+    "friction": [
+      "of"
+    ],
+    "Stratospheric": [
+      "traces"
+    ],
+    "transitory": [
+      "flight",
+      "last"
+    ],
+    "Trails": [
+      "of"
+    ],
+    "condensation": [
+      "held"
+    ],
+    "paths": [
+      "of"
+    ],
+    "oceans": [
+      "drain"
+    ],
+    "drain": [
+      "away"
+    ],
+    "Horizon": [
+      "to"
+    ],
+    "written": [
+      "on"
+    ],
+    "Fading": [
+      "away"
+    ],
+    "hourglass,": [
+      "grain"
+    ],
+    "grain": [
+      "by",
+      "of"
+    ],
+    "Swept": [
+      "away"
+    ],
+    "voices": [
+      "in"
+    ],
+    "vapor": [
+      "trail",
+      "trail"
+    ],
+    "Atmospheric": [
+      "phases",
+      "disturbance"
+    ],
+    "phases": [
+      "make"
+    ],
+    "Vaporize": [
+      "the"
+    ],
+    "memories": [
+      "that"
+    ],
+    "freeze": [
+      "the"
+    ],
+    "fading": [
+      "past"
+    ],
+    "song": [
+      "birds"
+    ],
+    "Stilled": [
+      "by"
+    ],
+    "killing": [
+      "frost"
+    ],
+    "Forests": [
+      "burn"
+    ],
+    "burn": [
+      "to"
+    ],
+    "Washed": [
+      "away"
+    ],
+    "footprints": [
+      "in",
+      "in"
+    ],
+    "shipwrecked": [
+      "mariner"
+    ],
+    "mariner": [
+      "adrift"
+    ],
+    "adrift": [
+      "on"
+    ],
+    "unknown": [
+      "sea"
+    ],
+    "Clinging": [
+      "to"
+    ],
+    "wreckage": [
+      "of"
+    ],
+    "castaway,": [
+      "stranded"
+    ],
+    "desolate": [
+      "land"
+    ],
+    "virtual": [
+      "sand",
+      "hand",
+      "song",
+      "wings"
+    ],
+    "Net": [
+      "boy,",
+      "boy,",
+      "boy,"
+    ],
+    "boy,": [
+      "net",
+      "net",
+      "net"
+    ],
+    "net": [
+      "girl",
+      "girl",
+      "girl"
+    ],
+    "Send": [
+      "your",
+      "your",
+      "your"
+    ],
+    "'round": [
+      "the",
+      "the"
+    ],
+    "impulse": [
+      "'round",
+      "is"
+    ],
+    "Put": [
+      "your"
+    ],
+    "message": [
+      "in"
+    ],
+    "throw": [
+      "it"
+    ],
+    "Cyber": [
+      "Sea"
+    ],
+    "Astronauts": [
+      "in"
+    ],
+    "weightlessness": [
+      "of"
+    ],
+    "pixellated": [
+      "space"
+    ],
+    "graffiti": [
+      "with"
+    ],
+    "Press": [
+      "this",
+      "this"
+    ],
+    "amazing": [
+      "things"
+    ],
+    "pair": [
+      "of"
+    ],
+    "vagabonds": [
+      "who"
+    ],
+    "woman's": [
+      "smile"
+    ],
+    "smell": [
+      "her"
+    ],
+    "taste": [
+      "her",
+      "anew",
+      "my"
+    ],
+    "voltage": [
+      "from"
+    ],
+    "heartbeat": [
+      "round"
+    ],
+    "round": [
+      "the"
+    ],
+    "Unstable": [
+      "condition"
+    ],
+    "symptom": [
+      "of"
+    ],
+    "mental": [
+      "and"
+    ],
+    "environmental": [
+      "change"
+    ],
+    "feverish": [
+      "flux"
+    ],
+    "human": [
+      "interface"
+    ],
+    "interface": [
+      "and"
+    ],
+    "Sometimes": [
+      "our"
+    ],
+    "By": [
+      "external",
+      "internal"
+    ],
+    "external": [
+      "interference"
+    ],
+    "Signals": [
+      "get"
+    ],
+    "balance": [
+      "distorted"
+    ],
+    "internal": [
+      "incoherence"
+    ],
+    "Everybody": [
+      "need",
+      "need",
+      "got",
+      "got",
+      "need",
+      "need",
+      "got",
+      "got"
+    ],
+    "mood": [
+      "lifter"
+    ],
+    "reverse": [
+      "polarity",
+      "polarity"
+    ],
+    "mixed": [
+      "feelings",
+      "feelings"
+    ],
+    "About": [
+      "the",
+      "the"
+    ],
+    "function": [
+      "and",
+      "and"
+    ],
+    "deviate": [
+      "from"
+    ],
+    "ounce": [
+      "of"
+    ],
+    "pound": [
+      "of"
+    ],
+    "Process": [
+      "information"
+    ],
+    "information": [
+      "at"
+    ],
+    "half": [
+      "speed"
+    ],
+    "Pause,": [
+      "rewind,"
+    ],
+    "rewind,": [
+      "replay"
+    ],
+    "Warm": [
+      "memory"
+    ],
+    "Random": [
+      "sample,"
+    ],
+    "sample,": [
+      "hold"
+    ],
+    "Leave": [
+      "out",
+      "out"
+    ],
+    "worn": [
+      "by"
+    ],
+    "Courageous": [
+      "convictions"
+    ],
+    "drag": [
+      "the"
+    ],
+    "elevate": [
+      "from"
+    ],
+    "seek": [
+      "the"
+    ],
+    "sacred": [
+      "river",
+      "river"
+    ],
+    "river": [
+      "Alph",
+      "Alph"
+    ],
+    "caves": [
+      "of",
+      "of",
+      "of"
+    ],
+    "milk": [
+      "of",
+      "of",
+      "of"
+    ],
+    "whispered": [
+      "tales"
+    ],
+    "deepest": [
+      "mystery"
+    ],
+    "scaled": [
+      "the"
+    ],
+    "frozen": [
+      "mountain"
+    ],
+    "tops": [
+      "of"
+    ],
+    "Pleasure": [
+      "Dome",
+      "Dome"
+    ],
+    "Decreed": [
+      "by",
+      "by"
+    ],
+    "Kubla": [
+      "Khan",
+      "Khan"
+    ],
+    "anew": [
+      "the"
+    ],
+    "fruits": [
+      "of"
+    ],
+    "dine": [
+      "on"
+    ],
+    "thousand": [
+      "years"
+    ],
+    "gone": [
+      "but"
+    ],
+    "stopped": [
+      "in"
+    ],
+    "everlasting": [
+      "view"
+    ],
+    "Waiting": [
+      "for"
+    ],
+    "Praying": [
+      "for"
+    ],
+    "Prison": [
+      "of"
+    ],
+    "Held": [
+      "within"
+    ],
+    "bitter": [
+      "triumph"
+    ],
+    "dined": [
+      "on"
+    ],
+    "drunk": [
+      "the"
+    ]
+  },
+  "beginnings": [
+    "I",
+    "With",
+    "And",
+    "The",
+    "Federation",
+    "single",
+    "books,",
+    "benevolent",
+    "We've",
+    "The",
+    "The",
+    "The",
+    "To",
+    "One",
+    "Work",
+    "Common",
+    "Never",
+    "How",
+    "We",
+    "Of",
+    "Our",
+    "Fill",
+    "We",
+    "Of",
+    "All",
+    "Are",
+    "Look",
+    "Equality",
+    "Our",
+    "Come",
+    "Of",
+    "What",
+    "Let",
+    "Be",
+    "Hold",
+    "High",
+    "Behind",
+    "beneath",
+    "and",
+    "what",
+    "I",
+    "to",
+    "hand,",
+    "different",
+    "tell",
+    "What",
+    "When",
+    "It's",
+    "What",
+    "See",
+    "And",
+    "Chords",
+    "Or",
+    "I",
+    "The",
+    "Let",
+    "The",
+    "In",
+    "circle",
+    "and",
+    "Instead",
+    "quiet",
+    "shock",
+    "splinters",
+    "I",
+    "To",
+    "But",
+    "I",
+    "Listen",
+    "And",
+    "There's",
+    "I",
+    "The",
+    "It's",
+    "It's",
+    "We",
+    "Our",
+    "Another",
+    "That",
+    "The",
+    "Forget",
+    "It",
+    "I",
+    "These",
+    "Our",
+    "Just",
+    "The",
+    "We",
+    "Just",
+    "What",
+    "I",
+    "Clearly",
+    "summit",
+    "I",
+    "the",
+    "I",
+    "completely",
+    "Federation",
+    "the",
+    "I",
+    "And",
+    "Escape",
+    "Dream",
+    "I",
+    "An",
+    "He",
+    "Through",
+    "I",
+    "Grace",
+    "I",
+    "With",
+    "They",
+    "The",
+    "Their",
+    "To",
+    "Home",
+    "Home",
+    "I",
+    "refuge",
+    "to",
+    "Federation,",
+    "with",
+    "at",
+    "The",
+    "The",
+    "I",
+    "And",
+    "I",
+    "Not",
+    "Just",
+    "In",
+    "I",
+    "This",
+    "My",
+    "My",
+    "Spills",
+    "Attention",
+    "We",
+    "You",
+    "Slave",
+    "In",
+    "Swimming",
+    "You",
+    "A",
+    "Shining",
+    "Reaching",
+    "For",
+    "For",
+    "For",
+    "We",
+    "You",
+    "Color",
+    "Just",
+    "Islands",
+    "For",
+    "For",
+    "For",
+    "We",
+    "But",
+    "Reaching",
+    "You",
+    "We",
+    "Building",
+    "Reaching",
+    "For",
+    "For",
+    "For",
+    "For",
+    "For",
+    "We",
+    "But",
+    "Reaching",
+    "There's",
+    "Parade",
+    "End",
+    "Chase",
+    "There",
+    "Leaders",
+    "The",
+    "A",
+    "There",
+    "Take",
+    "The",
+    "The",
+    "Raise",
+    "Danger",
+    "Pride",
+    "Diamonds",
+    "Take",
+    "The",
+    "Take",
+    "Shave",
+    "Reasoning",
+    "Image",
+    "The",
+    "The",
+    "Miracles",
+    "More",
+    "He",
+    "But",
+    "Rose",
+    "Posed",
+    "Lonely",
+    "I",
+    "I",
+    "A",
+    "The",
+    "The",
+    "Polarize",
+    "Sensitize",
+    "Criticize",
+    "Civilize",
+    "Compensate",
+    "Animate",
+    "Complicate",
+    "Elevate",
+    "Goddess",
+    "Sister",
+    "Angel",
+    "Actress",
+    "Daughter",
+    "Empress",
+    "Priestess",
+    "Ancient",
+    "Spirit",
+    "Double",
+    "Alter",
+    "Struggle",
+    "Mistress",
+    "Mermaid",
+    "Daughter",
+    "Sister",
+    "My",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "Polarize",
+    "Sensitize",
+    "Criticize",
+    "Civilize",
+    "Compensate",
+    "Animate",
+    "Complicate",
+    "Elevate",
+    "There",
+    "Not",
+    "In",
+    "The",
+    "This",
+    "Shining",
+    "Those",
+    "The",
+    "Ahh,",
+    "Why",
+    "Why",
+    "There",
+    "A",
+    "The",
+    "The",
+    "This",
+    "To",
+    "Those",
+    "The",
+    "Ahh,",
+    "Why",
+    "Why",
+    "Some",
+    "Need",
+    "Reborn",
+    "We",
+    "From",
+    "This",
+    "Shining",
+    "Those",
+    "The",
+    "Ahh,",
+    "Why",
+    "Why",
+    "Tobes",
+    "The",
+    "Prince",
+    "The",
+    "By-Tor,",
+    "Centurion",
+    "Across",
+    "His",
+    "The",
+    "Coal-black",
+    "By-Tor",
+    "Square",
+    "The",
+    "Disciples",
+    "Rejoicing",
+    "By-Tor,",
+    "Snow",
+    "The",
+    "Signal",
+    "Message",
+    "Reaction",
+    "Invisibly",
+    "Elemental",
+    "Exchange",
+    "Reaction",
+    "Mysteriously",
+    "Eye",
+    "Reaction",
+    "Two",
+    "Reflection",
+    "H",
+    "No",
+    "Oh",
+    "Do",
+    "With",
+    "Electricity?",
+    "Seems",
+    "Emotion",
+    "Emotion",
+    "Music",
+    "Positively",
+    "Elemental",
+    "A",
+    "Music",
+    "Naturally",
+    "One,",
+    "Add",
+    "Sound",
+    "Multiplied",
+    "H",
+    "No",
+    "Oh,",
+    "Do",
+    "With",
+    "High",
+    "Globes",
+    "Higher",
+    "Clockwork",
+    "You",
+    "Goddesses",
+    "Every",
+    "Clockwork",
+    "Clockwork",
+    "Synchronized",
+    "Goddesses",
+    "Clockwork",
+    "As",
+    "As",
+    "All",
+    "Power",
+    "People",
+    "To",
+    "Celestial",
+    "Goddesses",
+    "Moved",
+    "Clockwork",
+    "Clockwork",
+    "Synchronized",
+    "Goddesses",
+    "Clockwork",
+    "As",
+    "As",
+    "\"Lean",
+    "Ignorance",
+    "Trust",
+    "Everything",
+    "Stars",
+    "Span",
+    "Hint",
+    "Spiritual",
+    "Clockwork",
+    "Synchronized",
+    "Goddesses",
+    "Clockwork",
+    "Clockwork",
+    "Synchronized",
+    "Goddesses",
+    "Clockwork",
+    "As",
+    "\"What",
+    "In",
+    "of",
+    "Six",
+    "In",
+    "In",
+    "Nevermore",
+    "Invisible",
+    "Infinity,",
+    "All",
+    "Are",
+    "Through",
+    "To",
+    "Or",
+    "Atomized...at",
+    "Or",
+    "To",
+    "I",
+    "And",
+    "Flew",
+    "Sailed",
+    "On",
+    "Wheeling",
+    "Headed",
+    "Headlong",
+    "The",
+    "My",
+    "Nearer",
+    "Until",
+    "Gains",
+    "Spinning,",
+    "Still",
+    "Like",
+    "Unending...",
+    "Sound",
+    "Drown",
+    "Every",
+    "Is",
+    "To",
+    "His",
+    "We",
+    "Under",
+    "Where",
+    "He",
+    "Radio",
+    "From",
+    "With",
+    "He'd",
+    "He's",
+    "He'd",
+    "To",
+    "His",
+    "Subdivided",
+    "His",
+    "In",
+    "He",
+    "He's",
+    "Because",
+    "Constant",
+    "He's",
+    "He's",
+    "He",
+    "But",
+    "He's",
+    "An",
+    "Across",
+    "There's",
+    "No",
+    "Red",
+    "Red",
+    "It's",
+    "Passing",
+    "We",
+    "And",
+    "Incomplete",
+    "Incomplete",
+    "The",
+    "But",
+    "You",
+    "But",
+    "I",
+    "To",
+    "But",
+    "And",
+    "Cruising",
+    "Watching",
+    "Take",
+    "Keep",
+    "Red",
+    "Red",
+    "Left",
+    "Black",
+    "Who",
+    "That",
+    "Obsolete",
+    "Absolute",
+    "The",
+    "But",
+    "You",
+    "But",
+    "I",
+    "To",
+    "But",
+    "And",
+    "The",
+    "But",
+    "You",
+    "But",
+    "I",
+    "To",
+    "But",
+    "And",
+    "Absalom",
+    "Absalom",
+    "Absalom",
+    "He's",
+    "A",
+    "All",
+    "She's",
+    "A",
+    "Under",
+    "They",
+    "On",
+    "Like",
+    "We're",
+    "On",
+    "He's",
+    "A",
+    "All",
+    "She's",
+    "The",
+    "Far",
+    "They",
+    "A",
+    "Like",
+    "We're",
+    "On",
+    "When",
+    "Wandering",
+    "Wondering",
+    "Learning",
+    "For",
+    "Time",
+    "Steals",
+    "To",
+    "Distance",
+    "Memory",
+    "Left",
+    "We",
+    "A",
+    "Like",
+    "We're",
+    "On",
+    "When",
+    "Wandering",
+    "Wondering",
+    "Learning",
+    "For",
+    "We",
+    "On",
+    "Like",
+    "We're",
+    "On",
+    "Pariah",
+    "Barking",
+    "The",
+    "Electrical",
+    "It's",
+    "It's",
+    "You",
+    "You",
+    "One",
+    "And",
+    "I",
+    "I",
+    "One",
+    "And",
+    "I",
+    "I",
+    "Whirlwind",
+    "Rise",
+    "Slow",
+    "Full",
+    "It's",
+    "It's",
+    "You",
+    "You",
+    "One",
+    "And",
+    "I",
+    "I",
+    "One",
+    "And",
+    "I",
+    "I",
+    "It's",
+    "You",
+    "You",
+    "One",
+    "And",
+    "I",
+    "I",
+    "One",
+    "And",
+    "I",
+    "I",
+    "One",
+    "And",
+    "I",
+    "I",
+    "Why",
+    "The",
+    "Clear",
+    "It's",
+    "Fly",
+    "Change",
+    "Fly",
+    "My",
+    "Moon",
+    "Staring",
+    "No",
+    "Leaving",
+    "Start",
+    "Find",
+    "It's",
+    "The",
+    "Is",
+    "To",
+    "Quiet",
+    "My",
+    "The",
+    "Leaving",
+    "Playing",
+    "My",
+    "There",
+    "A",
+    "A",
+    "We",
+    "Of",
+    "'The",
+    "Or",
+    "Blame",
+    "You",
+    "If",
+    "You",
+    "I",
+    "I",
+    "There",
+    "That",
+    "The",
+    "They",
+    "All",
+    "A",
+    "A",
+    "Kicked",
+    "You",
+    "In",
+    "Each",
+    "A",
+    "Imperfect",
+    "Genetic",
+    "With",
+    "On",
+    "I",
+    "My",
+    "I've",
+    "I",
+    "I",
+    "Seems",
+    "We",
+    "Dreams",
+    "And",
+    "Now",
+    "So",
+    "Walk",
+    "Memory",
+    "Wall",
+    "Dressed",
+    "Once",
+    "Now",
+    "Once",
+    "But",
+    "Now",
+    "And",
+    "What",
+    "Take",
+    "My",
+    "I'm",
+    "But",
+    "I'll",
+    "When",
+    "The",
+    "The",
+    "Sought",
+    "They",
+    "But",
+    "The",
+    "Every",
+    "'I",
+    "I",
+    "Precious",
+    "We",
+    "I",
+    "I",
+    "Show",
+    "Through",
+    "You",
+    "In",
+    "The",
+    "Coming",
+    "They",
+    "And",
+    "But",
+    "Yet",
+    "The",
+    "Seemed",
+    "The",
+    "And",
+    "In",
+    "To",
+    "'I",
+    "In",
+    "In",
+    "You",
+    "Only",
+    "I",
+    "I",
+    "I",
+    "Throw",
+    "And",
+    "The",
+    "And",
+    "They",
+    "They",
+    "Food",
+    "And",
+    "The",
+    "And",
+    "But",
+    "And",
+    "Bringing",
+    "And",
+    "The",
+    "As",
+    "With",
+    "For",
+    "In",
+    "Their",
+    "Hemispheres",
+    "Some",
+    "Most",
+    "Lost",
+    "For",
+    "And",
+    "Their",
+    "Hemispheres",
+    "Some",
+    "Brought",
+    "'My",
+    "On",
+    "To",
+    "We",
+    "Spiralled",
+    "To",
+    "I",
+    "But",
+    "As",
+    "I",
+    "I",
+    "As",
+    "To",
+    "Marble",
+    "I",
+    "Thunderbolts",
+    "I",
+    "I",
+    "Then",
+    "A",
+    "The",
+    "And",
+    "Apollo",
+    "Dionysus",
+    "But",
+    "And",
+    "Looking",
+    "On",
+    "Its",
+    "Into",
+    "They",
+    "Then",
+    "'We",
+    "The",
+    "We",
+    "If",
+    "We",
+    "If",
+    "Let",
+    "Let",
+    "Sensibility",
+    "Armed",
+    "With",
+    "Perfect",
+    "Sphere",
+    "Living",
+    "Approaches",
+    "For",
+    "In",
+    "Beyond",
+    "Cast",
+    "Ill-equipped",
+    "With",
+    "One",
+    "To",
+    "[Chorus:]",
+    "Living",
+    "The",
+    "For",
+    "Those",
+    "Must",
+    "Get",
+    "The",
+    "The",
+    "Living",
+    "Caught",
+    "I",
+    "I",
+    "Is",
+    "All",
+    "And",
+    "Performers",
+    "Each",
+    "Outside",
+    "Imagine",
+    "when",
+    "In",
+    "A",
+    "Whoever",
+    "would",
+    "They",
+    "Imagine",
+    "where",
+    "A",
+    "In",
+    "always",
+    "To",
+    "To",
+    "But",
+    "The",
+    "Shot",
+    "The",
+    "When",
+    "The",
+    "Fools",
+    "The",
+    "Whatever",
+    "Imagine",
+    "Gathered",
+    "To",
+    "All",
+    "To",
+    "More",
+    "The",
+    "Shot",
+    "The",
+    "Whatever",
+    "Imagine",
+    "The",
+    "Flying",
+    "on",
+    "All",
+    "Would",
+    "The",
+    "Shot",
+    "The",
+    "When",
+    "The",
+    "Fools",
+    "The",
+    "Whatever",
+    "The",
+    "Shot",
+    "The",
+    "Whatever",
+    "So",
+    "When",
+    "Things",
+    "Things",
+    "The",
+    "The",
+    "We",
+    "And",
+    "Mystic",
+    "Capture",
+    "Carry",
+    "Mysteries",
+    "Mystic",
+    "Under",
+    "Or",
+    "Primitive",
+    "The",
+    "We",
+    "A",
+    "Was",
+    "Stringing",
+    "More",
+    "Unseen",
+    "We",
+    "And",
+    "Mystic",
+    "Capture",
+    "Carry",
+    "Nature",
+    "A",
+    "Mystic",
+    "Under",
+    "Or",
+    "We",
+    "Mystic",
+    "Capture",
+    "Carry",
+    "Mysteries",
+    "Mystic",
+    "Under",
+    "Or",
+    "We",
+    "When",
+    "Along",
+    "It",
+    "In",
+    "Each",
+    "A",
+    "A",
+    "To",
+    "All",
+    "Chasing",
+    "Living",
+    "They",
+    "Wheels",
+    "A",
+    "Time",
+    "Our",
+    "A",
+    "In",
+    "The",
+    "The",
+    "Triumphant",
+    "A",
+    "Computerized",
+    "For",
+    "Who",
+    "In",
+    "Their",
+    "No",
+    "Science,",
+    "Must",
+    "With",
+    "Given",
+    "State",
+    "It",
+    "Art",
+    "Not",
+    "Will",
+    "Given",
+    "State",
+    "It",
+    "The",
+    "The",
+    "Will",
+    "Forming",
+    "State",
+    "Sensitive,",
+    "Wave",
+    "And",
+    "Tide",
+    "Leaving",
+    "He's",
+    "He's",
+    "He's",
+    "Wants",
+    "He's",
+    "But",
+    "He's",
+    "To",
+    "Learning",
+    "Learning",
+    "He's",
+    "And",
+    "He's",
+    "But",
+    "He's",
+    "But",
+    "He's",
+    "He's",
+    "Tuned",
+    "He's",
+    "And",
+    "He's",
+    "With",
+    "He's",
+    "And",
+    "Trying",
+    "Trying",
+    "He's",
+    "He",
+    "He's",
+    "But",
+    "He's",
+    "But",
+    "He's",
+    "A",
+    "Willing",
+    "A",
+    "A",
+    "A",
+    "To",
+    "A",
+    "In",
+    "Celebrate",
+    "As",
+    "Another",
+    "Another",
+    "The",
+    "In",
+    "Just",
+    "A",
+    "One",
+    "The",
+    "One",
+    "A",
+    "A",
+    "A",
+    "Daring",
+    "A",
+    "To",
+    "A",
+    "A",
+    "Basic",
+    "Stirs",
+    "Thrill",
+    "Alternating",
+    "Rational",
+    "Anything",
+    "From",
+    "To",
+    "At",
+    "To",
+    "From",
+    "To",
+    "The",
+    "Anything",
+    "Basic",
+    "Alter",
+    "Lenses",
+    "Alternating",
+    "Rational",
+    "Anything",
+    "From",
+    "To",
+    "The",
+    "From",
+    "Until",
+    "The",
+    "Anything",
+    "I",
+    "Turn",
+    "Activate",
+    "And",
+    "I",
+    "Turn",
+    "Activate",
+    "And",
+    "From",
+    "To",
+    "At",
+    "To",
+    "From",
+    "To",
+    "The",
+    "Is",
+    "Anything",
+    "Sunlight",
+    "Soft",
+    "Lying",
+    "Feel",
+    "Elven",
+    "Sweet",
+    "Time",
+    "Here",
+    "I've",
+    "It",
+    "Of",
+    "When",
+    "From",
+    "'Til",
+    "We",
+    "And",
+    "You",
+    "You're",
+    "To",
+    "A",
+    "Where",
+    "Peace",
+    "We",
+    "Dark",
+    "Stop",
+    "The",
+    "Yet",
+    "Standing",
+    "This",
+    "'Til",
+    "You",
+    "You're",
+    "To",
+    "A",
+    "Where",
+    "Peace",
+    "A",
+    "Wandering",
+    "Parched",
+    "A",
+    "Canyons",
+    "Endless",
+    "Searching",
+    "Sculptured",
+    "Seven",
+    "Stories",
+    "Seven",
+    "A",
+    "Seven",
+    "Glowing",
+    "Glitter",
+    "Distant",
+    "A",
+    "Rewrite",
+    "Recapture",
+    "A",
+    "Sunblind",
+    "Frozen",
+    "And",
+    "Wake",
+    "Seven",
+    "Stories",
+    "Seven",
+    "A",
+    "Seven",
+    "Glowing",
+    "Glitter",
+    "Distant",
+    "That",
+    "A",
+    "Seven",
+    "Stories",
+    "Seven",
+    "A",
+    "Seven",
+    "Glowing",
+    "Glitter",
+    "Distant",
+    "How",
+    "It",
+    "Everyone",
+    "And",
+    "Until",
+    "Who",
+    "It's",
+    "But",
+    "We",
+    "Until",
+    "Show...don't",
+    "(Show",
+    "You've",
+    "(Show",
+    "I've",
+    "(Show",
+    "I",
+    "(Show",
+    "You",
+    "Reality",
+    "You",
+    "I",
+    "And",
+    "I'll",
+    "Watching",
+    "Give",
+    "Based",
+    "I,",
+    "(Show",
+    "Hey,",
+    "(Show",
+    "Let's",
+    "(Show",
+    "Enough",
+    "(Show",
+    "Witness",
+    "(Show",
+    "(Show",
+    "Hey,",
+    "(Show",
+    "Let's",
+    "(Show",
+    "I",
+    "(Show",
+    "Let's",
+    "Sprawling",
+    "In",
+    "An",
+    "In",
+    "And",
+    "Growing",
+    "Opinions",
+    "The",
+    "Detached",
+    "In",
+    "Nowhere",
+    "Subdivisions",
+    "In",
+    "In",
+    "Conform",
+    "Subdivisions",
+    "In",
+    "In",
+    "Be",
+    "Any",
+    "But",
+    "Drawn",
+    "The",
+    "Cruising",
+    "Lit",
+    "Just",
+    "Some",
+    "Or",
+    "Get",
+    "And",
+    "To",
+    "Somewhere",
+    "Packaged",
+    "Target",
+    "To",
+    "He",
+    "Package",
+    "Careful",
+    "The",
+    "She's",
+    "Hit",
+    "A",
+    "A",
+    "That",
+    "Watch",
+    "Superconductor",
+    "Orchestrate",
+    "Superconductor",
+    "Watch",
+    "Superconductor",
+    "Hoping",
+    "Designing",
+    "That's",
+    "He",
+    "Bask",
+    "Reality",
+    "Now",
+    "The",
+    "She's",
+    "The",
+    "She",
+    "Hit",
+    "With",
+    "They",
+    "That",
+    "Watch",
+    "Superconductor",
+    "She",
+    "Superconductor",
+    "Watch",
+    "Superconductor",
+    "Pin",
+    "Fantasy",
+    "That's",
+    "One",
+    "One",
+    "Seeking",
+    "Trying",
+    "Trying",
+    "Images",
+    "1",
+    "SOS",
+    "1",
+    "In",
+    "1",
+    "Memory",
+    "Bytes",
+    "Unit",
+    "Guidance",
+    "A",
+    "To",
+    "A",
+    "It",
+    "A",
+    "Bows",
+    "To",
+    "I",
+    "I",
+    "I",
+    "I",
+    "Look",
+    "I",
+    "Sight",
+    "Life",
+    "My",
+    "And",
+    "Images",
+    "Don't",
+    "Just",
+    "The",
+    "My",
+    "And",
+    "Yet",
+    "The",
+    "Fascinates",
+    "Gives",
+    "The",
+    "In",
+    "'Til",
+    "The",
+    "Living",
+    "For",
+    "I've",
+    "Or",
+    "I",
+    "I",
+    "I",
+    "To",
+    "Stay!",
+    "Work!",
+    "Learn!",
+    "Earn!",
+    "Stay",
+    "Listen!",
+    "Crying",
+    "The",
+    "The",
+    "Drawn",
+    "Seaspray",
+    "Waves",
+    "Save",
+    "I'm",
+    "Remembering",
+    "The",
+    "I",
+    "And",
+    "But",
+    "And",
+    "Why",
+    "When",
+    "Call",
+    "And",
+    "Shout",
+    "But",
+    "Cry",
+    "For",
+    "Scream",
+    "But",
+    "The",
+    "Is",
+    "I",
+    "Have",
+    "I",
+    "And",
+    "My",
+    "Am",
+    "Panacea,",
+    "Oh",
+    "Enchantment",
+    "And",
+    "Here's",
+    "A",
+    "Pacify",
+    "Her",
+    "Naked",
+    "A",
+    "Gentle",
+    "Comfort",
+    "Yet",
+    "Before",
+    "Panacea,",
+    "I",
+    "My",
+    "And",
+    "Another",
+    "Silhouettes",
+    "Another",
+    "Drink",
+    "To",
+    "Nights",
+    "Draw",
+    "From",
+    "Crimson",
+    "Hazy",
+    "Give",
+    "I've",
+    "I",
+    "There's",
+    "Another",
+    "The",
+    "Another",
+    "The",
+    "My",
+    "And",
+    "Look!",
+    "And",
+    "See",
+    "As",
+    "Hear",
+    "I",
+    "Feel,",
+    "With",
+    "Now,",
+    "The",
+    "I",
+    "But",
+    "Many",
+    "But,",
+    "Life",
+    "Must",
+    "The",
+    "Stripped",
+    "Still",
+    "And",
+    "Though",
+    "It's",
+    "Like",
+    "I'll",
+    "I'm",
+    "I",
+    "I",
+    "I",
+    "I'm",
+    "I'm",
+    "I'm",
+    "At",
+    "Still",
+    "As",
+    "the",
+    "emerge",
+    "Fording",
+    "into",
+    "Even",
+    "weakening",
+    "Ultimately",
+    "stripped",
+    "their",
+    "Silence",
+    "As",
+    "Three",
+    "And",
+    "The",
+    "The",
+    "The",
+    "Weighs",
+    "Shreds",
+    "The",
+    "He",
+    "trapped",
+    "Brooding",
+    "Watching",
+    "Holding",
+    "Helplessly",
+    "Gaze",
+    "Knowing",
+    "Lead",
+    "Spectres",
+    "They",
+    "Enter",
+    "Prince",
+    "The",
+    "The",
+    "away",
+    "Stealthily",
+    "By-Tor",
+    "The",
+    "From",
+    "The",
+    "Shadows",
+    "Another",
+    "With",
+    "We've",
+    "Not",
+    "Not",
+    "Not",
+    "With",
+    "We",
+    "In",
+    "Thy",
+    "And",
+    "He's",
+    "He",
+    "He's",
+    "But",
+    "And",
+    "Can",
+    "Even",
+    "And",
+    "Is",
+    "Like",
+    "We",
+    "They",
+    "They",
+    "And",
+    "I",
+    "To",
+    "Before",
+    "Driven",
+    "To",
+    "I",
+    "I'd",
+    "No",
+    "Like",
+    "Who",
+    "Learns",
+    "(Time",
+    "I'm",
+    "But",
+    "(Time",
+    "See",
+    "Time",
+    "Freeze",
+    "Make",
+    "Experience",
+    "Experience",
+    "Time",
+    "I",
+    "Close",
+    "Let",
+    "All",
+    "I",
+    "No",
+    "If",
+    "Like",
+    "I",
+    "(Time",
+    "I'm",
+    "But",
+    "(Time",
+    "See",
+    "Freeze",
+    "Make",
+    "Make",
+    "Freeze",
+    "The",
+    "The",
+    "Time",
+    "Time",
+    "I'm",
+    "But",
+    "See",
+    "Time",
+    "Summer's",
+    "Children",
+    "Freeze",
+    "Make",
+    "Experience",
+    "Experience",
+    "The",
+    "A",
+    "Mean,",
+    "Today's",
+    "Mean,",
+    "Though",
+    "Don't",
+    "His",
+    "Riding",
+    "The",
+    "What",
+    "Is",
+    "Catch",
+    "Catch",
+    "The",
+    "Love",
+    "Maybe",
+    "Today's",
+    "He",
+    "And",
+    "He",
+    "No",
+    "To",
+    "Always",
+    "He",
+    "But",
+    "What",
+    "Is",
+    "Catch",
+    "Catch",
+    "The",
+    "Love",
+    "Maybe",
+    "Exit",
+    "Today's",
+    "He",
+    "And",
+    "He",
+    "Stratospheric",
+    "Trails",
+    "In",
+    "The",
+    "The",
+    "All",
+    "The",
+    "Horizon",
+    "Memory",
+    "Fading",
+    "Swept",
+    "In",
+    "Atmospheric",
+    "Vaporize",
+    "Silence",
+    "Stilled",
+    "Forests",
+    "Everything",
+    "Washed",
+    "In",
+    "Like",
+    "Clinging",
+    "I'm",
+    "I",
+    "Net",
+    "Send",
+    "Let",
+    "And",
+    "Net",
+    "Send",
+    "Put",
+    "And",
+    "Astronauts",
+    "Exchange",
+    "I",
+    "I",
+    "Let's",
+    "To",
+    "Press",
+    "And",
+    "Let's",
+    "On",
+    "Press",
+    "To",
+    "Like",
+    "Or",
+    "I",
+    "I",
+    "I",
+    "Net",
+    "Send",
+    "Unstable",
+    "A",
+    "In",
+    "Atmospheric",
+    "The",
+    "Of",
+    "The",
+    "Sometimes",
+    "By",
+    "Signals",
+    "And",
+    "By",
+    "A",
+    "Everybody",
+    "Everybody",
+    "Everybody",
+    "About",
+    "Everybody",
+    "An",
+    "A",
+    "Process",
+    "Pause,",
+    "Warm",
+    "Random",
+    "Leave",
+    "The",
+    "Will",
+    "Leave",
+    "Courageous",
+    "Will",
+    "A",
+    "Everybody",
+    "Everybody",
+    "Everybody",
+    "About",
+    "Everybody",
+    "To",
+    "To",
+    "To",
+    "And",
+    "I",
+    "The",
+    "From",
+    "I",
+    "Time",
+    "Searching",
+    "Xanadu",
+    "To",
+    "Decreed",
+    "To",
+    "The",
+    "To",
+    "To",
+    "Oh,",
+    "And",
+    "A",
+    "Stars",
+    "Frozen",
+    "Waiting",
+    "Praying",
+    "Prison",
+    "Xanadu",
+    "Xanadu",
+    "Held",
+    "Decreed",
+    "To",
+    "As",
+    "Nevermore",
+    "Escape",
+    "For",
+    "And"
+  ]
+}
