@@ -7,7 +7,7 @@ const config = require("../lib/config");
 const response = require("../lib/response");
 const html = require("../lib/html");
 
-const MAX_ITEMS = 15;
+const MAX_ITEMS = 30;
 
 module.exports.get = async (event, context) => {
   const { log, bots, SITE_URL, STATIC_BUCKET: Bucket } = await config({
@@ -29,7 +29,8 @@ module.exports.get = async (event, context) => {
   const listResult = await S3.listObjects({
     Bucket,
     Prefix: `${name}/objects/Create/`,
-    MaxKeys: MAX_ITEMS,
+    // HACK: We're getting both .html and .json, so double the limit.
+    MaxKeys: MAX_ITEMS * 2,
   }).promise();
 
   const items = await Promise.all(
