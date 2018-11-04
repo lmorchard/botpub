@@ -30,6 +30,10 @@ exports.onCreateNote = async ({ send }) => {
 };
 
 exports.onPeriodic = async ({ config, bot }) => {
+  // HACK: be lazy and skip writing for 90% of scheduled runs.
+  if (Math.random() < 0.6) {
+    return false;
+  }
   return deliverActivity({
     bot,
     config,

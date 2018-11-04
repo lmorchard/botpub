@@ -31,7 +31,7 @@ const generateText = () => {
   for (let i = 0; i < lines; i++) {
     out.push(markov.generate());
   }
-  return "<p>" + out.join("<br>") + "</p>";
+  return out.join("<br>");
 };
 
 exports.onCreateNote = async ({ send }) => {
